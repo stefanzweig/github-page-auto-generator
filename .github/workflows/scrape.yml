@@ -34,7 +34,8 @@ jobs:
       uses: actions/configure-pages@v4
     - name: Build atom feed
       run: |
-        cat *.json | python to_atom.py > atom.xml
+        mkdir _site
+        cat *.json | python to_atom.py > _site/atom.xml
     - name: Upload artifact
       uses: actions/upload-pages-artifact@v3
   deploy:
