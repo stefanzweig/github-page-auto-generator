@@ -62,9 +62,10 @@ def json_to_atom(
         inaturalist_url = f"https://www.inaturalist.org/observations/{obs_id}"
         ET.SubElement(entry, "id").text = inaturalist_url
 
-        # Use the observation time as entry title and updated time
+        # Use the place_guess as the entry title instead of observation ID
         observation_time = item.get("time_observed_at")
-        title_text = f"Observation {obs_id} at {observation_time}"
+        place = item.get("place_guess", "Unknown location")
+        title_text = f"Brown Pelican at {place}"
         ET.SubElement(entry, "title").text = title_text
         ET.SubElement(entry, "updated").text = observation_time
 
@@ -150,7 +151,7 @@ def main():
     print(
         json_to_atom(
             data,
-            feed_title="Nature Observations",
+            feed_title="California Brown Pelican Sightings",
             feed_id="https://example.com/observations/feed",
             author_name="Observation Feed Generator",
             feed_updated=now,
