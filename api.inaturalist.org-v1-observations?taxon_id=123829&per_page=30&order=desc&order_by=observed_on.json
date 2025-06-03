@@ -1,5 +1,5 @@
 {
-  "total_results": 6042,
+  "total_results": 6041,
   "page": 1,
   "per_page": 30,
   "results": [
@@ -278,59 +278,6 @@
         ]
       },
       "place_guess": "Sunset Cliffs, San Diego, CA 92107, USA"
-    },
-    {
-      "id": 285673456,
-      "time_observed_at": "2025-05-27T19:37:19-07:00",
-      "observed_time_zone": "America/Hermosillo",
-      "observation_photos": [
-        {
-          "id": 477388686,
-          "position": 0,
-          "uuid": "c6aa3296-19e9-4be2-836a-ed1ee73b4160",
-          "photo_id": 513488702,
-          "photo": {
-            "id": 513488702,
-            "license_code": "cc-by-nc",
-            "original_dimensions": {
-              "width": 2048,
-              "height": 1536
-            },
-            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/513488702/square.jpg",
-            "attribution": "(c) Eric Hough, some rights reserved (CC BY-NC)",
-            "flags": [],
-            "moderator_actions": [],
-            "hidden": false
-          }
-        },
-        {
-          "id": 477388750,
-          "position": 1,
-          "uuid": "b9855fd5-326e-4fcf-a402-af46a1219b4f",
-          "photo_id": 513488757,
-          "photo": {
-            "id": 513488757,
-            "license_code": "cc-by-nc",
-            "original_dimensions": {
-              "width": 2048,
-              "height": 1536
-            },
-            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/513488757/square.jpg",
-            "attribution": "(c) Eric Hough, some rights reserved (CC BY-NC)",
-            "flags": [],
-            "moderator_actions": [],
-            "hidden": false
-          }
-        }
-      ],
-      "geojson": {
-        "type": "Point",
-        "coordinates": [
-          -111.9420166667,
-          28.8199166667
-        ]
-      },
-      "place_guess": "Bahía Kino, MX"
     },
     {
       "id": 284599406,
@@ -1421,6 +1368,40 @@
         ]
       },
       "place_guess": "San Francisco, Kalifornien, USA"
+    },
+    {
+      "id": 284740565,
+      "time_observed_at": "2025-05-24T13:13:00-07:00",
+      "observed_time_zone": "America/Los_Angeles",
+      "observation_photos": [
+        {
+          "id": 475797548,
+          "position": 0,
+          "uuid": "5a83a707-11cc-4e20-b704-1a73b7acffee",
+          "photo_id": 511762239,
+          "photo": {
+            "id": 511762239,
+            "license_code": null,
+            "original_dimensions": {
+              "width": 1224,
+              "height": 811
+            },
+            "url": "https://static.inaturalist.org/photos/511762239/square.jpg",
+            "attribution": "(c) skepticgam, all rights reserved",
+            "flags": [],
+            "moderator_actions": [],
+            "hidden": false
+          }
+        }
+      ],
+      "geojson": {
+        "type": "Point",
+        "coordinates": [
+          -118.6816626656,
+          34.0325873031
+        ]
+      },
+      "place_guess": "Eastern Malibu, Malibu, CA, USA"
     }
   ]
 }
