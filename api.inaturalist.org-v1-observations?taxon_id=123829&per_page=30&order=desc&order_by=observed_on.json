@@ -1,5 +1,5 @@
 {
-  "total_results": 6049,
+  "total_results": 6050,
   "page": 1,
   "per_page": 30,
   "results": [
@@ -528,6 +528,59 @@
         ]
       },
       "place_guess": "Sunset Cliffs, San Diego, CA 92107, USA"
+    },
+    {
+      "id": 284740541,
+      "time_observed_at": "2025-05-27T18:55:28-07:00",
+      "observed_time_zone": "America/Tijuana",
+      "observation_photos": [
+        {
+          "id": 475797507,
+          "position": 0,
+          "uuid": "8b591a44-0b20-4186-86a7-2de53126780e",
+          "photo_id": 511762257,
+          "photo": {
+            "id": 511762257,
+            "license_code": "cc-by-nc",
+            "original_dimensions": {
+              "width": 1542,
+              "height": 2048
+            },
+            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/511762257/square.jpg",
+            "attribution": "(c) Ismael Jauregui Bulbarela, some rights reserved (CC BY-NC)",
+            "flags": [],
+            "moderator_actions": [],
+            "hidden": false
+          }
+        },
+        {
+          "id": 475797518,
+          "position": 1,
+          "uuid": "ae46d02e-b271-4f9b-92f9-388f2dbd5969",
+          "photo_id": 511762272,
+          "photo": {
+            "id": 511762272,
+            "license_code": "cc-by-nc",
+            "original_dimensions": {
+              "width": 1542,
+              "height": 2048
+            },
+            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/511762272/square.jpg",
+            "attribution": "(c) Ismael Jauregui Bulbarela, some rights reserved (CC BY-NC)",
+            "flags": [],
+            "moderator_actions": [],
+            "hidden": false
+          }
+        }
+      ],
+      "geojson": {
+        "type": "Point",
+        "coordinates": [
+          -116.6268021986,
+          31.8573863433
+        ]
+      },
+      "place_guess": "Ignacio Altamirano, Ensenada, B.C., México"
     },
     {
       "id": 284599406,
@@ -1406,59 +1459,6 @@
         ]
       },
       "place_guess": "Santa Cruz Wharf, Santa Cruz, CA, US"
-    },
-    {
-      "id": 284175204,
-      "time_observed_at": "2025-05-25T13:16:00-07:00",
-      "observed_time_zone": "America/Los_Angeles",
-      "observation_photos": [
-        {
-          "id": 474805741,
-          "position": 0,
-          "uuid": "c8ae7831-8514-40fa-9a33-e77206fc00a7",
-          "photo_id": 510688048,
-          "photo": {
-            "id": 510688048,
-            "license_code": "cc-by-nc",
-            "original_dimensions": {
-              "width": 2048,
-              "height": 1536
-            },
-            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/510688048/square.jpg",
-            "attribution": "(c) californiaredwood, some rights reserved (CC BY-NC)",
-            "flags": [],
-            "moderator_actions": [],
-            "hidden": false
-          }
-        },
-        {
-          "id": 474805742,
-          "position": 1,
-          "uuid": "862ed7b2-81f2-41d5-b816-905033e88c2d",
-          "photo_id": 510688044,
-          "photo": {
-            "id": 510688044,
-            "license_code": "cc-by-nc",
-            "original_dimensions": {
-              "width": 2048,
-              "height": 1536
-            },
-            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/510688044/square.jpg",
-            "attribution": "(c) californiaredwood, some rights reserved (CC BY-NC)",
-            "flags": [],
-            "moderator_actions": [],
-            "hidden": false
-          }
-        }
-      ],
-      "geojson": {
-        "type": "Point",
-        "coordinates": [
-          -122.2499379,
-          37.521681
-        ]
-      },
-      "place_guess": "Nob Hill Pond, Redwood City, CA 94065, USA"
     }
   ]
 }
