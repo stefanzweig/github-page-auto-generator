@@ -63,11 +63,11 @@
         }
       ],
       "geojson": {
-        "type": "Point",
         "coordinates": [
           -126.1980555207,
           49.2317410616
-        ]
+        ],
+        "type": "Point"
       },
       "place_guess": "Alberni-Clayoquot, BC, Canada"
     },
