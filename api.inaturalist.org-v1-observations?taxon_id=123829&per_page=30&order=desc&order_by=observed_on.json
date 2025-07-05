@@ -1,5 +1,5 @@
 {
-  "total_results": 6249,
+  "total_results": 6253,
   "page": 1,
   "per_page": 30,
   "results": [
@@ -55,6 +55,40 @@
         ]
       },
       "place_guess": "Liberty Station, San Diego, CA, USA"
+    },
+    {
+      "id": 295426109,
+      "time_observed_at": "2025-07-04T17:55:57-07:00",
+      "observed_time_zone": "America/Los_Angeles",
+      "observation_photos": [
+        {
+          "id": 494239915,
+          "position": 0,
+          "uuid": "e0264e53-9082-43a8-b66d-ae85759a2a69",
+          "photo_id": 531834883,
+          "photo": {
+            "id": 531834883,
+            "license_code": "cc-by-nc",
+            "original_dimensions": {
+              "width": 1640,
+              "height": 2048
+            },
+            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/531834883/square.jpg",
+            "attribution": "(c) cricket1968, some rights reserved (CC BY-NC)",
+            "flags": [],
+            "moderator_actions": [],
+            "hidden": false
+          }
+        }
+      ],
+      "geojson": {
+        "type": "Point",
+        "coordinates": [
+          -122.3098307741,
+          37.8900152592
+        ]
+      },
+      "place_guess": "San Francisco Bay, Albany, CA, US"
     },
     {
       "id": 295256621,
@@ -214,6 +248,59 @@
         ]
       },
       "place_guess": "Point Lobos State Natural Reserve, Carmel, CA, US"
+    },
+    {
+      "id": 294460095,
+      "time_observed_at": "2025-07-01T16:18:39-07:00",
+      "observed_time_zone": "America/Los_Angeles",
+      "observation_photos": [
+        {
+          "id": 492572693,
+          "position": 0,
+          "uuid": "92bf41ea-851f-4be6-b6ca-229be37265a7",
+          "photo_id": 530014893,
+          "photo": {
+            "id": 530014893,
+            "license_code": null,
+            "original_dimensions": {
+              "width": 1437,
+              "height": 2048
+            },
+            "url": "https://static.inaturalist.org/photos/530014893/square.jpg",
+            "attribution": "(c) Warren Apel, all rights reserved",
+            "flags": [],
+            "moderator_actions": [],
+            "hidden": false
+          }
+        },
+        {
+          "id": 492572692,
+          "position": 1,
+          "uuid": "5042ca8d-7a14-4085-8619-5478eb03f01b",
+          "photo_id": 530014897,
+          "photo": {
+            "id": 530014897,
+            "license_code": null,
+            "original_dimensions": {
+              "width": 1536,
+              "height": 2048
+            },
+            "url": "https://static.inaturalist.org/photos/530014897/square.jpg",
+            "attribution": "(c) Warren Apel, all rights reserved",
+            "flags": [],
+            "moderator_actions": [],
+            "hidden": false
+          }
+        }
+      ],
+      "geojson": {
+        "type": "Point",
+        "coordinates": [
+          -119.2477033333,
+          34.1975533333
+        ]
+      },
+      "place_guess": "Ventura County, US-CA, US"
     },
     {
       "id": 294216419,
@@ -1236,74 +1323,6 @@
         "coordinates": [
           -119.6882027778,
           34.4048277778
-        ]
-      },
-      "place_guess": "Santa Barbara, CA, USA"
-    },
-    {
-      "id": 290795870,
-      "time_observed_at": "2025-06-18T13:17:00-07:00",
-      "observed_time_zone": "America/Los_Angeles",
-      "observation_photos": [
-        {
-          "id": 486268839,
-          "position": 0,
-          "uuid": "73a677d7-7b95-4e14-8879-3481c75e4d6f",
-          "photo_id": 523152351,
-          "photo": {
-            "id": 523152351,
-            "license_code": "cc-by-nc",
-            "original_dimensions": {
-              "width": 2048,
-              "height": 1536
-            },
-            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/523152351/square.jpg",
-            "attribution": "(c) hydrozobot, some rights reserved (CC BY-NC)",
-            "flags": [],
-            "moderator_actions": [],
-            "hidden": false
-          }
-        }
-      ],
-      "geojson": {
-        "type": "Point",
-        "coordinates": [
-          -119.687775,
-          34.40485
-        ]
-      },
-      "place_guess": "Santa Barbara, CA, USA"
-    },
-    {
-      "id": 290796587,
-      "time_observed_at": "2025-06-18T13:14:00-07:00",
-      "observed_time_zone": "America/Los_Angeles",
-      "observation_photos": [
-        {
-          "id": 486270079,
-          "position": 0,
-          "uuid": "7f71e5e8-9281-4d4c-be1b-0464b03b52f4",
-          "photo_id": 523153813,
-          "photo": {
-            "id": 523153813,
-            "license_code": "cc-by-nc",
-            "original_dimensions": {
-              "width": 2048,
-              "height": 1536
-            },
-            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/523153813/square.jpg",
-            "attribution": "(c) hydrozobot, some rights reserved (CC BY-NC)",
-            "flags": [],
-            "moderator_actions": [],
-            "hidden": false
-          }
-        }
-      ],
-      "geojson": {
-        "type": "Point",
-        "coordinates": [
-          -119.6882861111,
-          34.4049138889
         ]
       },
       "place_guess": "Santa Barbara, CA, USA"
