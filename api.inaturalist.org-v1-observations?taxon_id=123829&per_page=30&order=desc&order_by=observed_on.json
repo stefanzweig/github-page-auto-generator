@@ -1,8 +1,76 @@
 {
-  "total_results": 6265,
+  "total_results": 6268,
   "page": 1,
   "per_page": 30,
   "results": [
+    {
+      "id": 296164878,
+      "time_observed_at": "2025-07-07T16:25:00-07:00",
+      "observed_time_zone": "America/Los_Angeles",
+      "observation_photos": [
+        {
+          "id": 495541817,
+          "position": 0,
+          "uuid": "7208c57b-84ff-4723-81db-7473cec8fe81",
+          "photo_id": 533246137,
+          "photo": {
+            "id": 533246137,
+            "license_code": "cc-by-nc",
+            "original_dimensions": {
+              "width": 2048,
+              "height": 1439
+            },
+            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/533246137/square.jpg",
+            "attribution": "(c) James Maughn, some rights reserved (CC BY-NC)",
+            "flags": [],
+            "moderator_actions": [],
+            "hidden": false
+          }
+        }
+      ],
+      "geojson": {
+        "type": "Point",
+        "coordinates": [
+          -121.9233791936,
+          36.9710948522
+        ]
+      },
+      "place_guess": "Santa Cruz County, CA, USA"
+    },
+    {
+      "id": 296065287,
+      "time_observed_at": "2025-07-07T07:23:00-07:00",
+      "observed_time_zone": "America/Los_Angeles",
+      "observation_photos": [
+        {
+          "id": 495359531,
+          "position": 0,
+          "uuid": "8b81ada4-9d5f-4fbe-bb83-e93f71f4deee",
+          "photo_id": 533052616,
+          "photo": {
+            "id": 533052616,
+            "license_code": "cc-by",
+            "original_dimensions": {
+              "width": 1080,
+              "height": 864
+            },
+            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/533052616/square.jpg",
+            "attribution": "(c) J. Roe, some rights reserved (CC BY)",
+            "flags": [],
+            "moderator_actions": [],
+            "hidden": false
+          }
+        }
+      ],
+      "geojson": {
+        "type": "Point",
+        "coordinates": [
+          -122.5020003307,
+          37.8951127923
+        ]
+      },
+      "place_guess": "Strawberry, CA, USA"
+    },
     {
       "id": 295871442,
       "time_observed_at": "2025-07-06T18:02:07-07:00",
@@ -161,6 +229,78 @@
         ]
       },
       "place_guess": "Oxnard Beach, Oxnard, CA, US"
+    },
+    {
+      "id": 296187387,
+      "time_observed_at": "2025-07-05T19:02:15-07:00",
+      "observed_time_zone": "America/Los_Angeles",
+      "observation_photos": [
+        {
+          "id": 495583777,
+          "position": 0,
+          "uuid": "6ce483a7-ab7e-40ff-898c-499693f270a7",
+          "photo_id": 533295597,
+          "photo": {
+            "id": 533295597,
+            "license_code": "cc-by-nc",
+            "original_dimensions": {
+              "width": 1536,
+              "height": 2048
+            },
+            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/533295597/square.jpg",
+            "attribution": "(c) Marcelo Renan de Deus Santos, some rights reserved (CC BY-NC)",
+            "flags": [],
+            "moderator_actions": [],
+            "hidden": false
+          }
+        },
+        {
+          "id": 495583799,
+          "position": 1,
+          "uuid": "de1e4505-2cfe-48bd-a0be-1037672bd611",
+          "photo_id": 533295633,
+          "photo": {
+            "id": 533295633,
+            "license_code": "cc-by-nc",
+            "original_dimensions": {
+              "width": 1536,
+              "height": 2048
+            },
+            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/533295633/square.jpg",
+            "attribution": "(c) Marcelo Renan de Deus Santos, some rights reserved (CC BY-NC)",
+            "flags": [],
+            "moderator_actions": [],
+            "hidden": false
+          }
+        },
+        {
+          "id": 495583814,
+          "position": 2,
+          "uuid": "b8942d6f-fb95-46f6-a551-b2b5a237903f",
+          "photo_id": 533295653,
+          "photo": {
+            "id": 533295653,
+            "license_code": "cc-by-nc",
+            "original_dimensions": {
+              "width": 1536,
+              "height": 2048
+            },
+            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/533295653/square.jpg",
+            "attribution": "(c) Marcelo Renan de Deus Santos, some rights reserved (CC BY-NC)",
+            "flags": [],
+            "moderator_actions": [],
+            "hidden": false
+          }
+        }
+      ],
+      "geojson": {
+        "type": "Point",
+        "coordinates": [
+          -121.8943684997,
+          36.6060638
+        ]
+      },
+      "place_guess": "Monterey, CA 93944, USA"
     },
     {
       "id": 295802371,
@@ -1414,165 +1554,6 @@
         ]
       },
       "place_guess": "Monterey, CA, US"
-    },
-    {
-      "id": 291317086,
-      "time_observed_at": "2025-06-20T11:07:12-07:00",
-      "observed_time_zone": "America/Los_Angeles",
-      "observation_photos": [
-        {
-          "id": 487172458,
-          "position": 0,
-          "uuid": "6a45119f-f721-4d0b-9378-55e59630c97d",
-          "photo_id": 524134282,
-          "photo": {
-            "id": 524134282,
-            "license_code": "cc-by-nc",
-            "original_dimensions": {
-              "width": 1536,
-              "height": 2048
-            },
-            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/524134282/square.jpg",
-            "attribution": "(c) Mia Levy, some rights reserved (CC BY-NC)",
-            "flags": [],
-            "moderator_actions": [],
-            "hidden": false
-          }
-        },
-        {
-          "id": 487172457,
-          "position": 1,
-          "uuid": "37f53730-1141-4686-8bd8-6e8f19cc7dfe",
-          "photo_id": 524134280,
-          "photo": {
-            "id": 524134280,
-            "license_code": "cc-by-nc",
-            "original_dimensions": {
-              "width": 1536,
-              "height": 2048
-            },
-            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/524134280/square.jpg",
-            "attribution": "(c) Mia Levy, some rights reserved (CC BY-NC)",
-            "flags": [],
-            "moderator_actions": [],
-            "hidden": false
-          }
-        }
-      ],
-      "geojson": {
-        "type": "Point",
-        "coordinates": [
-          -118.808425,
-          34.001580555
-        ]
-      },
-      "place_guess": "Westward Beach Trail, Malibu, CA, US"
-    },
-    {
-      "id": 291126787,
-      "time_observed_at": "2025-06-19T16:54:32-07:00",
-      "observed_time_zone": "America/Los_Angeles",
-      "observation_photos": [
-        {
-          "id": 486846764,
-          "position": 0,
-          "uuid": "1a46ae92-2ceb-4a90-a6b8-5398e6f79583",
-          "photo_id": 523779441,
-          "photo": {
-            "id": 523779441,
-            "license_code": "cc-by-nc",
-            "original_dimensions": {
-              "width": 1152,
-              "height": 2048
-            },
-            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/523779441/square.jpg",
-            "attribution": "(c) Malik Vest Walton, some rights reserved (CC BY-NC)",
-            "flags": [],
-            "moderator_actions": [],
-            "hidden": false
-          }
-        },
-        {
-          "id": 486846777,
-          "position": 1,
-          "uuid": "016090cd-edd7-4f6d-a0ea-adb180bd8949",
-          "photo_id": 523779462,
-          "photo": {
-            "id": 523779462,
-            "license_code": "cc-by-nc",
-            "original_dimensions": {
-              "width": 1050,
-              "height": 2048
-            },
-            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/523779462/square.jpg",
-            "attribution": "(c) Malik Vest Walton, some rights reserved (CC BY-NC)",
-            "flags": [],
-            "moderator_actions": [],
-            "hidden": false
-          }
-        },
-        {
-          "id": 486846747,
-          "position": 2,
-          "uuid": "d023b313-dad1-441b-9d6a-c81582013748",
-          "photo_id": 523779421,
-          "photo": {
-            "id": 523779421,
-            "license_code": "cc-by-nc",
-            "original_dimensions": {
-              "width": 1536,
-              "height": 2048
-            },
-            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/523779421/square.jpg",
-            "attribution": "(c) Malik Vest Walton, some rights reserved (CC BY-NC)",
-            "flags": [],
-            "moderator_actions": [],
-            "hidden": false
-          }
-        }
-      ],
-      "geojson": {
-        "type": "Point",
-        "coordinates": [
-          -118.452675,
-          33.9589783333
-        ]
-      },
-      "place_guess": "Dockweiler State Beach, Los Angeles, CA, US"
-    },
-    {
-      "id": 291103028,
-      "time_observed_at": "2025-06-19T15:49:00-07:00",
-      "observed_time_zone": "America/Los_Angeles",
-      "observation_photos": [
-        {
-          "id": 486801827,
-          "position": 0,
-          "uuid": "02f2174c-d074-4d1f-bae0-49ce402d2f2f",
-          "photo_id": 523724252,
-          "photo": {
-            "id": 523724252,
-            "license_code": "cc-by-nc",
-            "original_dimensions": {
-              "width": 2048,
-              "height": 1365
-            },
-            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/523724252/square.jpg",
-            "attribution": "(c) Donald Fraser, some rights reserved (CC BY-NC)",
-            "flags": [],
-            "moderator_actions": [],
-            "hidden": false
-          }
-        }
-      ],
-      "geojson": {
-        "type": "Point",
-        "coordinates": [
-          -119.6882952823,
-          34.4124225498
-        ]
-      },
-      "place_guess": "Waterfront, Santa Barbara, CA, USA"
     }
   ]
 }
