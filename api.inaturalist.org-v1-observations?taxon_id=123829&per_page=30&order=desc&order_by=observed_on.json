@@ -1,8 +1,42 @@
 {
-  "total_results": 6287,
+  "total_results": 6288,
   "page": 1,
   "per_page": 30,
   "results": [
+    {
+      "id": 297922347,
+      "time_observed_at": "2025-07-13T11:31:58-07:00",
+      "observed_time_zone": "America/Los_Angeles",
+      "observation_photos": [
+        {
+          "id": 498607315,
+          "position": 0,
+          "uuid": "e0482600-cd94-4d58-b834-370404a04d12",
+          "photo_id": 536583526,
+          "photo": {
+            "id": 536583526,
+            "license_code": null,
+            "original_dimensions": {
+              "width": 2048,
+              "height": 1370
+            },
+            "url": "https://static.inaturalist.org/photos/536583526/square.jpg",
+            "attribution": "(c) Michael Pierson, all rights reserved",
+            "flags": [],
+            "moderator_actions": [],
+            "hidden": false
+          }
+        }
+      ],
+      "geojson": {
+        "type": "Point",
+        "coordinates": [
+          -122.9756077006,
+          37.7481929214
+        ]
+      },
+      "place_guess": "San Francisco County, San Francisco, CA, USA"
+    },
     {
       "id": 297753134,
       "time_observed_at": "2025-07-13T09:11:00-07:00",
@@ -1520,59 +1554,6 @@
         ]
       },
       "place_guess": "Clatsop Beach"
-    },
-    {
-      "id": 294251813,
-      "time_observed_at": "2025-06-30T12:53:36-07:00",
-      "observed_time_zone": "America/Los_Angeles",
-      "observation_photos": [
-        {
-          "id": 492216194,
-          "position": 0,
-          "uuid": "b7d4eece-4e6a-4219-bdd7-846b40308b9f",
-          "photo_id": 529626686,
-          "photo": {
-            "id": 529626686,
-            "license_code": "cc-by-nc",
-            "original_dimensions": {
-              "width": 2048,
-              "height": 1365
-            },
-            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/529626686/square.jpg",
-            "attribution": "(c) Kat Morgan, some rights reserved (CC BY-NC)",
-            "flags": [],
-            "moderator_actions": [],
-            "hidden": false
-          }
-        },
-        {
-          "id": 492216225,
-          "position": 1,
-          "uuid": "8d76b1f7-d427-4530-a976-f9f00060645c",
-          "photo_id": 529626717,
-          "photo": {
-            "id": 529626717,
-            "license_code": "cc-by-nc",
-            "original_dimensions": {
-              "width": 2048,
-              "height": 1365
-            },
-            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/529626717/square.jpg",
-            "attribution": "(c) Kat Morgan, some rights reserved (CC BY-NC)",
-            "flags": [],
-            "moderator_actions": [],
-            "hidden": false
-          }
-        }
-      ],
-      "geojson": {
-        "type": "Point",
-        "coordinates": [
-          -121.785425,
-          36.8071583333
-        ]
-      },
-      "place_guess": "Moss Landing Harbor, Moss Landing, CA, US"
     }
   ]
 }
