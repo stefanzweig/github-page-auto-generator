@@ -1,5 +1,5 @@
 {
-  "total_results": 6302,
+  "total_results": 6307,
   "page": 1,
   "per_page": 30,
   "results": [
@@ -308,6 +308,40 @@
         ]
       },
       "place_guess": "Long Beach, CA, US"
+    },
+    {
+      "id": 298001440,
+      "time_observed_at": "2025-07-14T10:52:03-07:00",
+      "observed_time_zone": "America/Los_Angeles",
+      "observation_photos": [
+        {
+          "id": 498745036,
+          "position": 0,
+          "uuid": "b98a247c-f32c-4ba2-a49e-efd401f9ca8c",
+          "photo_id": 536735830,
+          "photo": {
+            "id": 536735830,
+            "license_code": "cc-by-nc-sa",
+            "original_dimensions": {
+              "width": 1536,
+              "height": 2048
+            },
+            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/536735830/square.jpg",
+            "attribution": "(c) James Ojascastro, some rights reserved (CC BY-NC-SA)",
+            "flags": [],
+            "moderator_actions": [],
+            "hidden": false
+          }
+        }
+      ],
+      "geojson": {
+        "type": "Point",
+        "coordinates": [
+          -121.9092677997,
+          36.6208098
+        ]
+      },
+      "place_guess": "Pacific Grove, CA, USA"
     },
     {
       "id": 298010794,
@@ -1178,78 +1212,6 @@
         ]
       },
       "place_guess": "Oxnard Beach, Oxnard, CA, US"
-    },
-    {
-      "id": 296187387,
-      "time_observed_at": "2025-07-05T19:02:15-07:00",
-      "observed_time_zone": "America/Los_Angeles",
-      "observation_photos": [
-        {
-          "id": 495583777,
-          "position": 0,
-          "uuid": "6ce483a7-ab7e-40ff-898c-499693f270a7",
-          "photo_id": 533295597,
-          "photo": {
-            "id": 533295597,
-            "license_code": "cc-by-nc",
-            "original_dimensions": {
-              "width": 1536,
-              "height": 2048
-            },
-            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/533295597/square.jpg",
-            "attribution": "(c) Marcelo Renan de Deus Santos, some rights reserved (CC BY-NC)",
-            "flags": [],
-            "moderator_actions": [],
-            "hidden": false
-          }
-        },
-        {
-          "id": 495583799,
-          "position": 1,
-          "uuid": "de1e4505-2cfe-48bd-a0be-1037672bd611",
-          "photo_id": 533295633,
-          "photo": {
-            "id": 533295633,
-            "license_code": "cc-by-nc",
-            "original_dimensions": {
-              "width": 1536,
-              "height": 2048
-            },
-            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/533295633/square.jpg",
-            "attribution": "(c) Marcelo Renan de Deus Santos, some rights reserved (CC BY-NC)",
-            "flags": [],
-            "moderator_actions": [],
-            "hidden": false
-          }
-        },
-        {
-          "id": 495583814,
-          "position": 2,
-          "uuid": "b8942d6f-fb95-46f6-a551-b2b5a237903f",
-          "photo_id": 533295653,
-          "photo": {
-            "id": 533295653,
-            "license_code": "cc-by-nc",
-            "original_dimensions": {
-              "width": 1536,
-              "height": 2048
-            },
-            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/533295653/square.jpg",
-            "attribution": "(c) Marcelo Renan de Deus Santos, some rights reserved (CC BY-NC)",
-            "flags": [],
-            "moderator_actions": [],
-            "hidden": false
-          }
-        }
-      ],
-      "geojson": {
-        "type": "Point",
-        "coordinates": [
-          -121.8943684997,
-          36.6060638
-        ]
-      },
-      "place_guess": "Monterey, CA 93944, USA"
     }
   ]
 }
