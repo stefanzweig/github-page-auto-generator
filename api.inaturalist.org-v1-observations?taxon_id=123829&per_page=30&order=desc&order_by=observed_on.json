@@ -1,5 +1,5 @@
 {
-  "total_results": 6311,
+  "total_results": 6316,
   "page": 1,
   "per_page": 30,
   "results": [
@@ -84,6 +84,40 @@
         ]
       },
       "place_guess": "North Pacific Ocean, OR, US"
+    },
+    {
+      "id": 299075676,
+      "time_observed_at": "2025-07-15T20:38:00-07:00",
+      "observed_time_zone": "America/Los_Angeles",
+      "observation_photos": [
+        {
+          "id": 500630706,
+          "position": 0,
+          "uuid": "ca6b5631-9c68-4473-9376-b9ea0938453c",
+          "photo_id": 538787978,
+          "photo": {
+            "id": 538787978,
+            "license_code": "cc-by-nc",
+            "original_dimensions": {
+              "width": 2048,
+              "height": 1536
+            },
+            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/538787978/square.jpg",
+            "attribution": "(c) sagecrab, some rights reserved (CC BY-NC)",
+            "flags": [],
+            "moderator_actions": [],
+            "hidden": false
+          }
+        }
+      ],
+      "geojson": {
+        "type": "Point",
+        "coordinates": [
+          -121.8229790505,
+          36.4190670418
+        ]
+      },
+      "place_guess": "California, US"
     },
     {
       "id": 298298875,
@@ -1120,40 +1154,6 @@
         ]
       },
       "place_guess": "Pillar Point Harbor, El Granada, CA, US"
-    },
-    {
-      "id": 296164878,
-      "time_observed_at": "2025-07-07T16:25:00-07:00",
-      "observed_time_zone": "America/Los_Angeles",
-      "observation_photos": [
-        {
-          "id": 495541817,
-          "position": 0,
-          "uuid": "7208c57b-84ff-4723-81db-7473cec8fe81",
-          "photo_id": 533246137,
-          "photo": {
-            "id": 533246137,
-            "license_code": "cc-by-nc",
-            "original_dimensions": {
-              "width": 2048,
-              "height": 1439
-            },
-            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/533246137/square.jpg",
-            "attribution": "(c) James Maughn, some rights reserved (CC BY-NC)",
-            "flags": [],
-            "moderator_actions": [],
-            "hidden": false
-          }
-        }
-      ],
-      "geojson": {
-        "type": "Point",
-        "coordinates": [
-          -121.9233791936,
-          36.9710948522
-        ]
-      },
-      "place_guess": "Santa Cruz County, CA, USA"
     }
   ]
 }
