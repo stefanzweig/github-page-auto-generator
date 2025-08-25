@@ -1,5 +1,5 @@
 {
-  "total_results": 7819,
+  "total_results": 7820,
   "page": 1,
   "per_page": 30,
   "results": [
@@ -89,6 +89,40 @@
         ]
       },
       "place_guess": "Robert W. Crown Memorial State Beach Park, Alameda, CA, US"
+    },
+    {
+      "id": 309034188,
+      "time_observed_at": "2025-08-24T14:01:00-07:00",
+      "observed_time_zone": "America/Los_Angeles",
+      "observation_photos": [
+        {
+          "id": 517947660,
+          "position": 0,
+          "uuid": "342cc224-c16e-4146-905d-4af8d87c2d7a",
+          "photo_id": 557608682,
+          "photo": {
+            "id": 557608682,
+            "license_code": null,
+            "original_dimensions": {
+              "width": 1921,
+              "height": 2048
+            },
+            "url": "https://static.inaturalist.org/photos/557608682/square.jpg",
+            "attribution": "(c) Bill Hubick, all rights reserved",
+            "flags": [],
+            "moderator_actions": [],
+            "hidden": false
+          }
+        }
+      ],
+      "geojson": {
+        "type": "Point",
+        "coordinates": [
+          -121.805455,
+          36.7417566667
+        ]
+      },
+      "place_guess": "Monterey County, CA, USA"
     },
     {
       "id": 308888964,
@@ -1428,78 +1462,6 @@
               "height": 768
             },
             "url": "https://static.inaturalist.org/photos/556842236/square.jpg",
-            "attribution": "(c) morgan, all rights reserved",
-            "flags": [],
-            "moderator_actions": [],
-            "hidden": false
-          }
-        }
-      ],
-      "geojson": {
-        "type": "Point",
-        "coordinates": [
-          -121.9266361111,
-          36.5366055556
-        ]
-      },
-      "place_guess": "Monterey County, CA, USA"
-    },
-    {
-      "id": 308638417,
-      "time_observed_at": "2025-08-22T12:36:00-07:00",
-      "observed_time_zone": "America/Los_Angeles",
-      "observation_photos": [
-        {
-          "id": 517249779,
-          "position": 0,
-          "uuid": "3040429a-64d1-4135-ada3-a28ae281ccee",
-          "photo_id": 556842171,
-          "photo": {
-            "id": 556842171,
-            "license_code": null,
-            "original_dimensions": {
-              "width": 768,
-              "height": 1024
-            },
-            "url": "https://static.inaturalist.org/photos/556842171/square.jpg",
-            "attribution": "(c) morgan, all rights reserved",
-            "flags": [],
-            "moderator_actions": [],
-            "hidden": false
-          }
-        },
-        {
-          "id": 517249780,
-          "position": 1,
-          "uuid": "640d2d96-03a4-4922-9a65-fb2423d0db0b",
-          "photo_id": 556842212,
-          "photo": {
-            "id": 556842212,
-            "license_code": null,
-            "original_dimensions": {
-              "width": 768,
-              "height": 1024
-            },
-            "url": "https://static.inaturalist.org/photos/556842212/square.jpg",
-            "attribution": "(c) morgan, all rights reserved",
-            "flags": [],
-            "moderator_actions": [],
-            "hidden": false
-          }
-        },
-        {
-          "id": 517249781,
-          "position": 2,
-          "uuid": "e29e7b33-0d43-4e80-a5a4-e638e40e8581",
-          "photo_id": 556842220,
-          "photo": {
-            "id": 556842220,
-            "license_code": null,
-            "original_dimensions": {
-              "width": 768,
-              "height": 1024
-            },
-            "url": "https://static.inaturalist.org/photos/556842220/square.jpg",
             "attribution": "(c) morgan, all rights reserved",
             "flags": [],
             "moderator_actions": [],
