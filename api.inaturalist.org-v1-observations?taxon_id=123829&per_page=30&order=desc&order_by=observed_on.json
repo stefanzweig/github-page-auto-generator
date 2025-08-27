@@ -1,5 +1,5 @@
 {
-  "total_results": 7831,
+  "total_results": 7833,
   "page": 1,
   "per_page": 30,
   "results": [
@@ -327,6 +327,78 @@
         ]
       },
       "place_guess": "Island County, WA, USA"
+    },
+    {
+      "id": 309396792,
+      "time_observed_at": "2025-08-24T11:30:00-07:00",
+      "observed_time_zone": "America/Los_Angeles",
+      "observation_photos": [
+        {
+          "id": 518590591,
+          "position": 0,
+          "uuid": "f1e45673-5e33-49e6-97b8-d1f6170a78f1",
+          "photo_id": 558307705,
+          "photo": {
+            "id": 558307705,
+            "license_code": null,
+            "original_dimensions": {
+              "width": 2048,
+              "height": 1236
+            },
+            "url": "https://static.inaturalist.org/photos/558307705/square.jpg",
+            "attribution": "(c) Henry Fabian, all rights reserved",
+            "flags": [],
+            "moderator_actions": [],
+            "hidden": false
+          }
+        },
+        {
+          "id": 518590733,
+          "position": 1,
+          "uuid": "f5a30dd7-22de-41e8-b2eb-2c1a18dfb233",
+          "photo_id": 558307931,
+          "photo": {
+            "id": 558307931,
+            "license_code": null,
+            "original_dimensions": {
+              "width": 2048,
+              "height": 1568
+            },
+            "url": "https://static.inaturalist.org/photos/558307931/square.jpg",
+            "attribution": "(c) Henry Fabian, all rights reserved",
+            "flags": [],
+            "moderator_actions": [],
+            "hidden": false
+          }
+        },
+        {
+          "id": 518590944,
+          "position": 2,
+          "uuid": "cd0b7cf9-2923-4155-9e89-538de2d80f20",
+          "photo_id": 558308004,
+          "photo": {
+            "id": 558308004,
+            "license_code": null,
+            "original_dimensions": {
+              "width": 1768,
+              "height": 2048
+            },
+            "url": "https://static.inaturalist.org/photos/558308004/square.jpg",
+            "attribution": "(c) Henry Fabian, all rights reserved",
+            "flags": [],
+            "moderator_actions": [],
+            "hidden": false
+          }
+        }
+      ],
+      "geojson": {
+        "type": "Point",
+        "coordinates": [
+          -122.2471087,
+          37.7530036
+        ]
+      },
+      "place_guess": "Elsie Roemer Bird Sanctuary, Alameda, CA 94501, USA"
     },
     {
       "id": 308665552,
@@ -1364,78 +1436,6 @@
         "coordinates": [
           -121.9267361111,
           36.5366888889
-        ]
-      },
-      "place_guess": "Monterey County, CA, USA"
-    },
-    {
-      "id": 308638425,
-      "time_observed_at": "2025-08-22T12:38:00-07:00",
-      "observed_time_zone": "America/Los_Angeles",
-      "observation_photos": [
-        {
-          "id": 517249790,
-          "position": 0,
-          "uuid": "16c1a14c-ccaa-44c8-bdc5-d4c5cce49e78",
-          "photo_id": 556842305,
-          "photo": {
-            "id": 556842305,
-            "license_code": null,
-            "original_dimensions": {
-              "width": 768,
-              "height": 1024
-            },
-            "url": "https://static.inaturalist.org/photos/556842305/square.jpg",
-            "attribution": "(c) morgan, all rights reserved",
-            "flags": [],
-            "moderator_actions": [],
-            "hidden": false
-          }
-        },
-        {
-          "id": 517249791,
-          "position": 1,
-          "uuid": "03971258-0595-4abf-9a4f-b7d64fbf338b",
-          "photo_id": 556842304,
-          "photo": {
-            "id": 556842304,
-            "license_code": null,
-            "original_dimensions": {
-              "width": 768,
-              "height": 1024
-            },
-            "url": "https://static.inaturalist.org/photos/556842304/square.jpg",
-            "attribution": "(c) morgan, all rights reserved",
-            "flags": [],
-            "moderator_actions": [],
-            "hidden": false
-          }
-        },
-        {
-          "id": 517249792,
-          "position": 2,
-          "uuid": "d304c273-3cee-48ae-bbfc-2bc58d99cb6a",
-          "photo_id": 556842314,
-          "photo": {
-            "id": 556842314,
-            "license_code": null,
-            "original_dimensions": {
-              "width": 1024,
-              "height": 768
-            },
-            "url": "https://static.inaturalist.org/photos/556842314/square.jpg",
-            "attribution": "(c) morgan, all rights reserved",
-            "flags": [],
-            "moderator_actions": [],
-            "hidden": false
-          }
-        }
-      ],
-      "geojson": {
-        "type": "Point",
-        "coordinates": [
-          -121.9267361111,
-          36.5366833333
         ]
       },
       "place_guess": "Monterey County, CA, USA"
