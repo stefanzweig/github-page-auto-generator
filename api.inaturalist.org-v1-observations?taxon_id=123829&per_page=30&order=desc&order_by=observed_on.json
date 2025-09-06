@@ -1,5 +1,5 @@
 {
-  "total_results": 7942,
+  "total_results": 7944,
   "page": 1,
   "per_page": 30,
   "results": [
@@ -106,6 +106,40 @@
       "place_guess": "San Francisco County, US-CA, US"
     },
     {
+      "id": 311798869,
+      "time_observed_at": "2025-09-05T12:54:16-07:00",
+      "observed_time_zone": "America/Los_Angeles",
+      "observation_photos": [
+        {
+          "id": 522800699,
+          "position": 0,
+          "uuid": "fa926b17-88bb-46e1-afbd-91d16e4953a1",
+          "photo_id": 562885832,
+          "photo": {
+            "id": 562885832,
+            "license_code": null,
+            "original_dimensions": {
+              "width": 2048,
+              "height": 1536
+            },
+            "url": "https://static.inaturalist.org/photos/562885832/square.jpg",
+            "attribution": "(c) Finn Smith, all rights reserved",
+            "flags": [],
+            "moderator_actions": [],
+            "hidden": false
+          }
+        }
+      ],
+      "geojson": {
+        "type": "Point",
+        "coordinates": [
+          -122.5082944444,
+          37.7352583333
+        ]
+      },
+      "place_guess": "Lakeshore, San Francisco, CA 94132, USA"
+    },
+    {
       "id": 311620343,
       "time_observed_at": "2025-09-04T18:49:03-07:00",
       "observed_time_zone": "America/Los_Angeles",
@@ -191,6 +225,40 @@
         ]
       },
       "place_guess": "Santa Cruz County, CA, USA"
+    },
+    {
+      "id": 311846272,
+      "time_observed_at": "2025-09-04T15:16:00-07:00",
+      "observed_time_zone": "America/Los_Angeles",
+      "observation_photos": [
+        {
+          "id": 522888301,
+          "position": 0,
+          "uuid": "ed2d5271-e2f8-4e31-8efb-d8dba8ca0dbe",
+          "photo_id": 562979457,
+          "photo": {
+            "id": 562979457,
+            "license_code": "cc0",
+            "original_dimensions": {
+              "width": 2048,
+              "height": 1575
+            },
+            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/562979457/square.jpg",
+            "attribution": "no rights reserved",
+            "flags": [],
+            "moderator_actions": [],
+            "hidden": false
+          }
+        }
+      ],
+      "geojson": {
+        "type": "Point",
+        "coordinates": [
+          -122.3310016667,
+          37.909375
+        ]
+      },
+      "place_guess": "Richmond, CA, USA"
     },
     {
       "id": 311859330,
@@ -1217,112 +1285,6 @@
         "coordinates": [
           -117.2451621,
           32.6743057997
-        ]
-      },
-      "place_guess": "San Diego, CA 92106, USA"
-    },
-    {
-      "id": 311508092,
-      "time_observed_at": "2025-08-31T10:22:00-07:00",
-      "observed_time_zone": "America/Los_Angeles",
-      "observation_photos": [
-        {
-          "id": 522297134,
-          "position": 0,
-          "uuid": "ed3d6dbd-23d4-43d4-aa7c-17f84b54b457",
-          "photo_id": 562308480,
-          "photo": {
-            "id": 562308480,
-            "license_code": "cc-by-nc",
-            "original_dimensions": {
-              "width": 1600,
-              "height": 1067
-            },
-            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/562308480/square.jpg",
-            "attribution": "(c) Ilya Burylov, some rights reserved (CC BY-NC)",
-            "flags": [],
-            "moderator_actions": [],
-            "hidden": false
-          }
-        }
-      ],
-      "geojson": {
-        "type": "Point",
-        "coordinates": [
-          -124.1118475,
-          44.2838658333
-        ]
-      },
-      "place_guess": "Линкольн, Орегон, США"
-    },
-    {
-      "id": 310633963,
-      "time_observed_at": "2025-08-31T10:20:22-07:00",
-      "observed_time_zone": "America/Los_Angeles",
-      "observation_photos": [
-        {
-          "id": 520746699,
-          "position": 0,
-          "uuid": "09489937-907e-4066-9dff-2103b24e1276",
-          "photo_id": 560653551,
-          "photo": {
-            "id": 560653551,
-            "license_code": null,
-            "original_dimensions": {
-              "width": 2048,
-              "height": 2048
-            },
-            "url": "https://static.inaturalist.org/photos/560653551/square.jpg",
-            "attribution": "(c) dgrimmphd, all rights reserved",
-            "flags": [],
-            "moderator_actions": [],
-            "hidden": false
-          }
-        },
-        {
-          "id": 520746733,
-          "position": 1,
-          "uuid": "c236e65b-81a3-4d26-90f6-68c7b75abc78",
-          "photo_id": 560653598,
-          "photo": {
-            "id": 560653598,
-            "license_code": null,
-            "original_dimensions": {
-              "width": 2048,
-              "height": 2048
-            },
-            "url": "https://static.inaturalist.org/photos/560653598/square.jpg",
-            "attribution": "(c) dgrimmphd, all rights reserved",
-            "flags": [],
-            "moderator_actions": [],
-            "hidden": false
-          }
-        },
-        {
-          "id": 520746773,
-          "position": 2,
-          "uuid": "2ad049fe-e57b-4e32-aca9-9b07b2e9a90a",
-          "photo_id": 560653651,
-          "photo": {
-            "id": 560653651,
-            "license_code": null,
-            "original_dimensions": {
-              "width": 2048,
-              "height": 2048
-            },
-            "url": "https://static.inaturalist.org/photos/560653651/square.jpg",
-            "attribution": "(c) dgrimmphd, all rights reserved",
-            "flags": [],
-            "moderator_actions": [],
-            "hidden": false
-          }
-        }
-      ],
-      "geojson": {
-        "type": "Point",
-        "coordinates": [
-          -117.2454050997,
-          32.6696750997
         ]
       },
       "place_guess": "San Diego, CA 92106, USA"
