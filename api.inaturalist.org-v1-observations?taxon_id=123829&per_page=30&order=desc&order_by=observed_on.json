@@ -1,8 +1,610 @@
 {
-  "total_results": 7945,
+  "total_results": 7961,
   "page": 1,
   "per_page": 30,
   "results": [
+    {
+      "id": 312094127,
+      "time_observed_at": "2025-09-06T18:48:00-07:00",
+      "observed_time_zone": "America/Los_Angeles",
+      "observation_photos": [
+        {
+          "id": 523319425,
+          "position": 0,
+          "uuid": "d95862d0-7243-4c8c-b4c3-6c449b4cc8b0",
+          "photo_id": 563442772,
+          "photo": {
+            "id": 563442772,
+            "license_code": "cc-by-nc",
+            "original_dimensions": {
+              "width": 2048,
+              "height": 934
+            },
+            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/563442772/square.jpg",
+            "attribution": "(c) barefootartist, some rights reserved (CC BY-NC)",
+            "flags": [],
+            "moderator_actions": [],
+            "hidden": false
+          }
+        },
+        {
+          "id": 523319426,
+          "position": 1,
+          "uuid": "45f66d1e-5d1d-4e7b-ac10-989b37a0caa3",
+          "photo_id": 563442787,
+          "photo": {
+            "id": 563442787,
+            "license_code": "cc-by-nc",
+            "original_dimensions": {
+              "width": 2048,
+              "height": 898
+            },
+            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/563442787/square.jpg",
+            "attribution": "(c) barefootartist, some rights reserved (CC BY-NC)",
+            "flags": [],
+            "moderator_actions": [],
+            "hidden": false
+          }
+        },
+        {
+          "id": 523319427,
+          "position": 2,
+          "uuid": "2d38baf5-6b9b-484e-8ab1-4d71ac9a95eb",
+          "photo_id": 563442809,
+          "photo": {
+            "id": 563442809,
+            "license_code": "cc-by-nc",
+            "original_dimensions": {
+              "width": 1536,
+              "height": 2048
+            },
+            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/563442809/square.jpg",
+            "attribution": "(c) barefootartist, some rights reserved (CC BY-NC)",
+            "flags": [],
+            "moderator_actions": [],
+            "hidden": false
+          }
+        },
+        {
+          "id": 523319428,
+          "position": 3,
+          "uuid": "3b4b725a-7abb-4189-b765-e94c11dce4af",
+          "photo_id": 563442833,
+          "photo": {
+            "id": 563442833,
+            "license_code": "cc-by-nc",
+            "original_dimensions": {
+              "width": 1536,
+              "height": 2048
+            },
+            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/563442833/square.jpg",
+            "attribution": "(c) barefootartist, some rights reserved (CC BY-NC)",
+            "flags": [],
+            "moderator_actions": [],
+            "hidden": false
+          }
+        },
+        {
+          "id": 523319429,
+          "position": 4,
+          "uuid": "c3c4e1d6-e735-4b09-bb37-9761bb0dbef7",
+          "photo_id": 563442831,
+          "photo": {
+            "id": 563442831,
+            "license_code": "cc-by-nc",
+            "original_dimensions": {
+              "width": 1536,
+              "height": 2048
+            },
+            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/563442831/square.jpg",
+            "attribution": "(c) barefootartist, some rights reserved (CC BY-NC)",
+            "flags": [],
+            "moderator_actions": [],
+            "hidden": false
+          }
+        }
+      ],
+      "geojson": {
+        "type": "Point",
+        "coordinates": [
+          -123.5312691,
+          38.7693215
+        ]
+      },
+      "place_guess": "Gualala, CA 95445, USA"
+    },
+    {
+      "id": 312096955,
+      "time_observed_at": "2025-09-06T15:06:00-07:00",
+      "observed_time_zone": "America/Los_Angeles",
+      "observation_photos": [
+        {
+          "id": 523324637,
+          "position": 0,
+          "uuid": "b1219a4b-e954-4396-b931-8f6c5014775d",
+          "photo_id": 563443585,
+          "photo": {
+            "id": 563443585,
+            "license_code": "cc-by-nc",
+            "original_dimensions": {
+              "width": 2048,
+              "height": 1365
+            },
+            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/563443585/square.jpg",
+            "attribution": "(c) zkyle1337, some rights reserved (CC BY-NC)",
+            "flags": [],
+            "moderator_actions": [],
+            "hidden": false
+          }
+        },
+        {
+          "id": 523324639,
+          "position": 1,
+          "uuid": "3c52a54e-0a53-494b-9e07-5832f2bd0a92",
+          "photo_id": 563443622,
+          "photo": {
+            "id": 563443622,
+            "license_code": "cc-by-nc",
+            "original_dimensions": {
+              "width": 2048,
+              "height": 1365
+            },
+            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/563443622/square.jpg",
+            "attribution": "(c) zkyle1337, some rights reserved (CC BY-NC)",
+            "flags": [],
+            "moderator_actions": [],
+            "hidden": false
+          }
+        },
+        {
+          "id": 523324641,
+          "position": 2,
+          "uuid": "d33d277e-1124-42db-a2b3-21adedb8b494",
+          "photo_id": 563443604,
+          "photo": {
+            "id": 563443604,
+            "license_code": "cc-by-nc",
+            "original_dimensions": {
+              "width": 2048,
+              "height": 1365
+            },
+            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/563443604/square.jpg",
+            "attribution": "(c) zkyle1337, some rights reserved (CC BY-NC)",
+            "flags": [],
+            "moderator_actions": [],
+            "hidden": false
+          }
+        }
+      ],
+      "geojson": {
+        "type": "Point",
+        "coordinates": [
+          -122.02355,
+          36.9625858
+        ]
+      },
+      "place_guess": "21 Municipal Wharf, Santa Cruz, CA 95060, USA"
+    },
+    {
+      "id": 312096941,
+      "time_observed_at": "2025-09-06T14:59:00-07:00",
+      "observed_time_zone": "America/Los_Angeles",
+      "observation_photos": [
+        {
+          "id": 523324609,
+          "position": 0,
+          "uuid": "d38da448-ddfe-4686-b37d-27ad03e8be99",
+          "photo_id": 563443178,
+          "photo": {
+            "id": 563443178,
+            "license_code": "cc-by-nc",
+            "original_dimensions": {
+              "width": 2048,
+              "height": 1365
+            },
+            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/563443178/square.jpg",
+            "attribution": "(c) zkyle1337, some rights reserved (CC BY-NC)",
+            "flags": [],
+            "moderator_actions": [],
+            "hidden": false
+          }
+        }
+      ],
+      "geojson": {
+        "type": "Point",
+        "coordinates": [
+          -122.02355,
+          36.9625858
+        ]
+      },
+      "place_guess": "21 Municipal Wharf, Santa Cruz, CA 95060, USA"
+    },
+    {
+      "id": 312100165,
+      "time_observed_at": "2025-09-06T13:39:00-07:00",
+      "observed_time_zone": "America/Los_Angeles",
+      "observation_photos": [
+        {
+          "id": 523330858,
+          "position": 0,
+          "uuid": "f37a98eb-13cd-438d-a66c-195dbd18fea9",
+          "photo_id": 563454668,
+          "photo": {
+            "id": 563454668,
+            "license_code": null,
+            "original_dimensions": {
+              "width": 2048,
+              "height": 1365
+            },
+            "url": "https://static.inaturalist.org/photos/563454668/square.jpg",
+            "attribution": "(c) Nicholas Veal, all rights reserved",
+            "flags": [],
+            "moderator_actions": [],
+            "hidden": false
+          }
+        }
+      ],
+      "geojson": {
+        "type": "Point",
+        "coordinates": [
+          -122.3230004359,
+          37.9029645976
+        ]
+      },
+      "place_guess": "Southwest Annex, Richmond, CA, USA"
+    },
+    {
+      "id": 312096857,
+      "time_observed_at": "2025-09-06T11:22:00-07:00",
+      "observed_time_zone": "America/Los_Angeles",
+      "observation_photos": [
+        {
+          "id": 523324413,
+          "position": 0,
+          "uuid": "de08c734-e96c-4f38-8ba1-737b6aa95d8c",
+          "photo_id": 563441528,
+          "photo": {
+            "id": 563441528,
+            "license_code": "cc-by-nc",
+            "original_dimensions": {
+              "width": 2048,
+              "height": 1365
+            },
+            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/563441528/square.jpg",
+            "attribution": "(c) zkyle1337, some rights reserved (CC BY-NC)",
+            "flags": [],
+            "moderator_actions": [],
+            "hidden": false
+          }
+        }
+      ],
+      "geojson": {
+        "type": "Point",
+        "coordinates": [
+          -122.0833662,
+          36.9608175
+        ]
+      },
+      "place_guess": "Wilder Ranch State Park, 1401 Coast Rd, Santa Cruz, CA 95060, USA"
+    },
+    {
+      "id": 312096840,
+      "time_observed_at": "2025-09-06T10:55:00-07:00",
+      "observed_time_zone": "America/Los_Angeles",
+      "observation_photos": [
+        {
+          "id": 523324371,
+          "position": 0,
+          "uuid": "2c47c0d3-e6eb-4d72-a4b5-e1dbdcc01288",
+          "photo_id": 563441011,
+          "photo": {
+            "id": 563441011,
+            "license_code": "cc-by-nc",
+            "original_dimensions": {
+              "width": 2048,
+              "height": 1365
+            },
+            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/563441011/square.jpg",
+            "attribution": "(c) zkyle1337, some rights reserved (CC BY-NC)",
+            "flags": [],
+            "moderator_actions": [],
+            "hidden": false
+          }
+        },
+        {
+          "id": 523324372,
+          "position": 1,
+          "uuid": "8140dd04-4a60-402a-bec9-9af3933bac3b",
+          "photo_id": 563441035,
+          "photo": {
+            "id": 563441035,
+            "license_code": "cc-by-nc",
+            "original_dimensions": {
+              "width": 2048,
+              "height": 1365
+            },
+            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/563441035/square.jpg",
+            "attribution": "(c) zkyle1337, some rights reserved (CC BY-NC)",
+            "flags": [],
+            "moderator_actions": [],
+            "hidden": false
+          }
+        },
+        {
+          "id": 523324373,
+          "position": 2,
+          "uuid": "40aff7d1-8231-4929-9114-2762e0f74ed4",
+          "photo_id": 563441039,
+          "photo": {
+            "id": 563441039,
+            "license_code": "cc-by-nc",
+            "original_dimensions": {
+              "width": 2048,
+              "height": 1365
+            },
+            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/563441039/square.jpg",
+            "attribution": "(c) zkyle1337, some rights reserved (CC BY-NC)",
+            "flags": [],
+            "moderator_actions": [],
+            "hidden": false
+          }
+        },
+        {
+          "id": 523324374,
+          "position": 3,
+          "uuid": "227d34e4-8b64-419f-9ae8-e527662deebc",
+          "photo_id": 563441051,
+          "photo": {
+            "id": 563441051,
+            "license_code": "cc-by-nc",
+            "original_dimensions": {
+              "width": 2048,
+              "height": 1365
+            },
+            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/563441051/square.jpg",
+            "attribution": "(c) zkyle1337, some rights reserved (CC BY-NC)",
+            "flags": [],
+            "moderator_actions": [],
+            "hidden": false
+          }
+        }
+      ],
+      "geojson": {
+        "type": "Point",
+        "coordinates": [
+          -122.0833662,
+          36.9608175
+        ]
+      },
+      "place_guess": "Wilder Ranch State Park, 1401 Coast Rd, Santa Cruz, CA 95060, USA"
+    },
+    {
+      "id": 312096828,
+      "time_observed_at": "2025-09-06T10:47:00-07:00",
+      "observed_time_zone": "America/Los_Angeles",
+      "observation_photos": [
+        {
+          "id": 523324330,
+          "position": 0,
+          "uuid": "6cb3d7e2-41d3-4e3b-a4fb-6580ca877da6",
+          "photo_id": 563440704,
+          "photo": {
+            "id": 563440704,
+            "license_code": "cc-by-nc",
+            "original_dimensions": {
+              "width": 2048,
+              "height": 1365
+            },
+            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/563440704/square.jpg",
+            "attribution": "(c) zkyle1337, some rights reserved (CC BY-NC)",
+            "flags": [],
+            "moderator_actions": [],
+            "hidden": false
+          }
+        }
+      ],
+      "geojson": {
+        "type": "Point",
+        "coordinates": [
+          -122.0833662,
+          36.9608175
+        ]
+      },
+      "place_guess": "Wilder Ranch State Park, 1401 Coast Rd, Santa Cruz, CA 95060, USA"
+    },
+    {
+      "id": 312099495,
+      "time_observed_at": "2025-09-06T10:42:00-07:00",
+      "observed_time_zone": "America/Los_Angeles",
+      "observation_photos": [
+        {
+          "id": 523329578,
+          "position": 0,
+          "uuid": "a1c76056-dc08-4b0f-96e1-b3b66de052ea",
+          "photo_id": 563448656,
+          "photo": {
+            "id": 563448656,
+            "license_code": null,
+            "original_dimensions": {
+              "width": 2048,
+              "height": 1365
+            },
+            "url": "https://static.inaturalist.org/photos/563448656/square.jpg",
+            "attribution": "(c) Nicholas Veal, all rights reserved",
+            "flags": [],
+            "moderator_actions": [],
+            "hidden": false
+          }
+        }
+      ],
+      "geojson": {
+        "type": "Point",
+        "coordinates": [
+          -122.3199963594,
+          37.8886055129
+        ]
+      },
+      "place_guess": "Albany, CA, USA"
+    },
+    {
+      "id": 312096822,
+      "time_observed_at": "2025-09-06T10:40:00-07:00",
+      "observed_time_zone": "America/Los_Angeles",
+      "observation_photos": [
+        {
+          "id": 523324324,
+          "position": 0,
+          "uuid": "030dfcfe-b35f-4225-8454-03142165569b",
+          "photo_id": 563440506,
+          "photo": {
+            "id": 563440506,
+            "license_code": "cc-by-nc",
+            "original_dimensions": {
+              "width": 2048,
+              "height": 1365
+            },
+            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/563440506/square.jpg",
+            "attribution": "(c) zkyle1337, some rights reserved (CC BY-NC)",
+            "flags": [],
+            "moderator_actions": [],
+            "hidden": false
+          }
+        },
+        {
+          "id": 523324325,
+          "position": 1,
+          "uuid": "9c0c14b2-3c23-4a7a-8411-b7b15d04eb7f",
+          "photo_id": 563440522,
+          "photo": {
+            "id": 563440522,
+            "license_code": "cc-by-nc",
+            "original_dimensions": {
+              "width": 2048,
+              "height": 1365
+            },
+            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/563440522/square.jpg",
+            "attribution": "(c) zkyle1337, some rights reserved (CC BY-NC)",
+            "flags": [],
+            "moderator_actions": [],
+            "hidden": false
+          }
+        }
+      ],
+      "geojson": {
+        "type": "Point",
+        "coordinates": [
+          -122.0833662,
+          36.9608175
+        ]
+      },
+      "place_guess": "Wilder Ranch State Park, 1401 Coast Rd, Santa Cruz, CA 95060, USA"
+    },
+    {
+      "id": 312096808,
+      "time_observed_at": "2025-09-06T10:06:00-07:00",
+      "observed_time_zone": "America/Los_Angeles",
+      "observation_photos": [
+        {
+          "id": 523324294,
+          "position": 0,
+          "uuid": "a3a601df-86a7-404a-84cb-2548c3c8a9c3",
+          "photo_id": 563439022,
+          "photo": {
+            "id": 563439022,
+            "license_code": "cc-by-nc",
+            "original_dimensions": {
+              "width": 2048,
+              "height": 1365
+            },
+            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/563439022/square.jpg",
+            "attribution": "(c) zkyle1337, some rights reserved (CC BY-NC)",
+            "flags": [],
+            "moderator_actions": [],
+            "hidden": false
+          }
+        },
+        {
+          "id": 523324295,
+          "position": 1,
+          "uuid": "68be0ce1-b582-4651-aa3d-dcb5c483238a",
+          "photo_id": 563440220,
+          "photo": {
+            "id": 563440220,
+            "license_code": "cc-by-nc",
+            "original_dimensions": {
+              "width": 2048,
+              "height": 1365
+            },
+            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/563440220/square.jpg",
+            "attribution": "(c) zkyle1337, some rights reserved (CC BY-NC)",
+            "flags": [],
+            "moderator_actions": [],
+            "hidden": false
+          }
+        },
+        {
+          "id": 523324296,
+          "position": 2,
+          "uuid": "c96ca394-b8c6-46de-9b01-f9a73df49973",
+          "photo_id": 563440188,
+          "photo": {
+            "id": 563440188,
+            "license_code": "cc-by-nc",
+            "original_dimensions": {
+              "width": 2048,
+              "height": 1365
+            },
+            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/563440188/square.jpg",
+            "attribution": "(c) zkyle1337, some rights reserved (CC BY-NC)",
+            "flags": [],
+            "moderator_actions": [],
+            "hidden": false
+          }
+        }
+      ],
+      "geojson": {
+        "type": "Point",
+        "coordinates": [
+          -122.0833662,
+          36.9608175
+        ]
+      },
+      "place_guess": "Wilder Ranch State Park, 1401 Coast Rd, Santa Cruz, CA 95060, USA"
+    },
+    {
+      "id": 312095083,
+      "time_observed_at": "2025-09-06T09:28:00-07:00",
+      "observed_time_zone": "America/Los_Angeles",
+      "observation_photos": [
+        {
+          "id": 523321200,
+          "position": 0,
+          "uuid": "bd07cd6d-2879-451b-a523-8fc1ff8357e1",
+          "photo_id": 563441649,
+          "photo": {
+            "id": 563441649,
+            "license_code": null,
+            "original_dimensions": {
+              "width": 2048,
+              "height": 1365
+            },
+            "url": "https://static.inaturalist.org/photos/563441649/square.jpg",
+            "attribution": "(c) Nicholas Veal, all rights reserved",
+            "flags": [],
+            "moderator_actions": [],
+            "hidden": false
+          }
+        }
+      ],
+      "geojson": {
+        "type": "Point",
+        "coordinates": [
+          -122.3059275303,
+          37.8627714877
+        ]
+      },
+      "place_guess": "Berkeley, CA, USA"
+    },
     {
       "id": 311833601,
       "time_observed_at": "2025-09-05T14:07:00-07:00",
@@ -639,187 +1241,24 @@
       "place_guess": "Newport Coast, Newport Beach, CA, USA"
     },
     {
-      "id": 310967341,
-      "time_observed_at": "2025-09-01T15:32:00-07:00",
+      "id": 312111317,
+      "time_observed_at": "2025-09-01T17:05:00-07:00",
       "observed_time_zone": "America/Los_Angeles",
       "observation_photos": [
         {
-          "id": 521340479,
+          "id": 523351450,
           "position": 0,
-          "uuid": "be5e653b-026d-48c2-b54a-85072afe830e",
-          "photo_id": 561297388,
+          "uuid": "03c37741-9b6e-403c-8e6c-7d863d529872",
+          "photo_id": 563476359,
           "photo": {
-            "id": 561297388,
-            "license_code": "cc-by-nc",
-            "original_dimensions": {
-              "width": 322,
-              "height": 322
-            },
-            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/561297388/square.jpg",
-            "attribution": "(c) Joe MDO, some rights reserved (CC BY-NC)",
-            "flags": [],
-            "moderator_actions": [],
-            "hidden": false
-          }
-        }
-      ],
-      "geojson": {
-        "type": "Point",
-        "coordinates": [
-          -122.4525647777,
-          37.9943978148
-        ]
-      },
-      "place_guess": "San Rafael, CA, USA"
-    },
-    {
-      "id": 310924060,
-      "time_observed_at": "2025-09-01T13:53:00-07:00",
-      "observed_time_zone": "America/Los_Angeles",
-      "observation_photos": [
-        {
-          "id": 521261546,
-          "position": 0,
-          "uuid": "7fe1fd35-8a39-406c-b886-746d003ed454",
-          "photo_id": 561214755,
-          "photo": {
-            "id": 561214755,
-            "license_code": "cc-by-nc",
-            "original_dimensions": {
-              "width": 1536,
-              "height": 2048
-            },
-            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/561214755/square.jpg",
-            "attribution": "(c) Vadim Belov, some rights reserved (CC BY-NC)",
-            "flags": [],
-            "moderator_actions": [],
-            "hidden": false
-          }
-        }
-      ],
-      "geojson": {
-        "type": "Point",
-        "coordinates": [
-          -117.2779065,
-          32.8475609997
-        ]
-      },
-      "place_guess": "La Jolla, San Diego, CA, USA"
-    },
-    {
-      "id": 310882279,
-      "time_observed_at": "2025-09-01T13:06:05-07:00",
-      "observed_time_zone": "America/Los_Angeles",
-      "observation_photos": [
-        {
-          "id": 521184691,
-          "position": 0,
-          "uuid": "4bd63ff7-e3b0-4ed9-8c09-bff62fad4a23",
-          "photo_id": 561131449,
-          "photo": {
-            "id": 561131449,
+            "id": 563476359,
             "license_code": null,
             "original_dimensions": {
               "width": 2048,
-              "height": 1365
+              "height": 760
             },
-            "url": "https://static.inaturalist.org/photos/561131449/square.jpg",
-            "attribution": "(c) Dwight Flores, all rights reserved",
-            "flags": [],
-            "moderator_actions": [],
-            "hidden": false
-          }
-        },
-        {
-          "id": 521308918,
-          "position": 1,
-          "uuid": "b9ee14fe-4ad7-440d-a460-4d46df238dcc",
-          "photo_id": 561265180,
-          "photo": {
-            "id": 561265180,
-            "license_code": null,
-            "original_dimensions": {
-              "width": 2048,
-              "height": 1536
-            },
-            "url": "https://static.inaturalist.org/photos/561265180/square.jpg",
-            "attribution": "(c) Dwight Flores, all rights reserved",
-            "flags": [],
-            "moderator_actions": [],
-            "hidden": false
-          }
-        },
-        {
-          "id": 521308932,
-          "position": 2,
-          "uuid": "746c0f93-9f47-450b-ba12-1873dd298dca",
-          "photo_id": 561265194,
-          "photo": {
-            "id": 561265194,
-            "license_code": null,
-            "original_dimensions": {
-              "width": 2048,
-              "height": 1536
-            },
-            "url": "https://static.inaturalist.org/photos/561265194/square.jpg",
-            "attribution": "(c) Dwight Flores, all rights reserved",
-            "flags": [],
-            "moderator_actions": [],
-            "hidden": false
-          }
-        },
-        {
-          "id": 521308948,
-          "position": 3,
-          "uuid": "b951c90b-726e-42e4-9674-6dc7456c6b51",
-          "photo_id": 561265210,
-          "photo": {
-            "id": 561265210,
-            "license_code": null,
-            "original_dimensions": {
-              "width": 2048,
-              "height": 1536
-            },
-            "url": "https://static.inaturalist.org/photos/561265210/square.jpg",
-            "attribution": "(c) Dwight Flores, all rights reserved",
-            "flags": [],
-            "moderator_actions": [],
-            "hidden": false
-          }
-        },
-        {
-          "id": 521308953,
-          "position": 4,
-          "uuid": "bd79405a-aac2-40bf-b8c1-0d874185d3b4",
-          "photo_id": 561265223,
-          "photo": {
-            "id": 561265223,
-            "license_code": null,
-            "original_dimensions": {
-              "width": 2048,
-              "height": 1536
-            },
-            "url": "https://static.inaturalist.org/photos/561265223/square.jpg",
-            "attribution": "(c) Dwight Flores, all rights reserved",
-            "flags": [],
-            "moderator_actions": [],
-            "hidden": false
-          }
-        },
-        {
-          "id": 521308966,
-          "position": 5,
-          "uuid": "dd6d9f49-17b5-4f8a-a723-27fe7407f38e",
-          "photo_id": 561265238,
-          "photo": {
-            "id": 561265238,
-            "license_code": null,
-            "original_dimensions": {
-              "width": 2048,
-              "height": 1536
-            },
-            "url": "https://static.inaturalist.org/photos/561265238/square.jpg",
-            "attribution": "(c) Dwight Flores, all rights reserved",
+            "url": "https://static.inaturalist.org/photos/563476359/square.jpg",
+            "attribution": "(c) Henry Fabian, all rights reserved",
             "flags": [],
             "moderator_actions": [],
             "hidden": false
@@ -829,394 +1268,31 @@
       "geojson": {
         "type": "Point",
         "coordinates": [
-          -122.31174,
-          37.1185839722
+          -122.486328967,
+          37.4981841901
         ]
       },
-      "place_guess": "Pescadero, CA 94060, USA"
+      "place_guess": "San Mateo County, CA, USA"
     },
     {
-      "id": 311795518,
-      "time_observed_at": "2025-09-01T10:52:00-07:00",
+      "id": 312111244,
+      "time_observed_at": "2025-09-01T17:03:00-07:00",
       "observed_time_zone": "America/Los_Angeles",
       "observation_photos": [
         {
-          "id": 522794758,
+          "id": 523351332,
           "position": 0,
-          "uuid": "65e4ec2b-1f45-4a42-a58e-4f83222a1532",
-          "photo_id": 562874704,
+          "uuid": "fcc9e5bc-73d1-4381-9421-7d9866ef8f25",
+          "photo_id": 563476245,
           "photo": {
-            "id": 562874704,
-            "license_code": "cc-by-nc",
-            "original_dimensions": {
-              "width": 1600,
-              "height": 1067
-            },
-            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/562874704/square.jpg",
-            "attribution": "(c) Ilya Burylov, some rights reserved (CC BY-NC)",
-            "flags": [],
-            "moderator_actions": [],
-            "hidden": false
-          }
-        }
-      ],
-      "geojson": {
-        "type": "Point",
-        "coordinates": [
-          -124.064908055,
-          44.7472216667
-        ]
-      },
-      "place_guess": "Оттер Рок, Орегон 97369, США"
-    },
-    {
-      "id": 310828817,
-      "time_observed_at": "2025-09-01T10:50:15-07:00",
-      "observed_time_zone": "America/Los_Angeles",
-      "observation_photos": [
-        {
-          "id": 521154464,
-          "position": 0,
-          "uuid": "3a2a61d3-721f-46c3-8c71-0fb000dae070",
-          "photo_id": 561096678,
-          "photo": {
-            "id": 561096678,
-            "license_code": "cc-by-nc",
-            "original_dimensions": {
-              "width": 1947,
-              "height": 2048
-            },
-            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/561096678/square.jpg",
-            "attribution": "(c) Fred Watson, some rights reserved (CC BY-NC)",
-            "flags": [],
-            "moderator_actions": [],
-            "hidden": false
-          }
-        }
-      ],
-      "geojson": {
-        "type": "Point",
-        "coordinates": [
-          -121.7583796756,
-          36.8484177394
-        ]
-      },
-      "place_guess": "Moss Landing Wildlife Area, Moss Landing, CA, US"
-    },
-    {
-      "id": 311295298,
-      "time_observed_at": "2025-09-01T10:45:39-07:00",
-      "observed_time_zone": "America/Los_Angeles",
-      "observation_photos": [
-        {
-          "id": 521925730,
-          "position": 0,
-          "uuid": "19839cd1-0c0e-49d2-b66c-4492bde58c9e",
-          "photo_id": 561934742,
-          "photo": {
-            "id": 561934742,
-            "license_code": "cc-by-nc",
-            "original_dimensions": {
-              "width": 1170,
-              "height": 769
-            },
-            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/561934742/square.jpg",
-            "attribution": "(c) zjel, some rights reserved (CC BY-NC)",
-            "flags": [],
-            "moderator_actions": [],
-            "hidden": false
-          }
-        }
-      ],
-      "geojson": {
-        "type": "Point",
-        "coordinates": [
-          -122.3062815039,
-          37.115989247
-        ]
-      },
-      "place_guess": "Cove Beach, CA, US"
-    },
-    {
-      "id": 310957507,
-      "time_observed_at": "2025-09-01T10:22:00-07:00",
-      "observed_time_zone": "America/Los_Angeles",
-      "observation_photos": [
-        {
-          "id": 521322068,
-          "position": 0,
-          "uuid": "fd4ec6b4-396b-4a62-aa61-a67997981021",
-          "photo_id": 561277146,
-          "photo": {
-            "id": 561277146,
-            "license_code": "cc-by",
-            "original_dimensions": {
-              "width": 2048,
-              "height": 1365
-            },
-            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/561277146/square.jpg",
-            "attribution": "(c) cello caruso-turiello, some rights reserved (CC BY)",
-            "flags": [],
-            "moderator_actions": [],
-            "hidden": false
-          }
-        }
-      ],
-      "geojson": {
-        "type": "Point",
-        "coordinates": [
-          -121.9414798967,
-          36.62109362
-        ]
-      },
-      "place_guess": "Pacific Grove, CA, USA"
-    },
-    {
-      "id": 311629887,
-      "time_observed_at": "2025-08-31T19:16:29-07:00",
-      "observed_time_zone": "America/Los_Angeles",
-      "observation_photos": [
-        {
-          "id": 522514148,
-          "position": 0,
-          "uuid": "b17e1d07-84e2-4ab2-9562-a65f3f8d3986",
-          "photo_id": 562573923,
-          "photo": {
-            "id": 562573923,
-            "license_code": null,
-            "original_dimensions": {
-              "width": 1536,
-              "height": 2048
-            },
-            "url": "https://static.inaturalist.org/photos/562573923/square.jpg",
-            "attribution": "(c) Emma Chu, all rights reserved",
-            "flags": [],
-            "moderator_actions": [],
-            "hidden": false
-          }
-        }
-      ],
-      "geojson": {
-        "type": "Point",
-        "coordinates": [
-          -117.8342209392,
-          33.5683884801
-        ]
-      },
-      "place_guess": "Crystal Cove State Beach, Newport Beach, CA, US"
-    },
-    {
-      "id": 310950699,
-      "time_observed_at": "2025-08-31T16:45:00-07:00",
-      "observed_time_zone": "America/Los_Angeles",
-      "observation_photos": [
-        {
-          "id": 521309310,
-          "position": 0,
-          "uuid": "18094785-02e8-4eff-9afa-d5486bb51401",
-          "photo_id": 561264733,
-          "photo": {
-            "id": 561264733,
-            "license_code": "cc-by",
-            "original_dimensions": {
-              "width": 2048,
-              "height": 1364
-            },
-            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/561264733/square.jpg",
-            "attribution": "(c) cello caruso-turiello, some rights reserved (CC BY)",
-            "flags": [],
-            "moderator_actions": [],
-            "hidden": false
-          }
-        }
-      ],
-      "geojson": {
-        "type": "Point",
-        "coordinates": [
-          -121.7892557244,
-          36.8137449688
-        ]
-      },
-      "place_guess": "Moss Landing, CA 95039, USA"
-    },
-    {
-      "id": 310677141,
-      "time_observed_at": "2025-08-31T16:01:57-07:00",
-      "observed_time_zone": "America/Los_Angeles",
-      "observation_photos": [
-        {
-          "id": 520828501,
-          "position": 0,
-          "uuid": "92ecfd52-663d-42bd-95ef-03f5002a34e5",
-          "photo_id": 560742696,
-          "photo": {
-            "id": 560742696,
-            "license_code": "cc-by-nc",
-            "original_dimensions": {
-              "width": 504,
-              "height": 336
-            },
-            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/560742696/square.jpg",
-            "attribution": "(c) jagut95, some rights reserved (CC BY-NC)",
-            "flags": [],
-            "moderator_actions": [],
-            "hidden": false
-          }
-        }
-      ],
-      "geojson": {
-        "type": "Point",
-        "coordinates": [
-          -121.894485,
-          36.6057616667
-        ]
-      },
-      "place_guess": "Monterey, CA 93944, USA"
-    },
-    {
-      "id": 310883338,
-      "time_observed_at": "2025-08-31T13:28:00-07:00",
-      "observed_time_zone": "America/Los_Angeles",
-      "observation_photos": [
-        {
-          "id": 521186484,
-          "position": 0,
-          "uuid": "190ed7e3-2487-44da-b634-83efae5a56ae",
-          "photo_id": 561128556,
-          "photo": {
-            "id": 561128556,
-            "license_code": "cc-by-nc",
-            "original_dimensions": {
-              "width": 1100,
-              "height": 768
-            },
-            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/561128556/square.jpg",
-            "attribution": "(c) Di, some rights reserved (CC BY-NC)",
-            "flags": [],
-            "moderator_actions": [],
-            "hidden": false
-          }
-        }
-      ],
-      "geojson": {
-        "type": "Point",
-        "coordinates": [
-          -123.0235581878,
-          37.996660432
-        ]
-      },
-      "place_guess": "Marin County, CA, USA"
-    },
-    {
-      "id": 310553479,
-      "time_observed_at": "2025-08-31T11:34:57-07:00",
-      "observed_time_zone": "America/Los_Angeles",
-      "observation_photos": [
-        {
-          "id": 520604292,
-          "position": 0,
-          "uuid": "2ec2ba16-a7fa-4aa4-9916-5a45e7f84a6c",
-          "photo_id": 560501332,
-          "photo": {
-            "id": 560501332,
-            "license_code": "cc-by-nc",
-            "original_dimensions": {
-              "width": 946,
-              "height": 2048
-            },
-            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/560501332/square.jpg",
-            "attribution": "(c) Daisy E., some rights reserved (CC BY-NC)",
-            "flags": [],
-            "moderator_actions": [],
-            "hidden": false
-          }
-        }
-      ],
-      "geojson": {
-        "type": "Point",
-        "coordinates": [
-          -123.95153071,
-          46.2061318
-        ]
-      },
-      "place_guess": "Hammond, Warrenton, OR, USA"
-    },
-    {
-      "id": 310967570,
-      "time_observed_at": "2025-08-31T10:54:06-07:00",
-      "observed_time_zone": "America/Los_Angeles",
-      "observation_photos": [
-        {
-          "id": 521340890,
-          "position": 0,
-          "uuid": "f0b0acbc-c8c3-42b3-9342-63a22f5fdf12",
-          "photo_id": 561298530,
-          "photo": {
-            "id": 561298530,
+            "id": 563476245,
             "license_code": null,
             "original_dimensions": {
               "width": 2048,
-              "height": 1536
+              "height": 1022
             },
-            "url": "https://static.inaturalist.org/photos/561298530/square.jpg",
-            "attribution": "(c) BelaOakland, all rights reserved",
-            "flags": [],
-            "moderator_actions": [],
-            "hidden": false
-          }
-        },
-        {
-          "id": 521340903,
-          "position": 1,
-          "uuid": "aca36007-6682-4b47-9359-7a7bd6061236",
-          "photo_id": 561298549,
-          "photo": {
-            "id": 561298549,
-            "license_code": null,
-            "original_dimensions": {
-              "width": 2048,
-              "height": 1536
-            },
-            "url": "https://static.inaturalist.org/photos/561298549/square.jpg",
-            "attribution": "(c) BelaOakland, all rights reserved",
-            "flags": [],
-            "moderator_actions": [],
-            "hidden": false
-          }
-        },
-        {
-          "id": 521340918,
-          "position": 2,
-          "uuid": "7a610670-89f1-4428-996a-1a5668e1d959",
-          "photo_id": 561298569,
-          "photo": {
-            "id": 561298569,
-            "license_code": null,
-            "original_dimensions": {
-              "width": 2048,
-              "height": 1536
-            },
-            "url": "https://static.inaturalist.org/photos/561298569/square.jpg",
-            "attribution": "(c) BelaOakland, all rights reserved",
-            "flags": [],
-            "moderator_actions": [],
-            "hidden": false
-          }
-        },
-        {
-          "id": 521340927,
-          "position": 3,
-          "uuid": "d54a0616-a469-4f43-a8ce-66104159965f",
-          "photo_id": 561298579,
-          "photo": {
-            "id": 561298579,
-            "license_code": null,
-            "original_dimensions": {
-              "width": 2048,
-              "height": 1536
-            },
-            "url": "https://static.inaturalist.org/photos/561298579/square.jpg",
-            "attribution": "(c) BelaOakland, all rights reserved",
+            "url": "https://static.inaturalist.org/photos/563476245/square.jpg",
+            "attribution": "(c) Henry Fabian, all rights reserved",
             "flags": [],
             "moderator_actions": [],
             "hidden": false
@@ -1226,11 +1302,11 @@
       "geojson": {
         "type": "Point",
         "coordinates": [
-          -122.3231716667,
-          37.8903466667
+          -122.4879523831,
+          37.4974591402
         ]
       },
-      "place_guess": "Albany \"Bulb\", Albany, CA, US"
+      "place_guess": "San Mateo County, CA, USA"
     }
   ]
 }
