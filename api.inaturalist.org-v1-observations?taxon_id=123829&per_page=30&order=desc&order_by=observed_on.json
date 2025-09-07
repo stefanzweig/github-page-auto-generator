@@ -1,5 +1,5 @@
 {
-  "total_results": 7961,
+  "total_results": 7963,
   "page": 1,
   "per_page": 30,
   "results": [
@@ -218,6 +218,59 @@
         ]
       },
       "place_guess": "21 Municipal Wharf, Santa Cruz, CA 95060, USA"
+    },
+    {
+      "id": 312133603,
+      "time_observed_at": "2025-09-06T14:25:00-07:00",
+      "observed_time_zone": "America/Los_Angeles",
+      "observation_photos": [
+        {
+          "id": 523391801,
+          "position": 0,
+          "uuid": "96323c1a-88c5-4b5a-9f8b-f826da8fc0c7",
+          "photo_id": 563520063,
+          "photo": {
+            "id": 563520063,
+            "license_code": "cc-by-nc",
+            "original_dimensions": {
+              "width": 2048,
+              "height": 1536
+            },
+            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/563520063/square.jpg",
+            "attribution": "(c) californiaredwood, some rights reserved (CC BY-NC)",
+            "flags": [],
+            "moderator_actions": [],
+            "hidden": false
+          }
+        },
+        {
+          "id": 523391802,
+          "position": 1,
+          "uuid": "95a2569e-4b4d-4eca-82c8-8c1006fab447",
+          "photo_id": 563520056,
+          "photo": {
+            "id": 563520056,
+            "license_code": "cc-by-nc",
+            "original_dimensions": {
+              "width": 2048,
+              "height": 1536
+            },
+            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/563520056/square.jpg",
+            "attribution": "(c) californiaredwood, some rights reserved (CC BY-NC)",
+            "flags": [],
+            "moderator_actions": [],
+            "hidden": false
+          }
+        }
+      ],
+      "geojson": {
+        "type": "Point",
+        "coordinates": [
+          -122.2499379,
+          37.521681
+        ]
+      },
+      "place_guess": "Nob Hill Pond, Redwood City, CA 94065, USA"
     },
     {
       "id": 312100165,
@@ -1270,40 +1323,6 @@
         "coordinates": [
           -122.486328967,
           37.4981841901
-        ]
-      },
-      "place_guess": "San Mateo County, CA, USA"
-    },
-    {
-      "id": 312111244,
-      "time_observed_at": "2025-09-01T17:03:00-07:00",
-      "observed_time_zone": "America/Los_Angeles",
-      "observation_photos": [
-        {
-          "id": 523351332,
-          "position": 0,
-          "uuid": "fcc9e5bc-73d1-4381-9421-7d9866ef8f25",
-          "photo_id": 563476245,
-          "photo": {
-            "id": 563476245,
-            "license_code": null,
-            "original_dimensions": {
-              "width": 2048,
-              "height": 1022
-            },
-            "url": "https://static.inaturalist.org/photos/563476245/square.jpg",
-            "attribution": "(c) Henry Fabian, all rights reserved",
-            "flags": [],
-            "moderator_actions": [],
-            "hidden": false
-          }
-        }
-      ],
-      "geojson": {
-        "type": "Point",
-        "coordinates": [
-          -122.4879523831,
-          37.4974591402
         ]
       },
       "place_guess": "San Mateo County, CA, USA"
