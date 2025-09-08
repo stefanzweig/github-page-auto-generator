@@ -1,5 +1,5 @@
 {
-  "total_results": 7964,
+  "total_results": 7968,
   "page": 1,
   "per_page": 30,
   "results": [
@@ -795,6 +795,142 @@
       "place_guess": "Lakeshore, San Francisco, CA 94132, USA"
     },
     {
+      "id": 312335892,
+      "time_observed_at": "2025-09-05T11:07:00-07:00",
+      "observed_time_zone": "America/Los_Angeles",
+      "observation_photos": [
+        {
+          "id": 523745195,
+          "position": 0,
+          "uuid": "98c4ab24-27cb-4e3b-b3a6-00bc7af590a3",
+          "photo_id": 563902807,
+          "photo": {
+            "id": 563902807,
+            "license_code": null,
+            "original_dimensions": {
+              "width": 1500,
+              "height": 847
+            },
+            "url": "https://static.inaturalist.org/photos/563902807/square.jpg",
+            "attribution": "(c) Henry Fabian, all rights reserved",
+            "flags": [],
+            "moderator_actions": [],
+            "hidden": false
+          }
+        }
+      ],
+      "geojson": {
+        "type": "Point",
+        "coordinates": [
+          -122.3306190282,
+          37.8039837449
+        ]
+      },
+      "place_guess": "Oakland, CA, USA"
+    },
+    {
+      "id": 312335774,
+      "time_observed_at": "2025-09-05T11:06:00-07:00",
+      "observed_time_zone": "America/Los_Angeles",
+      "observation_photos": [
+        {
+          "id": 523744973,
+          "position": 0,
+          "uuid": "4d26b9fc-43ec-4974-a389-29b79966b182",
+          "photo_id": 563902551,
+          "photo": {
+            "id": 563902551,
+            "license_code": null,
+            "original_dimensions": {
+              "width": 2048,
+              "height": 635
+            },
+            "url": "https://static.inaturalist.org/photos/563902551/square.jpg",
+            "attribution": "(c) Henry Fabian, all rights reserved",
+            "flags": [],
+            "moderator_actions": [],
+            "hidden": false
+          }
+        }
+      ],
+      "geojson": {
+        "type": "Point",
+        "coordinates": [
+          -122.3319553167,
+          37.8050399453
+        ]
+      },
+      "place_guess": "Oakland, CA, USA"
+    },
+    {
+      "id": 312335395,
+      "time_observed_at": "2025-09-05T11:00:00-07:00",
+      "observed_time_zone": "America/Los_Angeles",
+      "observation_photos": [
+        {
+          "id": 523744306,
+          "position": 0,
+          "uuid": "98f3d5e6-8391-4264-b7e3-08df91425c9b",
+          "photo_id": 563901835,
+          "photo": {
+            "id": 563901835,
+            "license_code": null,
+            "original_dimensions": {
+              "width": 2048,
+              "height": 1000
+            },
+            "url": "https://static.inaturalist.org/photos/563901835/square.jpg",
+            "attribution": "(c) Henry Fabian, all rights reserved",
+            "flags": [],
+            "moderator_actions": [],
+            "hidden": false
+          }
+        }
+      ],
+      "geojson": {
+        "type": "Point",
+        "coordinates": [
+          -122.3251629476,
+          37.8030423381
+        ]
+      },
+      "place_guess": "Oakland, CA, USA"
+    },
+    {
+      "id": 312335102,
+      "time_observed_at": "2025-09-05T11:00:00-07:00",
+      "observed_time_zone": "America/Los_Angeles",
+      "observation_photos": [
+        {
+          "id": 523743657,
+          "position": 0,
+          "uuid": "8fc0f12f-0e7c-480b-8269-d99fb792da96",
+          "photo_id": 563901327,
+          "photo": {
+            "id": 563901327,
+            "license_code": null,
+            "original_dimensions": {
+              "width": 2048,
+              "height": 1122
+            },
+            "url": "https://static.inaturalist.org/photos/563901327/square.jpg",
+            "attribution": "(c) Henry Fabian, all rights reserved",
+            "flags": [],
+            "moderator_actions": [],
+            "hidden": false
+          }
+        }
+      ],
+      "geojson": {
+        "type": "Point",
+        "coordinates": [
+          -122.3263002347,
+          37.8031101708
+        ]
+      },
+      "place_guess": "Oakland, CA, USA"
+    },
+    {
       "id": 311620343,
       "time_observed_at": "2025-09-04T18:49:03-07:00",
       "observed_time_zone": "America/Los_Angeles",
@@ -1171,161 +1307,6 @@
         ]
       },
       "place_guess": "Jefferson County, WA, USA"
-    },
-    {
-      "id": 311195379,
-      "time_observed_at": "2025-09-02T23:12:00-07:00",
-      "observed_time_zone": "America/Los_Angeles",
-      "observation_photos": [
-        {
-          "id": 521752955,
-          "position": 0,
-          "uuid": "aa1240b1-e449-434b-a9d8-941c277d4eb8",
-          "photo_id": 561742517,
-          "photo": {
-            "id": 561742517,
-            "license_code": "cc-by-nc",
-            "original_dimensions": {
-              "width": 2048,
-              "height": 1536
-            },
-            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/561742517/square.jpg",
-            "attribution": "(c) Collier Sparks, some rights reserved (CC BY-NC)",
-            "flags": [],
-            "moderator_actions": [],
-            "hidden": false
-          }
-        },
-        {
-          "id": 521752956,
-          "position": 1,
-          "uuid": "e9971004-186d-415b-9f84-f64b0e275364",
-          "photo_id": 561742518,
-          "photo": {
-            "id": 561742518,
-            "license_code": "cc-by-nc",
-            "original_dimensions": {
-              "width": 2048,
-              "height": 1536
-            },
-            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/561742518/square.jpg",
-            "attribution": "(c) Collier Sparks, some rights reserved (CC BY-NC)",
-            "flags": [],
-            "moderator_actions": [],
-            "hidden": false
-          }
-        }
-      ],
-      "geojson": {
-        "type": "Point",
-        "coordinates": [
-          -124.3864232766,
-          47.6370997443
-        ]
-      },
-      "place_guess": "Jefferson County, WA, USA"
-    },
-    {
-      "id": 311173888,
-      "time_observed_at": "2025-09-02T15:10:00-07:00",
-      "observed_time_zone": "America/Los_Angeles",
-      "observation_photos": [
-        {
-          "id": 521712389,
-          "position": 0,
-          "uuid": "69a9c849-c162-46e4-a52c-5df035f69170",
-          "photo_id": 561699731,
-          "photo": {
-            "id": 561699731,
-            "license_code": "cc-by-nc",
-            "original_dimensions": {
-              "width": 2048,
-              "height": 1368
-            },
-            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/561699731/square.jpg",
-            "attribution": "(c) James Maughn, some rights reserved (CC BY-NC)",
-            "flags": [],
-            "moderator_actions": [],
-            "hidden": false
-          }
-        }
-      ],
-      "geojson": {
-        "type": "Point",
-        "coordinates": [
-          -122.3343883105,
-          37.1179717862
-        ]
-      },
-      "place_guess": "San Mateo County, CA, USA"
-    },
-    {
-      "id": 311518298,
-      "time_observed_at": "2025-09-01T18:30:00-07:00",
-      "observed_time_zone": "America/Los_Angeles",
-      "observation_photos": [
-        {
-          "id": 522314545,
-          "position": 0,
-          "uuid": "f1cb4f7e-2625-47ca-a1c1-593e729f481a",
-          "photo_id": 562345195,
-          "photo": {
-            "id": 562345195,
-            "license_code": "cc-by-nc",
-            "original_dimensions": {
-              "width": 2048,
-              "height": 1296
-            },
-            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/562345195/square.jpg",
-            "attribution": "(c) Sean, some rights reserved (CC BY-NC)",
-            "flags": [],
-            "moderator_actions": [],
-            "hidden": false
-          }
-        }
-      ],
-      "geojson": {
-        "type": "Point",
-        "coordinates": [
-          -117.838666283,
-          33.5724447979
-        ]
-      },
-      "place_guess": "Newport Coast, Newport Beach, CA, USA"
-    },
-    {
-      "id": 312111317,
-      "time_observed_at": "2025-09-01T17:05:00-07:00",
-      "observed_time_zone": "America/Los_Angeles",
-      "observation_photos": [
-        {
-          "id": 523351450,
-          "position": 0,
-          "uuid": "03c37741-9b6e-403c-8e6c-7d863d529872",
-          "photo_id": 563476359,
-          "photo": {
-            "id": 563476359,
-            "license_code": null,
-            "original_dimensions": {
-              "width": 2048,
-              "height": 760
-            },
-            "url": "https://static.inaturalist.org/photos/563476359/square.jpg",
-            "attribution": "(c) Henry Fabian, all rights reserved",
-            "flags": [],
-            "moderator_actions": [],
-            "hidden": false
-          }
-        }
-      ],
-      "geojson": {
-        "type": "Point",
-        "coordinates": [
-          -122.486328967,
-          37.4981841901
-        ]
-      },
-      "place_guess": "San Mateo County, CA, USA"
     }
   ]
 }
