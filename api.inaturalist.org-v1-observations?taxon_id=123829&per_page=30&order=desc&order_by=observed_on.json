@@ -1,5 +1,5 @@
 {
-  "total_results": 8003,
+  "total_results": 8006,
   "page": 1,
   "per_page": 30,
   "results": [
@@ -341,6 +341,40 @@
       "place_guess": "CA-1, Laguna Beach, CA, US"
     },
     {
+      "id": 312926263,
+      "time_observed_at": "2025-09-07T17:15:18-07:00",
+      "observed_time_zone": "America/Los_Angeles",
+      "observation_photos": [
+        {
+          "id": 524793271,
+          "position": 0,
+          "uuid": "be25a315-f528-4003-a995-337a383c0fc1",
+          "photo_id": 565045486,
+          "photo": {
+            "id": 565045486,
+            "license_code": "cc-by-nc",
+            "original_dimensions": {
+              "width": 2048,
+              "height": 1536
+            },
+            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/565045486/square.jpg",
+            "attribution": "(c) Richard Carlson, some rights reserved (CC BY-NC)",
+            "flags": [],
+            "moderator_actions": [],
+            "hidden": false
+          }
+        }
+      ],
+      "geojson": {
+        "type": "Point",
+        "coordinates": [
+          -122.4829177856,
+          37.5000267029
+        ]
+      },
+      "place_guess": "San Mateo County"
+    },
+    {
       "id": 312375839,
       "time_observed_at": "2025-09-07T17:11:20-07:00",
       "observed_time_zone": "America/Los_Angeles",
@@ -373,6 +407,40 @@
         ]
       },
       "place_guess": "VMFV+34 McLaughlin Eastshore State Park, Berkeley, CA 94720, USA"
+    },
+    {
+      "id": 312836852,
+      "time_observed_at": "2025-09-07T15:51:07-07:00",
+      "observed_time_zone": "America/Los_Angeles",
+      "observation_photos": [
+        {
+          "id": 524638333,
+          "position": 0,
+          "uuid": "88aea878-80f5-4073-bbc9-fea23c4f171a",
+          "photo_id": 564875859,
+          "photo": {
+            "id": 564875859,
+            "license_code": "cc-by",
+            "original_dimensions": {
+              "width": 2048,
+              "height": 1542
+            },
+            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/564875859/square.jpg",
+            "attribution": "(c) Matt Muir, some rights reserved (CC BY)",
+            "flags": [],
+            "moderator_actions": [],
+            "hidden": false
+          }
+        }
+      ],
+      "geojson": {
+        "type": "Point",
+        "coordinates": [
+          -121.894056201,
+          36.6056826407
+        ]
+      },
+      "place_guess": "Monterey, CA, USA"
     },
     {
       "id": 312527468,
@@ -1277,131 +1345,6 @@
         ]
       },
       "place_guess": "Albany, CA, USA"
-    },
-    {
-      "id": 312096822,
-      "time_observed_at": "2025-09-06T10:40:00-07:00",
-      "observed_time_zone": "America/Los_Angeles",
-      "observation_photos": [
-        {
-          "id": 523324324,
-          "position": 0,
-          "uuid": "030dfcfe-b35f-4225-8454-03142165569b",
-          "photo_id": 563440506,
-          "photo": {
-            "id": 563440506,
-            "license_code": "cc-by-nc",
-            "original_dimensions": {
-              "width": 2048,
-              "height": 1365
-            },
-            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/563440506/square.jpg",
-            "attribution": "(c) zkyle1337, some rights reserved (CC BY-NC)",
-            "flags": [],
-            "moderator_actions": [],
-            "hidden": false
-          }
-        },
-        {
-          "id": 523324325,
-          "position": 1,
-          "uuid": "9c0c14b2-3c23-4a7a-8411-b7b15d04eb7f",
-          "photo_id": 563440522,
-          "photo": {
-            "id": 563440522,
-            "license_code": "cc-by-nc",
-            "original_dimensions": {
-              "width": 2048,
-              "height": 1365
-            },
-            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/563440522/square.jpg",
-            "attribution": "(c) zkyle1337, some rights reserved (CC BY-NC)",
-            "flags": [],
-            "moderator_actions": [],
-            "hidden": false
-          }
-        }
-      ],
-      "geojson": {
-        "type": "Point",
-        "coordinates": [
-          -122.0833662,
-          36.9608175
-        ]
-      },
-      "place_guess": "Wilder Ranch State Park, 1401 Coast Rd, Santa Cruz, CA 95060, USA"
-    },
-    {
-      "id": 312096808,
-      "time_observed_at": "2025-09-06T10:06:00-07:00",
-      "observed_time_zone": "America/Los_Angeles",
-      "observation_photos": [
-        {
-          "id": 523324294,
-          "position": 0,
-          "uuid": "a3a601df-86a7-404a-84cb-2548c3c8a9c3",
-          "photo_id": 563439022,
-          "photo": {
-            "id": 563439022,
-            "license_code": "cc-by-nc",
-            "original_dimensions": {
-              "width": 2048,
-              "height": 1365
-            },
-            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/563439022/square.jpg",
-            "attribution": "(c) zkyle1337, some rights reserved (CC BY-NC)",
-            "flags": [],
-            "moderator_actions": [],
-            "hidden": false
-          }
-        },
-        {
-          "id": 523324295,
-          "position": 1,
-          "uuid": "68be0ce1-b582-4651-aa3d-dcb5c483238a",
-          "photo_id": 563440220,
-          "photo": {
-            "id": 563440220,
-            "license_code": "cc-by-nc",
-            "original_dimensions": {
-              "width": 2048,
-              "height": 1365
-            },
-            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/563440220/square.jpg",
-            "attribution": "(c) zkyle1337, some rights reserved (CC BY-NC)",
-            "flags": [],
-            "moderator_actions": [],
-            "hidden": false
-          }
-        },
-        {
-          "id": 523324296,
-          "position": 2,
-          "uuid": "c96ca394-b8c6-46de-9b01-f9a73df49973",
-          "photo_id": 563440188,
-          "photo": {
-            "id": 563440188,
-            "license_code": "cc-by-nc",
-            "original_dimensions": {
-              "width": 2048,
-              "height": 1365
-            },
-            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/563440188/square.jpg",
-            "attribution": "(c) zkyle1337, some rights reserved (CC BY-NC)",
-            "flags": [],
-            "moderator_actions": [],
-            "hidden": false
-          }
-        }
-      ],
-      "geojson": {
-        "type": "Point",
-        "coordinates": [
-          -122.0833662,
-          36.9608175
-        ]
-      },
-      "place_guess": "Wilder Ranch State Park, 1401 Coast Rd, Santa Cruz, CA 95060, USA"
     }
   ]
 }
