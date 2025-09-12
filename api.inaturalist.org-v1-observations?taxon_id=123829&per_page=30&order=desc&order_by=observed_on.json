@@ -1,5 +1,5 @@
 {
-  "total_results": 8011,
+  "total_results": 8014,
   "page": 1,
   "per_page": 30,
   "results": [
@@ -74,6 +74,40 @@
         ]
       },
       "place_guess": "Spud Point Marina, Bodega Bay, CA 94923, USA"
+    },
+    {
+      "id": 313208188,
+      "time_observed_at": "2025-09-10T16:20:00-07:00",
+      "observed_time_zone": "America/Los_Angeles",
+      "observation_photos": [
+        {
+          "id": 525288293,
+          "position": 0,
+          "uuid": "c433b4d1-7e48-4aaa-92fd-dc46840698f7",
+          "photo_id": 565579039,
+          "photo": {
+            "id": 565579039,
+            "license_code": "cc-by-nc",
+            "original_dimensions": {
+              "width": 1623,
+              "height": 1623
+            },
+            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/565579039/square.jpg",
+            "attribution": "(c) Joe MDO, some rights reserved (CC BY-NC)",
+            "flags": [],
+            "moderator_actions": [],
+            "hidden": false
+          }
+        }
+      ],
+      "geojson": {
+        "type": "Point",
+        "coordinates": [
+          -122.0798313463,
+          36.9532429301
+        ]
+      },
+      "place_guess": "Santa Cruz County, CA, USA"
     },
     {
       "id": 312995282,
@@ -1277,97 +1311,6 @@
               "height": 1365
             },
             "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/563441528/square.jpg",
-            "attribution": "(c) zkyle1337, some rights reserved (CC BY-NC)",
-            "flags": [],
-            "moderator_actions": [],
-            "hidden": false
-          }
-        }
-      ],
-      "geojson": {
-        "type": "Point",
-        "coordinates": [
-          -122.0833662,
-          36.9608175
-        ]
-      },
-      "place_guess": "Wilder Ranch State Park, 1401 Coast Rd, Santa Cruz, CA 95060, USA"
-    },
-    {
-      "id": 312096840,
-      "time_observed_at": "2025-09-06T10:55:00-07:00",
-      "observed_time_zone": "America/Los_Angeles",
-      "observation_photos": [
-        {
-          "id": 523324371,
-          "position": 0,
-          "uuid": "2c47c0d3-e6eb-4d72-a4b5-e1dbdcc01288",
-          "photo_id": 563441011,
-          "photo": {
-            "id": 563441011,
-            "license_code": "cc-by-nc",
-            "original_dimensions": {
-              "width": 2048,
-              "height": 1365
-            },
-            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/563441011/square.jpg",
-            "attribution": "(c) zkyle1337, some rights reserved (CC BY-NC)",
-            "flags": [],
-            "moderator_actions": [],
-            "hidden": false
-          }
-        },
-        {
-          "id": 523324372,
-          "position": 1,
-          "uuid": "8140dd04-4a60-402a-bec9-9af3933bac3b",
-          "photo_id": 563441035,
-          "photo": {
-            "id": 563441035,
-            "license_code": "cc-by-nc",
-            "original_dimensions": {
-              "width": 2048,
-              "height": 1365
-            },
-            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/563441035/square.jpg",
-            "attribution": "(c) zkyle1337, some rights reserved (CC BY-NC)",
-            "flags": [],
-            "moderator_actions": [],
-            "hidden": false
-          }
-        },
-        {
-          "id": 523324373,
-          "position": 2,
-          "uuid": "40aff7d1-8231-4929-9114-2762e0f74ed4",
-          "photo_id": 563441039,
-          "photo": {
-            "id": 563441039,
-            "license_code": "cc-by-nc",
-            "original_dimensions": {
-              "width": 2048,
-              "height": 1365
-            },
-            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/563441039/square.jpg",
-            "attribution": "(c) zkyle1337, some rights reserved (CC BY-NC)",
-            "flags": [],
-            "moderator_actions": [],
-            "hidden": false
-          }
-        },
-        {
-          "id": 523324374,
-          "position": 3,
-          "uuid": "227d34e4-8b64-419f-9ae8-e527662deebc",
-          "photo_id": 563441051,
-          "photo": {
-            "id": 563441051,
-            "license_code": "cc-by-nc",
-            "original_dimensions": {
-              "width": 2048,
-              "height": 1365
-            },
-            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/563441051/square.jpg",
             "attribution": "(c) zkyle1337, some rights reserved (CC BY-NC)",
             "flags": [],
             "moderator_actions": [],
