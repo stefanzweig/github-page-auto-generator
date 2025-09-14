@@ -1,5 +1,5 @@
 {
-  "total_results": 8025,
+  "total_results": 8034,
   "page": 1,
   "per_page": 30,
   "results": [
@@ -426,6 +426,40 @@
         ]
       },
       "place_guess": "Carlsbad Blvd, Carlsbad, CA, US"
+    },
+    {
+      "id": 313702692,
+      "time_observed_at": "2025-09-09T10:09:07-07:00",
+      "observed_time_zone": "America/Los_Angeles",
+      "observation_photos": [
+        {
+          "id": 526157841,
+          "position": 0,
+          "uuid": "e6333851-19d8-4ec1-ae2d-abf811edfef5",
+          "photo_id": 566526250,
+          "photo": {
+            "id": 566526250,
+            "license_code": null,
+            "original_dimensions": {
+              "width": 2048,
+              "height": 1366
+            },
+            "url": "https://static.inaturalist.org/photos/566526250/square.jpg",
+            "attribution": "(c) Lora Allison, all rights reserved",
+            "flags": [],
+            "moderator_actions": [],
+            "hidden": false
+          }
+        }
+      ],
+      "geojson": {
+        "type": "Point",
+        "coordinates": [
+          -122.4306090839,
+          37.8063014264
+        ]
+      },
+      "place_guess": "Golden Gate National Recreation Area, San Francisco, CA, US"
     },
     {
       "id": 312695846,
@@ -1292,59 +1326,6 @@
         ]
       },
       "place_guess": "21 Municipal Wharf, Santa Cruz, CA 95060, USA"
-    },
-    {
-      "id": 312133603,
-      "time_observed_at": "2025-09-06T14:25:00-07:00",
-      "observed_time_zone": "America/Los_Angeles",
-      "observation_photos": [
-        {
-          "id": 523391801,
-          "position": 0,
-          "uuid": "96323c1a-88c5-4b5a-9f8b-f826da8fc0c7",
-          "photo_id": 563520063,
-          "photo": {
-            "id": 563520063,
-            "license_code": "cc-by-nc",
-            "original_dimensions": {
-              "width": 2048,
-              "height": 1536
-            },
-            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/563520063/square.jpg",
-            "attribution": "(c) californiaredwood, some rights reserved (CC BY-NC)",
-            "flags": [],
-            "moderator_actions": [],
-            "hidden": false
-          }
-        },
-        {
-          "id": 523391802,
-          "position": 1,
-          "uuid": "95a2569e-4b4d-4eca-82c8-8c1006fab447",
-          "photo_id": 563520056,
-          "photo": {
-            "id": 563520056,
-            "license_code": "cc-by-nc",
-            "original_dimensions": {
-              "width": 2048,
-              "height": 1536
-            },
-            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/563520056/square.jpg",
-            "attribution": "(c) californiaredwood, some rights reserved (CC BY-NC)",
-            "flags": [],
-            "moderator_actions": [],
-            "hidden": false
-          }
-        }
-      ],
-      "geojson": {
-        "type": "Point",
-        "coordinates": [
-          -122.2499379,
-          37.521681
-        ]
-      },
-      "place_guess": "Nob Hill Pond, Redwood City, CA 94065, USA"
     }
   ]
 }
