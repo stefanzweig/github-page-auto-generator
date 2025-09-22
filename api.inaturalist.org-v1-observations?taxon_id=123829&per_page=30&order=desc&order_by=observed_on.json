@@ -1,5 +1,5 @@
 {
-  "total_results": 8119,
+  "total_results": 8120,
   "page": 1,
   "per_page": 30,
   "results": [
@@ -142,6 +142,59 @@
         ]
       },
       "place_guess": "Santa Monica Bay, Redondo Beach, CA, US"
+    },
+    {
+      "id": 315735674,
+      "time_observed_at": "2025-09-18T18:31:00-07:00",
+      "observed_time_zone": "America/Los_Angeles",
+      "observation_photos": [
+        {
+          "id": 529733947,
+          "position": 0,
+          "uuid": "b6749e59-d4aa-4d1a-afe1-79c389bcba3f",
+          "photo_id": 570400410,
+          "photo": {
+            "id": 570400410,
+            "license_code": null,
+            "original_dimensions": {
+              "width": 768,
+              "height": 1024
+            },
+            "url": "https://static.inaturalist.org/photos/570400410/square.jpg",
+            "attribution": "(c) morgan, all rights reserved",
+            "flags": [],
+            "moderator_actions": [],
+            "hidden": false
+          }
+        },
+        {
+          "id": 529733948,
+          "position": 1,
+          "uuid": "27b730a0-71e7-4d04-ae24-9276284a08b0",
+          "photo_id": 570400418,
+          "photo": {
+            "id": 570400418,
+            "license_code": null,
+            "original_dimensions": {
+              "width": 768,
+              "height": 1024
+            },
+            "url": "https://static.inaturalist.org/photos/570400418/square.jpg",
+            "attribution": "(c) morgan, all rights reserved",
+            "flags": [],
+            "moderator_actions": [],
+            "hidden": false
+          }
+        }
+      ],
+      "geojson": {
+        "type": "Point",
+        "coordinates": [
+          -121.9414786693,
+          36.509458239
+        ]
+      },
+      "place_guess": "Monterey County, CA, USA"
     },
     {
       "id": 314728534,
@@ -1691,40 +1744,6 @@
         ]
       },
       "place_guess": "Half Moon Bay, CA 94019, USA"
-    },
-    {
-      "id": 313744444,
-      "time_observed_at": "2025-09-13T09:16:12-07:00",
-      "observed_time_zone": "America/Los_Angeles",
-      "observation_photos": [
-        {
-          "id": 526233497,
-          "position": 0,
-          "uuid": "c095a4d3-5680-4ce5-aa4f-696a4def9543",
-          "photo_id": 566608887,
-          "photo": {
-            "id": 566608887,
-            "license_code": "cc-by-nc",
-            "original_dimensions": {
-              "width": 2048,
-              "height": 1542
-            },
-            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/566608887/square.jpg",
-            "attribution": "(c) indeed1, some rights reserved (CC BY-NC)",
-            "flags": [],
-            "moderator_actions": [],
-            "hidden": false
-          }
-        }
-      ],
-      "geojson": {
-        "type": "Point",
-        "coordinates": [
-          -118.6828055556,
-          34.031425
-        ]
-      },
-      "place_guess": "Eastern Malibu, Malibu, CA, USA"
     }
   ]
 }
