@@ -1,5 +1,5 @@
 {
-  "total_results": 8148,
+  "total_results": 8149,
   "page": 1,
   "per_page": 30,
   "results": [
@@ -36,6 +36,59 @@
         ]
       },
       "place_guess": "E Cliff Dr, Santa Cruz, CA, US"
+    },
+    {
+      "id": 316827644,
+      "time_observed_at": "2025-09-26T14:10:49-07:00",
+      "observed_time_zone": "America/Los_Angeles",
+      "observation_photos": [
+        {
+          "id": 531613637,
+          "position": 0,
+          "uuid": "f21bd329-5907-45c5-80c6-b570730b3ddd",
+          "photo_id": 572451087,
+          "photo": {
+            "id": 572451087,
+            "license_code": null,
+            "original_dimensions": {
+              "width": 2048,
+              "height": 1152
+            },
+            "url": "https://static.inaturalist.org/photos/572451087/square.jpg",
+            "attribution": "(c) antonettesummerville, all rights reserved",
+            "flags": [],
+            "moderator_actions": [],
+            "hidden": false
+          }
+        },
+        {
+          "id": 531613661,
+          "position": 1,
+          "uuid": "8bdb7ecf-843f-4da9-9997-6cff4d41722e",
+          "photo_id": 572451122,
+          "photo": {
+            "id": 572451122,
+            "license_code": null,
+            "original_dimensions": {
+              "width": 2048,
+              "height": 1152
+            },
+            "url": "https://static.inaturalist.org/photos/572451122/square.jpg",
+            "attribution": "(c) antonettesummerville, all rights reserved",
+            "flags": [],
+            "moderator_actions": [],
+            "hidden": false
+          }
+        }
+      ],
+      "geojson": {
+        "type": "Point",
+        "coordinates": [
+          -121.7532529682,
+          36.8417716888
+        ]
+      },
+      "place_guess": "La Selva Beach, CA 95076, USA"
     },
     {
       "id": 315964355,
@@ -1368,40 +1421,6 @@
         ]
       },
       "place_guess": "Leo J. Ryan Park, Foster City, CA, US"
-    },
-    {
-      "id": 314693441,
-      "time_observed_at": "2025-09-17T13:37:00-07:00",
-      "observed_time_zone": "America/Los_Angeles",
-      "observation_photos": [
-        {
-          "id": 527890932,
-          "position": 0,
-          "uuid": "89c66714-13e5-45fc-b4e7-f2cf96f96d80",
-          "photo_id": 568402648,
-          "photo": {
-            "id": 568402648,
-            "license_code": null,
-            "original_dimensions": {
-              "width": 2048,
-              "height": 1323
-            },
-            "url": "https://static.inaturalist.org/photos/568402648/square.jpg",
-            "attribution": "(c) Oregon Birder, all rights reserved",
-            "flags": [],
-            "moderator_actions": [],
-            "hidden": false
-          }
-        }
-      ],
-      "geojson": {
-        "type": "Point",
-        "coordinates": [
-          -124.0045515695,
-          46.2370932447
-        ]
-      },
-      "place_guess": "Clatsop County, OR, USA"
     }
   ]
 }
