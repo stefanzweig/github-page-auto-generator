@@ -1,5 +1,5 @@
 {
-  "total_results": 8192,
+  "total_results": 8194,
   "page": 1,
   "per_page": 30,
   "results": [
@@ -1262,6 +1262,40 @@
       "place_guess": "Half Moon Bay State Beach, Half Moon Bay, CA, US"
     },
     {
+      "id": 317992990,
+      "time_observed_at": "2025-09-25T18:37:18-07:00",
+      "observed_time_zone": "America/Los_Angeles",
+      "observation_photos": [
+        {
+          "id": 533660899,
+          "position": 0,
+          "uuid": "3167cf54-6a3f-4ad2-882e-365a2bc4b6b3",
+          "photo_id": 574669393,
+          "photo": {
+            "id": 574669393,
+            "license_code": "cc-by-nc",
+            "original_dimensions": {
+              "width": 1536,
+              "height": 2048
+            },
+            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/574669393/square.jpg",
+            "attribution": "(c) sheilaharman, some rights reserved (CC BY-NC)",
+            "flags": [],
+            "moderator_actions": [],
+            "hidden": false
+          }
+        }
+      ],
+      "geojson": {
+        "type": "Point",
+        "coordinates": [
+          -122.5030309311,
+          37.5978454627
+        ]
+      },
+      "place_guess": "Golden Gate National Recreation Area, Pacifica, CA, US"
+    },
+    {
       "id": 317682081,
       "time_observed_at": "2025-09-25T11:53:00-07:00",
       "observed_time_zone": "America/Los_Angeles",
@@ -1381,59 +1415,6 @@
         ]
       },
       "place_guess": "Newport Beach, CA, USA"
-    },
-    {
-      "id": 317582584,
-      "time_observed_at": "2025-09-23T17:03:00-07:00",
-      "observed_time_zone": "America/Los_Angeles",
-      "observation_photos": [
-        {
-          "id": 532938598,
-          "position": 0,
-          "uuid": "d5ca148d-0c2d-47ae-abe6-071788059d24",
-          "photo_id": 573875170,
-          "photo": {
-            "id": 573875170,
-            "license_code": "cc-by",
-            "original_dimensions": {
-              "width": 1142,
-              "height": 1142
-            },
-            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/573875170/square.jpg",
-            "attribution": "(c) Tser, some rights reserved (CC BY)",
-            "flags": [],
-            "moderator_actions": [],
-            "hidden": false
-          }
-        },
-        {
-          "id": 532938599,
-          "position": 1,
-          "uuid": "4b3920e6-486f-4236-80fd-36b4db4f1cc8",
-          "photo_id": 573875347,
-          "photo": {
-            "id": 573875347,
-            "license_code": "cc-by",
-            "original_dimensions": {
-              "width": 1022,
-              "height": 1022
-            },
-            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/573875347/square.jpg",
-            "attribution": "(c) Tser, some rights reserved (CC BY)",
-            "flags": [],
-            "moderator_actions": [],
-            "hidden": false
-          }
-        }
-      ],
-      "geojson": {
-        "type": "Point",
-        "coordinates": [
-          -124.0154616903,
-          46.2261156712
-        ]
-      },
-      "place_guess": "Fort Stevens State Park, South Jetty, Parking Lot C "
     }
   ]
 }
