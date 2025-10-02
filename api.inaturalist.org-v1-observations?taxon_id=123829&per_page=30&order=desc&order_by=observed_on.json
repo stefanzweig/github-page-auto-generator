@@ -1,5 +1,5 @@
 {
-  "total_results": 8194,
+  "total_results": 8193,
   "page": 1,
   "per_page": 30,
   "results": [
@@ -214,116 +214,6 @@
         ]
       },
       "place_guess": "Monterey, California, United States"
-    },
-    {
-      "id": 317912125,
-      "time_observed_at": "2025-09-30T10:57:00-07:00",
-      "observed_time_zone": "America/Los_Angeles",
-      "observation_photos": [
-        {
-          "id": 533518617,
-          "position": 0,
-          "uuid": "3d6ead9b-e8bf-4737-8e85-b1a19c7cd015",
-          "photo_id": 574475269,
-          "photo": {
-            "id": 574475269,
-            "license_code": null,
-            "original_dimensions": {
-              "width": 2048,
-              "height": 1536
-            },
-            "url": "https://static.inaturalist.org/photos/574475269/square.jpg",
-            "attribution": "(c) morgan, all rights reserved",
-            "flags": [],
-            "moderator_actions": [],
-            "hidden": false
-          }
-        },
-        {
-          "id": 533518618,
-          "position": 1,
-          "uuid": "8ab21660-1f36-439e-a27f-990b8c38225e",
-          "photo_id": 574475239,
-          "photo": {
-            "id": 574475239,
-            "license_code": null,
-            "original_dimensions": {
-              "width": 1536,
-              "height": 2048
-            },
-            "url": "https://static.inaturalist.org/photos/574475239/square.jpg",
-            "attribution": "(c) morgan, all rights reserved",
-            "flags": [],
-            "moderator_actions": [],
-            "hidden": false
-          }
-        },
-        {
-          "id": 533518619,
-          "position": 2,
-          "uuid": "0264afb3-5b00-4a40-aaa7-57d284411475",
-          "photo_id": 574475264,
-          "photo": {
-            "id": 574475264,
-            "license_code": null,
-            "original_dimensions": {
-              "width": 768,
-              "height": 1024
-            },
-            "url": "https://static.inaturalist.org/photos/574475264/square.jpg",
-            "attribution": "(c) morgan, all rights reserved",
-            "flags": [],
-            "moderator_actions": [],
-            "hidden": false
-          }
-        },
-        {
-          "id": 533518620,
-          "position": 3,
-          "uuid": "b164ff44-b26e-44ae-86e3-5f4d4447df80",
-          "photo_id": 574475296,
-          "photo": {
-            "id": 574475296,
-            "license_code": null,
-            "original_dimensions": {
-              "width": 2048,
-              "height": 1536
-            },
-            "url": "https://static.inaturalist.org/photos/574475296/square.jpg",
-            "attribution": "(c) morgan, all rights reserved",
-            "flags": [],
-            "moderator_actions": [],
-            "hidden": false
-          }
-        },
-        {
-          "id": 533518621,
-          "position": 4,
-          "uuid": "27670c4f-7a12-4319-9882-cc8844193da1",
-          "photo_id": 574475220,
-          "photo": {
-            "id": 574475220,
-            "license_code": null,
-            "original_dimensions": {
-              "width": 1024,
-              "height": 768
-            },
-            "url": "https://static.inaturalist.org/photos/574475220/square.jpg",
-            "attribution": "(c) morgan, all rights reserved",
-            "flags": [],
-            "moderator_actions": [],
-            "hidden": false
-          }
-        }
-      ],
-      "geojson": {
-        "type": "Point",
-        "coordinates": [
-          -121.94046667,
-          36.51312222
-        ]
-      },
-      "place_guess": "Point Lobos State Reserve, Monterey, California, United States"
     },
     {
       "id": 317850462,
@@ -1415,6 +1305,59 @@
         ]
       },
       "place_guess": "Newport Beach, CA, USA"
+    },
+    {
+      "id": 317582584,
+      "time_observed_at": "2025-09-23T17:03:00-07:00",
+      "observed_time_zone": "America/Los_Angeles",
+      "observation_photos": [
+        {
+          "id": 532938598,
+          "position": 0,
+          "uuid": "d5ca148d-0c2d-47ae-abe6-071788059d24",
+          "photo_id": 573875170,
+          "photo": {
+            "id": 573875170,
+            "license_code": "cc-by",
+            "original_dimensions": {
+              "width": 1142,
+              "height": 1142
+            },
+            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/573875170/square.jpg",
+            "attribution": "(c) Tser, some rights reserved (CC BY)",
+            "flags": [],
+            "moderator_actions": [],
+            "hidden": false
+          }
+        },
+        {
+          "id": 532938599,
+          "position": 1,
+          "uuid": "4b3920e6-486f-4236-80fd-36b4db4f1cc8",
+          "photo_id": 573875347,
+          "photo": {
+            "id": 573875347,
+            "license_code": "cc-by",
+            "original_dimensions": {
+              "width": 1022,
+              "height": 1022
+            },
+            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/573875347/square.jpg",
+            "attribution": "(c) Tser, some rights reserved (CC BY)",
+            "flags": [],
+            "moderator_actions": [],
+            "hidden": false
+          }
+        }
+      ],
+      "geojson": {
+        "type": "Point",
+        "coordinates": [
+          -124.0154616903,
+          46.2261156712
+        ]
+      },
+      "place_guess": "Fort Stevens State Park, South Jetty, Parking Lot C "
     }
   ]
 }
