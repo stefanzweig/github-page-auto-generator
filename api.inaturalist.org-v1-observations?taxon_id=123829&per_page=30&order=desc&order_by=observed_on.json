@@ -1,8 +1,42 @@
 {
-  "total_results": 8210,
+  "total_results": 8213,
   "page": 1,
   "per_page": 30,
   "results": [
+    {
+      "id": 318814726,
+      "time_observed_at": "2025-10-04T13:03:00-07:00",
+      "observed_time_zone": "America/Los_Angeles",
+      "observation_photos": [
+        {
+          "id": 535115076,
+          "position": 0,
+          "uuid": "81fc39d1-b794-425e-b8c0-4545c879d95c",
+          "photo_id": 576231586,
+          "photo": {
+            "id": 576231586,
+            "license_code": "cc-by-nc",
+            "original_dimensions": {
+              "width": 2048,
+              "height": 1536
+            },
+            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/576231586/square.jpg",
+            "attribution": "(c) James Maughn, some rights reserved (CC BY-NC)",
+            "flags": [],
+            "moderator_actions": [],
+            "hidden": false
+          }
+        }
+      ],
+      "geojson": {
+        "type": "Point",
+        "coordinates": [
+          -121.8922059008,
+          36.604636992
+        ]
+      },
+      "place_guess": "Monterey, CA, USA"
+    },
     {
       "id": 318706880,
       "time_observed_at": "2025-10-04T12:03:00-07:00",
@@ -36,6 +70,93 @@
         ]
       },
       "place_guess": "Central Berkeley, Berkeley, CA, USA"
+    },
+    {
+      "id": 318792923,
+      "time_observed_at": "2025-10-04T11:12:00-07:00",
+      "observed_time_zone": "America/Los_Angeles",
+      "observation_photos": [
+        {
+          "id": 535074917,
+          "position": 0,
+          "uuid": "bbebdd29-d157-4b24-85a9-b0bdc0c41fc2",
+          "photo_id": 576200150,
+          "photo": {
+            "id": 576200150,
+            "license_code": null,
+            "original_dimensions": {
+              "width": 2048,
+              "height": 739
+            },
+            "url": "https://static.inaturalist.org/photos/576200150/square.jpg",
+            "attribution": "(c) Henry Fabian, all rights reserved",
+            "flags": [],
+            "moderator_actions": [],
+            "hidden": false
+          }
+        }
+      ],
+      "geojson": {
+        "type": "Point",
+        "coordinates": [
+          -122.2495656415,
+          37.7506368353
+        ]
+      },
+      "place_guess": "Alameda, CA, USA"
+    },
+    {
+      "id": 318792858,
+      "time_observed_at": "2025-10-04T11:12:00-07:00",
+      "observed_time_zone": "America/Los_Angeles",
+      "observation_photos": [
+        {
+          "id": 535074812,
+          "position": 0,
+          "uuid": "7e48b66e-b075-4cb4-a2ef-683ff9a4411d",
+          "photo_id": 576199994,
+          "photo": {
+            "id": 576199994,
+            "license_code": null,
+            "original_dimensions": {
+              "width": 2048,
+              "height": 1102
+            },
+            "url": "https://static.inaturalist.org/photos/576199994/square.jpg",
+            "attribution": "(c) Henry Fabian, all rights reserved",
+            "flags": [],
+            "moderator_actions": [],
+            "hidden": false
+          }
+        },
+        {
+          "id": 535075068,
+          "position": 1,
+          "uuid": "66714252-7c45-42bf-9844-4e0a7e4221a8",
+          "photo_id": 576200294,
+          "photo": {
+            "id": 576200294,
+            "license_code": null,
+            "original_dimensions": {
+              "width": 2048,
+              "height": 1432
+            },
+            "url": "https://static.inaturalist.org/photos/576200294/square.jpg",
+            "attribution": "(c) Henry Fabian, all rights reserved",
+            "flags": [],
+            "moderator_actions": [],
+            "hidden": false
+          }
+        }
+      ],
+      "geojson": {
+        "type": "Point",
+        "coordinates": [
+          -122.2471087,
+          37.7530036
+        ]
+      },
+      "place_guess": "Elsie Roemer Bird Sanctuary, Alameda, CA 94501, USA"
     },
     {
       "id": 318663501,
@@ -1357,140 +1478,6 @@
         ]
       },
       "place_guess": "Mad River Slough Wildlife Area, Arcata, CA, US"
-    },
-    {
-      "id": 317426389,
-      "time_observed_at": "2025-09-27T16:08:16-07:00",
-      "observed_time_zone": "America/Los_Angeles",
-      "observation_photos": [
-        {
-          "id": 532663081,
-          "position": 0,
-          "uuid": "2ecd8d5b-2b24-4070-b36d-e861adf6fd19",
-          "photo_id": 573583079,
-          "photo": {
-            "id": 573583079,
-            "license_code": "cc-by-nc-sa",
-            "original_dimensions": {
-              "width": 1536,
-              "height": 2048
-            },
-            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/573583079/square.jpg",
-            "attribution": "(c) Claire Levy, some rights reserved (CC BY-NC-SA)",
-            "flags": [],
-            "moderator_actions": [],
-            "hidden": false
-          }
-        },
-        {
-          "id": 532663080,
-          "position": 1,
-          "uuid": "d8d7a3e9-fc51-4da7-b4c9-86f156aaf3dc",
-          "photo_id": 573583073,
-          "photo": {
-            "id": 573583073,
-            "license_code": "cc-by-nc-sa",
-            "original_dimensions": {
-              "width": 1536,
-              "height": 2048
-            },
-            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/573583073/square.jpg",
-            "attribution": "(c) Claire Levy, some rights reserved (CC BY-NC-SA)",
-            "flags": [],
-            "moderator_actions": [],
-            "hidden": false
-          }
-        }
-      ],
-      "geojson": {
-        "type": "Point",
-        "coordinates": [
-          -123.1265237964,
-          38.4488005075
-        ]
-      },
-      "place_guess": "Sonoma Coast State Beach, Sonoma County, US-CA, US"
-    },
-    {
-      "id": 317101421,
-      "time_observed_at": "2025-09-27T15:15:18-07:00",
-      "observed_time_zone": "America/Los_Angeles",
-      "observation_photos": [
-        {
-          "id": 532090309,
-          "position": 0,
-          "uuid": "cd53d276-74a4-4637-875e-bdb22f8e6214",
-          "photo_id": 572965214,
-          "photo": {
-            "id": 572965214,
-            "license_code": "cc-by-nc",
-            "original_dimensions": {
-              "width": 1153,
-              "height": 2048
-            },
-            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/572965214/square.jpg",
-            "attribution": "(c) ahnika09, some rights reserved (CC BY-NC)",
-            "flags": [],
-            "moderator_actions": [],
-            "hidden": false
-          }
-        }
-      ],
-      "geojson": null,
-      "place_guess": null
-    },
-    {
-      "id": 317305955,
-      "time_observed_at": "2025-09-27T14:43:45-07:00",
-      "observed_time_zone": "America/Los_Angeles",
-      "observation_photos": [
-        {
-          "id": 532449674,
-          "position": 0,
-          "uuid": "cca04059-8d8c-42c0-aa2a-c84d31a51986",
-          "photo_id": 573353445,
-          "photo": {
-            "id": 573353445,
-            "license_code": "cc0",
-            "original_dimensions": {
-              "width": 2048,
-              "height": 1306
-            },
-            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/573353445/square.jpg",
-            "attribution": "no rights reserved",
-            "flags": [],
-            "moderator_actions": [],
-            "hidden": false
-          }
-        },
-        {
-          "id": 532449703,
-          "position": 1,
-          "uuid": "e438cb4e-72e7-4bc9-8b76-4d2630be9960",
-          "photo_id": 573353487,
-          "photo": {
-            "id": 573353487,
-            "license_code": "cc0",
-            "original_dimensions": {
-              "width": 2048,
-              "height": 1286
-            },
-            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/573353487/square.jpg",
-            "attribution": "no rights reserved",
-            "flags": [],
-            "moderator_actions": [],
-            "hidden": false
-          }
-        }
-      ],
-      "geojson": {
-        "type": "Point",
-        "coordinates": [
-          -122.0864028333,
-          36.9527166667
-        ]
-      },
-      "place_guess": "Wilder Ranch State Park, Santa Cruz, CA, US"
     }
   ]
 }
