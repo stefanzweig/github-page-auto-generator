@@ -1,5 +1,5 @@
 {
-  "total_results": 8277,
+  "total_results": 8279,
   "page": 1,
   "per_page": 30,
   "results": [
@@ -55,6 +55,40 @@
         ]
       },
       "place_guess": "San Francisco, CA, US"
+    },
+    {
+      "id": 320404961,
+      "time_observed_at": "2025-10-11T16:30:48-07:00",
+      "observed_time_zone": "America/Los_Angeles",
+      "observation_photos": [
+        {
+          "id": 537932324,
+          "position": 0,
+          "uuid": "e26cdf1c-29b7-4915-83f5-927bce451e68",
+          "photo_id": 579299082,
+          "photo": {
+            "id": 579299082,
+            "license_code": "cc-by-nc",
+            "original_dimensions": {
+              "width": 1263,
+              "height": 1641
+            },
+            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/579299082/square.jpg",
+            "attribution": "(c) Aiden Pacheco, some rights reserved (CC BY-NC)",
+            "flags": [],
+            "moderator_actions": [],
+            "hidden": false
+          }
+        }
+      ],
+      "geojson": {
+        "type": "Point",
+        "coordinates": [
+          -119.3069033,
+          34.2752053997
+        ]
+      },
+      "place_guess": "Ventura, CA, USA"
     },
     {
       "id": 320228612,
@@ -309,6 +343,40 @@
         ]
       },
       "place_guess": "Bedwell Bayfront Park, Menlo Park, CA, US"
+    },
+    {
+      "id": 319883246,
+      "time_observed_at": "2025-10-09T18:43:05-07:00",
+      "observed_time_zone": "America/Los_Angeles",
+      "observation_photos": [
+        {
+          "id": 537000978,
+          "position": 0,
+          "uuid": "6301bb76-6715-494a-be96-38dae47242fc",
+          "photo_id": 578287413,
+          "photo": {
+            "id": 578287413,
+            "license_code": "cc-by-nc",
+            "original_dimensions": {
+              "width": 948,
+              "height": 1522
+            },
+            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/578287413/square.jpg",
+            "attribution": "(c) Aiden Pacheco, some rights reserved (CC BY-NC)",
+            "flags": [],
+            "moderator_actions": [],
+            "hidden": false
+          }
+        }
+      ],
+      "geojson": {
+        "type": "Point",
+        "coordinates": [
+          -119.2912591,
+          34.2746415
+        ]
+      },
+      "place_guess": "Ventura, CA, USA"
     },
     {
       "id": 320294571,
@@ -1429,74 +1497,6 @@
         ]
       },
       "place_guess": "Monterey, CA, USA"
-    },
-    {
-      "id": 318706880,
-      "time_observed_at": "2025-10-04T12:03:00-07:00",
-      "observed_time_zone": "America/Los_Angeles",
-      "observation_photos": [
-        {
-          "id": 534920586,
-          "position": 0,
-          "uuid": "647e0a6e-7a29-4f31-af83-cd31b3ace0d9",
-          "photo_id": 576034343,
-          "photo": {
-            "id": 576034343,
-            "license_code": "cc-by-nc",
-            "original_dimensions": {
-              "width": 1536,
-              "height": 2048
-            },
-            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/576034343/square.jpg",
-            "attribution": "(c) Daniel Gawlikowski, some rights reserved (CC BY-NC)",
-            "flags": [],
-            "moderator_actions": [],
-            "hidden": false
-          }
-        }
-      ],
-      "geojson": {
-        "type": "Point",
-        "coordinates": [
-          -122.2810871924,
-          37.8709951709
-        ]
-      },
-      "place_guess": "Central Berkeley, Berkeley, CA, USA"
-    },
-    {
-      "id": 318792923,
-      "time_observed_at": "2025-10-04T11:12:00-07:00",
-      "observed_time_zone": "America/Los_Angeles",
-      "observation_photos": [
-        {
-          "id": 535074917,
-          "position": 0,
-          "uuid": "bbebdd29-d157-4b24-85a9-b0bdc0c41fc2",
-          "photo_id": 576200150,
-          "photo": {
-            "id": 576200150,
-            "license_code": null,
-            "original_dimensions": {
-              "width": 2048,
-              "height": 739
-            },
-            "url": "https://static.inaturalist.org/photos/576200150/square.jpg",
-            "attribution": "(c) Henry Fabian, all rights reserved",
-            "flags": [],
-            "moderator_actions": [],
-            "hidden": false
-          }
-        }
-      ],
-      "geojson": {
-        "type": "Point",
-        "coordinates": [
-          -122.2495656415,
-          37.7506368353
-        ]
-      },
-      "place_guess": "Alameda, CA, USA"
     }
   ]
 }
