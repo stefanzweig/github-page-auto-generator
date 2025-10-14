@@ -1,8 +1,61 @@
 {
-  "total_results": 8304,
+  "total_results": 8306,
   "page": 1,
   "per_page": 30,
   "results": [
+    {
+      "id": 320874585,
+      "time_observed_at": "2025-10-13T12:35:46-07:00",
+      "observed_time_zone": "America/Los_Angeles",
+      "observation_photos": [
+        {
+          "id": 538777800,
+          "position": 0,
+          "uuid": "bc75db4e-6beb-4f21-90ac-37e3da3d6f04",
+          "photo_id": 580220973,
+          "photo": {
+            "id": 580220973,
+            "license_code": null,
+            "original_dimensions": {
+              "width": 2048,
+              "height": 1265
+            },
+            "url": "https://static.inaturalist.org/photos/580220973/square.jpg",
+            "attribution": "(c) Sheryl Joiner, all rights reserved",
+            "flags": [],
+            "moderator_actions": [],
+            "hidden": false
+          }
+        },
+        {
+          "id": 538777799,
+          "position": 1,
+          "uuid": "d5eae3ac-462b-4d5a-90b9-ed6ac40563a7",
+          "photo_id": 580220976,
+          "photo": {
+            "id": 580220976,
+            "license_code": null,
+            "original_dimensions": {
+              "width": 2048,
+              "height": 1276
+            },
+            "url": "https://static.inaturalist.org/photos/580220976/square.jpg",
+            "attribution": "(c) Sheryl Joiner, all rights reserved",
+            "flags": [],
+            "moderator_actions": [],
+            "hidden": false
+          }
+        }
+      ],
+      "geojson": {
+        "type": "Point",
+        "coordinates": [
+          -121.8165010962,
+          36.2380823731
+        ]
+      },
+      "place_guess": "Monterey County, US-CA, US"
+    },
     {
       "id": 320799611,
       "time_observed_at": "2025-10-13T10:40:00-07:00",
@@ -123,6 +176,59 @@
         ]
       },
       "place_guess": "CA-1, Jenner, CA, US"
+    },
+    {
+      "id": 320770677,
+      "time_observed_at": "2025-10-12T13:02:00-07:00",
+      "observed_time_zone": "America/Los_Angeles",
+      "observation_photos": [
+        {
+          "id": 538592331,
+          "position": 0,
+          "uuid": "f3b9c6ae-4405-4040-ac3e-16963b6e6d7d",
+          "photo_id": 580018297,
+          "photo": {
+            "id": 580018297,
+            "license_code": "cc-by-nc",
+            "original_dimensions": {
+              "width": 1145,
+              "height": 2048
+            },
+            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/580018297/square.jpg",
+            "attribution": "(c) Curtis, some rights reserved (CC BY-NC)",
+            "flags": [],
+            "moderator_actions": [],
+            "hidden": false
+          }
+        },
+        {
+          "id": 538592360,
+          "position": 1,
+          "uuid": "dc2029e0-5bdc-431e-8036-932ae00158dd",
+          "photo_id": 580018329,
+          "photo": {
+            "id": 580018329,
+            "license_code": "cc-by-nc",
+            "original_dimensions": {
+              "width": 1172,
+              "height": 2048
+            },
+            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/580018329/square.jpg",
+            "attribution": "(c) Curtis, some rights reserved (CC BY-NC)",
+            "flags": [],
+            "moderator_actions": [],
+            "hidden": false
+          }
+        }
+      ],
+      "geojson": {
+        "type": "Point",
+        "coordinates": [
+          -122.2623794104,
+          37.8099211973
+        ]
+      },
+      "place_guess": "Harrison St, Oakland, CA, US"
     },
     {
       "id": 320565135,
@@ -1258,93 +1364,6 @@
         ]
       },
       "place_guess": "Monterey County, CA, USA"
-    },
-    {
-      "id": 319502055,
-      "time_observed_at": "2025-10-07T18:16:00-07:00",
-      "observed_time_zone": "America/Los_Angeles",
-      "observation_photos": [
-        {
-          "id": 536329509,
-          "position": 0,
-          "uuid": "71b3b1de-2a47-46b4-8e9c-e18f58a6ecfc",
-          "photo_id": 577548101,
-          "photo": {
-            "id": 577548101,
-            "license_code": null,
-            "original_dimensions": {
-              "width": 2048,
-              "height": 1536
-            },
-            "url": "https://static.inaturalist.org/photos/577548101/square.jpg",
-            "attribution": "(c) morgan, all rights reserved",
-            "flags": [],
-            "moderator_actions": [],
-            "hidden": false
-          }
-        },
-        {
-          "id": 536329510,
-          "position": 1,
-          "uuid": "9e7c6415-12ca-4c2f-a6c0-366009137bd2",
-          "photo_id": 577548116,
-          "photo": {
-            "id": 577548116,
-            "license_code": null,
-            "original_dimensions": {
-              "width": 2048,
-              "height": 1536
-            },
-            "url": "https://static.inaturalist.org/photos/577548116/square.jpg",
-            "attribution": "(c) morgan, all rights reserved",
-            "flags": [],
-            "moderator_actions": [],
-            "hidden": false
-          }
-        }
-      ],
-      "geojson": {
-        "type": "Point",
-        "coordinates": [
-          -121.9340260891,
-          36.5439848733
-        ]
-      },
-      "place_guess": "Monterey County, CA, USA"
-    },
-    {
-      "id": 319592980,
-      "time_observed_at": "2025-10-07T14:49:58-07:00",
-      "observed_time_zone": "America/Los_Angeles",
-      "observation_photos": [
-        {
-          "id": 536485194,
-          "position": 0,
-          "uuid": "57e765e9-a36d-4e1e-b538-0d07248a9cc0",
-          "photo_id": 577728145,
-          "photo": {
-            "id": 577728145,
-            "license_code": "cc-by-nc",
-            "original_dimensions": {
-              "width": 1653,
-              "height": 1653
-            },
-            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/577728145/square.jpg",
-            "attribution": "(c) limonada3462, some rights reserved (CC BY-NC)",
-            "flags": [],
-            "moderator_actions": [],
-            "hidden": false
-          }
-        }
-      ],
-      "geojson": {
-        "type": "Point",
-        "coordinates": [
-          -122.0200306697,
-          36.9605708427
-        ]
-      },
-      "place_guess": "Municipal Wharf, Santa Cruz, CA, US"
     }
   ]
 }
