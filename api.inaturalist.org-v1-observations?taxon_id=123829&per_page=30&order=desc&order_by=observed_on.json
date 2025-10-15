@@ -1,5 +1,5 @@
 {
-  "total_results": 8306,
+  "total_results": 8309,
   "page": 1,
   "per_page": 30,
   "results": [
@@ -55,6 +55,74 @@
         ]
       },
       "place_guess": "Monterey County, US-CA, US"
+    },
+    {
+      "id": 320950659,
+      "time_observed_at": "2025-10-13T11:06:00-07:00",
+      "observed_time_zone": "America/Los_Angeles",
+      "observation_photos": [
+        {
+          "id": 538915539,
+          "position": 0,
+          "uuid": "f7fdba0b-c799-42ee-91f4-610b4a152f69",
+          "photo_id": 580371718,
+          "photo": {
+            "id": 580371718,
+            "license_code": "cc-by-nc",
+            "original_dimensions": {
+              "width": 2048,
+              "height": 1365
+            },
+            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/580371718/square.jpg",
+            "attribution": "(c) Scott Templeton, some rights reserved (CC BY-NC)",
+            "flags": [],
+            "moderator_actions": [],
+            "hidden": false
+          }
+        }
+      ],
+      "geojson": {
+        "type": "Point",
+        "coordinates": [
+          -118.6820358788,
+          34.033186349
+        ]
+      },
+      "place_guess": "Eastern Malibu, Malibu, CA, USA"
+    },
+    {
+      "id": 320799610,
+      "time_observed_at": "2025-10-13T10:41:00-07:00",
+      "observed_time_zone": "America/Los_Angeles",
+      "observation_photos": [
+        {
+          "id": 538645381,
+          "position": 0,
+          "uuid": "2e13f8e2-22b4-4305-b675-08f7fe10f446",
+          "photo_id": 580074445,
+          "photo": {
+            "id": 580074445,
+            "license_code": "cc-by-nc",
+            "original_dimensions": {
+              "width": 2048,
+              "height": 1365
+            },
+            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/580074445/square.jpg",
+            "attribution": "(c) Scott Templeton, some rights reserved (CC BY-NC)",
+            "flags": [],
+            "moderator_actions": [],
+            "hidden": false
+          }
+        }
+      ],
+      "geojson": {
+        "type": "Point",
+        "coordinates": [
+          -118.6831710008,
+          34.0337083573
+        ]
+      },
+      "place_guess": "Eastern Malibu, Malibu, CA, USA"
     },
     {
       "id": 320799611,
@@ -622,6 +690,40 @@
         ]
       },
       "place_guess": "Ventura, CA, USA"
+    },
+    {
+      "id": 320958455,
+      "time_observed_at": "2025-10-11T15:39:00-07:00",
+      "observed_time_zone": "America/Los_Angeles",
+      "observation_photos": [
+        {
+          "id": 538930649,
+          "position": 0,
+          "uuid": "2919a0f5-dab6-4507-9acd-718cbd257097",
+          "photo_id": 580387208,
+          "photo": {
+            "id": 580387208,
+            "license_code": "cc-by-nc",
+            "original_dimensions": {
+              "width": 1500,
+              "height": 487
+            },
+            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/580387208/square.jpg",
+            "attribution": "(c) Patricia Teague, some rights reserved (CC BY-NC)",
+            "flags": [],
+            "moderator_actions": [],
+            "hidden": false
+          }
+        }
+      ],
+      "geojson": {
+        "type": "Point",
+        "coordinates": [
+          -124.0127027833,
+          46.2350388833
+        ]
+      },
+      "place_guess": "FSSP Social Security Beach"
     },
     {
       "id": 320228612,
@@ -1224,146 +1326,6 @@
         ]
       },
       "place_guess": "San Mateo County, CA, USA"
-    },
-    {
-      "id": 319820590,
-      "time_observed_at": "2025-10-08T10:26:00-07:00",
-      "observed_time_zone": "America/Los_Angeles",
-      "observation_photos": [
-        {
-          "id": 536889049,
-          "position": 0,
-          "uuid": "6d54119c-2468-49bf-b73e-7bf0d25cc76d",
-          "photo_id": 578163942,
-          "photo": {
-            "id": 578163942,
-            "license_code": "cc-by-nc",
-            "original_dimensions": {
-              "width": 2048,
-              "height": 1365
-            },
-            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/578163942/square.jpg",
-            "attribution": "(c) Torin Johnson, some rights reserved (CC BY-NC)",
-            "flags": [],
-            "moderator_actions": [],
-            "hidden": false
-          }
-        }
-      ],
-      "geojson": {
-        "type": "Point",
-        "coordinates": [
-          -122.8875934,
-          38.0539019
-        ]
-      },
-      "place_guess": "Point Reyes National Seashore, California, USA"
-    },
-    {
-      "id": 319502074,
-      "time_observed_at": "2025-10-07T18:25:00-07:00",
-      "observed_time_zone": "America/Los_Angeles",
-      "observation_photos": [
-        {
-          "id": 536329543,
-          "position": 0,
-          "uuid": "2832ad09-a55a-47ee-9f70-cfb35a953a36",
-          "photo_id": 577548226,
-          "photo": {
-            "id": 577548226,
-            "license_code": null,
-            "original_dimensions": {
-              "width": 2048,
-              "height": 1536
-            },
-            "url": "https://static.inaturalist.org/photos/577548226/square.jpg",
-            "attribution": "(c) morgan, all rights reserved",
-            "flags": [],
-            "moderator_actions": [],
-            "hidden": false
-          }
-        },
-        {
-          "id": 536329545,
-          "position": 1,
-          "uuid": "0b78a740-d3d6-4d67-b849-a2f678e54d8a",
-          "photo_id": 577548251,
-          "photo": {
-            "id": 577548251,
-            "license_code": null,
-            "original_dimensions": {
-              "width": 2048,
-              "height": 1536
-            },
-            "url": "https://static.inaturalist.org/photos/577548251/square.jpg",
-            "attribution": "(c) morgan, all rights reserved",
-            "flags": [],
-            "moderator_actions": [],
-            "hidden": false
-          }
-        }
-      ],
-      "geojson": {
-        "type": "Point",
-        "coordinates": [
-          -121.9340260891,
-          36.5439848733
-        ]
-      },
-      "place_guess": "Monterey County, CA, USA"
-    },
-    {
-      "id": 319502073,
-      "time_observed_at": "2025-10-07T18:23:00-07:00",
-      "observed_time_zone": "America/Los_Angeles",
-      "observation_photos": [
-        {
-          "id": 536329540,
-          "position": 0,
-          "uuid": "4ff055cd-c6e7-4131-95ee-976f3a121a34",
-          "photo_id": 577548210,
-          "photo": {
-            "id": 577548210,
-            "license_code": null,
-            "original_dimensions": {
-              "width": 2048,
-              "height": 1536
-            },
-            "url": "https://static.inaturalist.org/photos/577548210/square.jpg",
-            "attribution": "(c) morgan, all rights reserved",
-            "flags": [],
-            "moderator_actions": [],
-            "hidden": false
-          }
-        },
-        {
-          "id": 536329541,
-          "position": 1,
-          "uuid": "cda473f0-f2a7-47d2-9f67-56bcdc390cbe",
-          "photo_id": 577548211,
-          "photo": {
-            "id": 577548211,
-            "license_code": null,
-            "original_dimensions": {
-              "width": 2048,
-              "height": 1536
-            },
-            "url": "https://static.inaturalist.org/photos/577548211/square.jpg",
-            "attribution": "(c) morgan, all rights reserved",
-            "flags": [],
-            "moderator_actions": [],
-            "hidden": false
-          }
-        }
-      ],
-      "geojson": {
-        "type": "Point",
-        "coordinates": [
-          -121.9340260891,
-          36.5439848733
-        ]
-      },
-      "place_guess": "Monterey County, CA, USA"
     }
   ]
 }
