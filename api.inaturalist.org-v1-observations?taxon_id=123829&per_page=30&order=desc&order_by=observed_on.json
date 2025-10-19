@@ -1,5 +1,5 @@
 {
-  "total_results": 8371,
+  "total_results": 8372,
   "page": 1,
   "per_page": 30,
   "results": [
@@ -840,6 +840,40 @@
       "place_guess": "Carmel River State Beach, 26478 Carmelo St, Carmel, CA 93923, USA"
     },
     {
+      "id": 321760050,
+      "time_observed_at": "2025-10-14T13:42:00-07:00",
+      "observed_time_zone": "America/Los_Angeles",
+      "observation_photos": [
+        {
+          "id": 540360418,
+          "position": 0,
+          "uuid": "b794716f-51db-4b0f-9e54-4478a9be2728",
+          "photo_id": 581790458,
+          "photo": {
+            "id": 581790458,
+            "license_code": "cc-by",
+            "original_dimensions": {
+              "width": 1500,
+              "height": 1000
+            },
+            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/581790458/square.jpg",
+            "attribution": "(c) Matthew Inabinett, some rights reserved (CC BY)",
+            "flags": [],
+            "moderator_actions": [],
+            "hidden": false
+          }
+        }
+      ],
+      "geojson": {
+        "type": "Point",
+        "coordinates": [
+          -122.0570952469,
+          36.9495712028
+        ]
+      },
+      "place_guess": "Santa Cruz, CA, USA"
+    },
+    {
       "id": 321395466,
       "time_observed_at": "2025-10-14T11:47:00-07:00",
       "observed_time_zone": "America/Los_Angeles",
@@ -1334,97 +1368,6 @@
               "height": 1365
             },
             "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/581282341/square.jpg",
-            "attribution": "(c) Zachary Sun Monen, some rights reserved (CC BY-NC)",
-            "flags": [],
-            "moderator_actions": [],
-            "hidden": false
-          }
-        }
-      ],
-      "geojson": {
-        "type": "Point",
-        "coordinates": [
-          -124.0731638333,
-          44.673075
-        ]
-      },
-      "place_guess": "Yaquina Head Outstanding Natural Area, Newport, OR, US"
-    },
-    {
-      "id": 321409283,
-      "time_observed_at": "2025-10-13T15:25:46-07:00",
-      "observed_time_zone": "America/Los_Angeles",
-      "observation_photos": [
-        {
-          "id": 539739001,
-          "position": 0,
-          "uuid": "240330b8-fef7-4932-b7a1-48ae0f7c4729",
-          "photo_id": 581272811,
-          "photo": {
-            "id": 581272811,
-            "license_code": "cc-by-nc",
-            "original_dimensions": {
-              "width": 2048,
-              "height": 1319
-            },
-            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/581272811/square.jpg",
-            "attribution": "(c) Zachary Sun Monen, some rights reserved (CC BY-NC)",
-            "flags": [],
-            "moderator_actions": [],
-            "hidden": false
-          }
-        },
-        {
-          "id": 539739030,
-          "position": 1,
-          "uuid": "557f27df-d660-4259-8ec5-1f43b78e15c9",
-          "photo_id": 581272837,
-          "photo": {
-            "id": 581272837,
-            "license_code": "cc-by-nc",
-            "original_dimensions": {
-              "width": 2048,
-              "height": 1226
-            },
-            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/581272837/square.jpg",
-            "attribution": "(c) Zachary Sun Monen, some rights reserved (CC BY-NC)",
-            "flags": [],
-            "moderator_actions": [],
-            "hidden": false
-          }
-        },
-        {
-          "id": 539739036,
-          "position": 2,
-          "uuid": "a465b8b9-61fb-491b-98f2-f660d3e73447",
-          "photo_id": 581272847,
-          "photo": {
-            "id": 581272847,
-            "license_code": "cc-by-nc",
-            "original_dimensions": {
-              "width": 2048,
-              "height": 1311
-            },
-            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/581272847/square.jpg",
-            "attribution": "(c) Zachary Sun Monen, some rights reserved (CC BY-NC)",
-            "flags": [],
-            "moderator_actions": [],
-            "hidden": false
-          }
-        },
-        {
-          "id": 539739049,
-          "position": 3,
-          "uuid": "444fda59-a736-4682-8ebe-7991bb19e57d",
-          "photo_id": 581272866,
-          "photo": {
-            "id": 581272866,
-            "license_code": "cc-by-nc",
-            "original_dimensions": {
-              "width": 2048,
-              "height": 1309
-            },
-            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/581272866/square.jpg",
             "attribution": "(c) Zachary Sun Monen, some rights reserved (CC BY-NC)",
             "flags": [],
             "moderator_actions": [],
