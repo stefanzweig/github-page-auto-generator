@@ -1,5 +1,5 @@
 {
-  "total_results": 8406,
+  "total_results": 8409,
   "page": 1,
   "per_page": 30,
   "results": [
@@ -616,6 +616,74 @@
         ]
       },
       "place_guess": "Oxnard, CA, USA"
+    },
+    {
+      "id": 322000676,
+      "time_observed_at": "2025-10-18T16:59:00-07:00",
+      "observed_time_zone": "America/Los_Angeles",
+      "observation_photos": [
+        {
+          "id": 540802573,
+          "position": 0,
+          "uuid": "c30507b8-4ed3-4da0-8670-bec702ddd889",
+          "photo_id": 582425478,
+          "photo": {
+            "id": 582425478,
+            "license_code": "cc-by-nc",
+            "original_dimensions": {
+              "width": 2048,
+              "height": 1366
+            },
+            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/582425478/square.jpg",
+            "attribution": "(c) ldjaffe, some rights reserved (CC BY-NC)",
+            "flags": [],
+            "moderator_actions": [],
+            "hidden": false
+          }
+        }
+      ],
+      "geojson": {
+        "type": "Point",
+        "coordinates": [
+          -122.0261272,
+          36.9517052
+        ]
+      },
+      "place_guess": "700 W Cliff Dr, Santa Cruz, CA 95060, USA"
+    },
+    {
+      "id": 322000675,
+      "time_observed_at": "2025-10-18T16:56:00-07:00",
+      "observed_time_zone": "America/Los_Angeles",
+      "observation_photos": [
+        {
+          "id": 540802572,
+          "position": 0,
+          "uuid": "87871b72-013a-4552-a0a6-70bbd5dcfc66",
+          "photo_id": 582425476,
+          "photo": {
+            "id": 582425476,
+            "license_code": "cc-by-nc",
+            "original_dimensions": {
+              "width": 2048,
+              "height": 1366
+            },
+            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/582425476/square.jpg",
+            "attribution": "(c) ldjaffe, some rights reserved (CC BY-NC)",
+            "flags": [],
+            "moderator_actions": [],
+            "hidden": false
+          }
+        }
+      ],
+      "geojson": {
+        "type": "Point",
+        "coordinates": [
+          -122.0261272,
+          36.9517052
+        ]
+      },
+      "place_guess": "700 W Cliff Dr, Santa Cruz, CA 95060, USA"
     },
     {
       "id": 321754937,
@@ -1372,74 +1440,6 @@
         ]
       },
       "place_guess": "W Shore Rd, Belvedere, CA, US"
-    },
-    {
-      "id": 321353299,
-      "time_observed_at": "2025-10-16T12:45:17-07:00",
-      "observed_time_zone": "America/Los_Angeles",
-      "observation_photos": [
-        {
-          "id": 539638159,
-          "position": 0,
-          "uuid": "05da88c4-5d57-4659-8f48-0afec0fb2f9b",
-          "photo_id": 581167224,
-          "photo": {
-            "id": 581167224,
-            "license_code": "cc-by-nc",
-            "original_dimensions": {
-              "width": 1536,
-              "height": 2048
-            },
-            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/581167224/square.jpg",
-            "attribution": "(c) Bunny, some rights reserved (CC BY-NC)",
-            "flags": [],
-            "moderator_actions": [],
-            "hidden": false
-          }
-        }
-      ],
-      "geojson": {
-        "type": "Point",
-        "coordinates": [
-          -122.4203475,
-          37.8786225
-        ]
-      },
-      "place_guess": "San Francisco Bay Area, CA, US"
-    },
-    {
-      "id": 321281260,
-      "time_observed_at": "2025-10-16T11:18:06-07:00",
-      "observed_time_zone": "America/Los_Angeles",
-      "observation_photos": [
-        {
-          "id": 539503984,
-          "position": 0,
-          "uuid": "d827c122-3a45-4c1d-bbd0-3096d394a3d8",
-          "photo_id": 581015136,
-          "photo": {
-            "id": 581015136,
-            "license_code": "cc-by-nc",
-            "original_dimensions": {
-              "width": 2048,
-              "height": 1536
-            },
-            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/581015136/square.jpg",
-            "attribution": "(c) mudhugger, some rights reserved (CC BY-NC)",
-            "flags": [],
-            "moderator_actions": [],
-            "hidden": false
-          }
-        }
-      ],
-      "geojson": {
-        "type": "Point",
-        "coordinates": [
-          -122.3669283333,
-          37.8608166667
-        ]
-      },
-      "place_guess": "San Francisco, CA, US"
     }
   ]
 }
