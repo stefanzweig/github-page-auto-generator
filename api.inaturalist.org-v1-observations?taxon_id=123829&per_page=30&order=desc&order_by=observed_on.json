@@ -1,5 +1,5 @@
 {
-  "total_results": 8479,
+  "total_results": 8482,
   "page": 1,
   "per_page": 30,
   "results": [
@@ -373,6 +373,146 @@
         ]
       },
       "place_guess": "Santa Cruz County, CA, USA"
+    },
+    {
+      "id": 322373824,
+      "time_observed_at": "2025-10-20T11:19:00-07:00",
+      "observed_time_zone": "America/Los_Angeles",
+      "observation_photos": [
+        {
+          "id": 541483210,
+          "position": 0,
+          "uuid": "1678630f-f9a5-4b6e-8b5d-24b324aa5744",
+          "photo_id": 583168672,
+          "photo": {
+            "id": 583168672,
+            "license_code": null,
+            "original_dimensions": {
+              "width": 768,
+              "height": 1024
+            },
+            "url": "https://static.inaturalist.org/photos/583168672/square.jpg",
+            "attribution": "(c) morgan, all rights reserved",
+            "flags": [],
+            "moderator_actions": [],
+            "hidden": false
+          }
+        },
+        {
+          "id": 541483211,
+          "position": 1,
+          "uuid": "53b2c51e-fdc5-4c26-a449-4694cc6a9d74",
+          "photo_id": 583168671,
+          "photo": {
+            "id": 583168671,
+            "license_code": null,
+            "original_dimensions": {
+              "width": 768,
+              "height": 1024
+            },
+            "url": "https://static.inaturalist.org/photos/583168671/square.jpg",
+            "attribution": "(c) morgan, all rights reserved",
+            "flags": [],
+            "moderator_actions": [],
+            "hidden": false
+          }
+        }
+      ],
+      "geojson": {
+        "type": "Point",
+        "coordinates": [
+          -121.9417805556,
+          36.5101138889
+        ]
+      },
+      "place_guess": "Monterey County, CA, USA"
+    },
+    {
+      "id": 322373819,
+      "time_observed_at": "2025-10-20T11:15:00-07:00",
+      "observed_time_zone": "America/Los_Angeles",
+      "observation_photos": [
+        {
+          "id": 541483201,
+          "position": 0,
+          "uuid": "e9a7a4fe-4a55-4766-8db4-eb0cd919b461",
+          "photo_id": 583168666,
+          "photo": {
+            "id": 583168666,
+            "license_code": null,
+            "original_dimensions": {
+              "width": 1024,
+              "height": 768
+            },
+            "url": "https://static.inaturalist.org/photos/583168666/square.jpg",
+            "attribution": "(c) morgan, all rights reserved",
+            "flags": [],
+            "moderator_actions": [],
+            "hidden": false
+          }
+        }
+      ],
+      "geojson": {
+        "type": "Point",
+        "coordinates": [
+          -121.9417805556,
+          36.5116916667
+        ]
+      },
+      "place_guess": "Monterey County, CA, USA"
+    },
+    {
+      "id": 322373817,
+      "time_observed_at": "2025-10-20T11:15:00-07:00",
+      "observed_time_zone": "America/Los_Angeles",
+      "observation_photos": [
+        {
+          "id": 541483197,
+          "position": 0,
+          "uuid": "404387dd-0dbf-47a8-a606-77fce7cbd78a",
+          "photo_id": 583168668,
+          "photo": {
+            "id": 583168668,
+            "license_code": null,
+            "original_dimensions": {
+              "width": 1024,
+              "height": 768
+            },
+            "url": "https://static.inaturalist.org/photos/583168668/square.jpg",
+            "attribution": "(c) morgan, all rights reserved",
+            "flags": [],
+            "moderator_actions": [],
+            "hidden": false
+          }
+        },
+        {
+          "id": 541483198,
+          "position": 1,
+          "uuid": "ccfb0ae8-dc3a-4e0b-b6d5-9cff87fc4577",
+          "photo_id": 583168662,
+          "photo": {
+            "id": 583168662,
+            "license_code": null,
+            "original_dimensions": {
+              "width": 1024,
+              "height": 768
+            },
+            "url": "https://static.inaturalist.org/photos/583168662/square.jpg",
+            "attribution": "(c) morgan, all rights reserved",
+            "flags": [],
+            "moderator_actions": [],
+            "hidden": false
+          }
+        }
+      ],
+      "geojson": {
+        "type": "Point",
+        "coordinates": [
+          -121.9417805556,
+          36.5116916667
+        ]
+      },
+      "place_guess": "Monterey County, CA, USA"
     },
     {
       "id": 322137485,
@@ -1623,108 +1763,6 @@
         ]
       },
       "place_guess": "Santa Monica, CA 90401, USA"
-    },
-    {
-      "id": 321783780,
-      "time_observed_at": "2025-10-18T17:17:28-07:00",
-      "observed_time_zone": "America/Los_Angeles",
-      "observation_photos": [
-        {
-          "id": 540405315,
-          "position": 0,
-          "uuid": "a53b9024-2a94-4f90-9002-7a5398108716",
-          "photo_id": 581994064,
-          "photo": {
-            "id": 581994064,
-            "license_code": "cc-by-nc",
-            "original_dimensions": {
-              "width": 2048,
-              "height": 1152
-            },
-            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/581994064/square.jpg",
-            "attribution": "(c) Maria Kozureva, some rights reserved (CC BY-NC)",
-            "flags": [],
-            "moderator_actions": [],
-            "hidden": false
-          }
-        }
-      ],
-      "geojson": {
-        "type": "Point",
-        "coordinates": [
-          -119.2654055556,
-          34.2346305556
-        ]
-      },
-      "place_guess": "Oxnard, CA, USA"
-    },
-    {
-      "id": 321783695,
-      "time_observed_at": "2025-10-18T17:17:02-07:00",
-      "observed_time_zone": "America/Los_Angeles",
-      "observation_photos": [
-        {
-          "id": 540405163,
-          "position": 0,
-          "uuid": "22218789-7945-4c4b-b565-025ab718d40a",
-          "photo_id": 581993919,
-          "photo": {
-            "id": 581993919,
-            "license_code": "cc-by-nc",
-            "original_dimensions": {
-              "width": 2048,
-              "height": 1152
-            },
-            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/581993919/square.jpg",
-            "attribution": "(c) Maria Kozureva, some rights reserved (CC BY-NC)",
-            "flags": [],
-            "moderator_actions": [],
-            "hidden": false
-          }
-        }
-      ],
-      "geojson": {
-        "type": "Point",
-        "coordinates": [
-          -119.2654055556,
-          34.2346305556
-        ]
-      },
-      "place_guess": "Oxnard, CA, USA"
-    },
-    {
-      "id": 322000676,
-      "time_observed_at": "2025-10-18T16:59:00-07:00",
-      "observed_time_zone": "America/Los_Angeles",
-      "observation_photos": [
-        {
-          "id": 540802573,
-          "position": 0,
-          "uuid": "c30507b8-4ed3-4da0-8670-bec702ddd889",
-          "photo_id": 582425478,
-          "photo": {
-            "id": 582425478,
-            "license_code": "cc-by-nc",
-            "original_dimensions": {
-              "width": 2048,
-              "height": 1366
-            },
-            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/582425478/square.jpg",
-            "attribution": "(c) ldjaffe, some rights reserved (CC BY-NC)",
-            "flags": [],
-            "moderator_actions": [],
-            "hidden": false
-          }
-        }
-      ],
-      "geojson": {
-        "type": "Point",
-        "coordinates": [
-          -122.0261272,
-          36.9517052
-        ]
-      },
-      "place_guess": "700 W Cliff Dr, Santa Cruz, CA 95060, USA"
     }
   ]
 }
