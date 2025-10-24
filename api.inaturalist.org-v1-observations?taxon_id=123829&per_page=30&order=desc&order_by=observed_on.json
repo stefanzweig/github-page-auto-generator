@@ -1,8 +1,42 @@
 {
-  "total_results": 8508,
+  "total_results": 8509,
   "page": 1,
   "per_page": 30,
   "results": [
+    {
+      "id": 322759483,
+      "time_observed_at": "2025-10-23T16:13:00-07:00",
+      "observed_time_zone": "America/Los_Angeles",
+      "observation_photos": [
+        {
+          "id": 542177122,
+          "position": 0,
+          "uuid": "e2f51b54-64ef-48ba-856a-e4ce7c53daed",
+          "photo_id": 583934752,
+          "photo": {
+            "id": 583934752,
+            "license_code": "cc-by-nc",
+            "original_dimensions": {
+              "width": 2048,
+              "height": 1536
+            },
+            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/583934752/square.jpg",
+            "attribution": "(c) James Maughn, some rights reserved (CC BY-NC)",
+            "flags": [],
+            "moderator_actions": [],
+            "hidden": false
+          }
+        }
+      ],
+      "geojson": {
+        "type": "Point",
+        "coordinates": [
+          -122.0901263393,
+          36.9537769839
+        ]
+      },
+      "place_guess": "Santa Cruz County, CA, USA"
+    },
     {
       "id": 322637379,
       "time_observed_at": "2025-10-23T11:00:00-07:00",
@@ -1422,40 +1456,6 @@
         "coordinates": [
           -119.8467750808,
           34.4085418477
-        ]
-      },
-      "place_guess": "University of California-Santa Barbara, CA, USA"
-    },
-    {
-      "id": 322126361,
-      "time_observed_at": "2025-10-19T17:40:00-07:00",
-      "observed_time_zone": "America/Los_Angeles",
-      "observation_photos": [
-        {
-          "id": 541025183,
-          "position": 0,
-          "uuid": "247c53d1-8e27-4c5a-b118-65a2598ad9de",
-          "photo_id": 582661391,
-          "photo": {
-            "id": 582661391,
-            "license_code": "cc-by-nc",
-            "original_dimensions": {
-              "width": 2048,
-              "height": 1367
-            },
-            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/582661391/square.jpg",
-            "attribution": "(c) Scott Mauffet-Smith, some rights reserved (CC BY-NC)",
-            "flags": [],
-            "moderator_actions": [],
-            "hidden": false
-          }
-        }
-      ],
-      "geojson": {
-        "type": "Point",
-        "coordinates": [
-          -119.848429878,
-          34.4091127182
         ]
       },
       "place_guess": "University of California-Santa Barbara, CA, USA"
