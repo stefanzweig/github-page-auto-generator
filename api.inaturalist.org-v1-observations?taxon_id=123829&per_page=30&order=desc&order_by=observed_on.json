@@ -1,5 +1,5 @@
 {
-  "total_results": 8504,
+  "total_results": 8508,
   "page": 1,
   "per_page": 30,
   "results": [
@@ -191,6 +191,59 @@
         ]
       },
       "place_guess": "San Francisco Bay Trail, San Francisco, CA, US"
+    },
+    {
+      "id": 322504171,
+      "time_observed_at": "2025-10-21T16:42:00-07:00",
+      "observed_time_zone": "America/Los_Angeles",
+      "observation_photos": [
+        {
+          "id": 541717882,
+          "position": 0,
+          "uuid": "d9c473d5-6dc1-4bee-8323-a971f001f9a8",
+          "photo_id": 583430286,
+          "photo": {
+            "id": 583430286,
+            "license_code": "cc-by-nc",
+            "original_dimensions": {
+              "width": 2048,
+              "height": 1365
+            },
+            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/583430286/square.jpg",
+            "attribution": "(c) croconnolly, some rights reserved (CC BY-NC)",
+            "flags": [],
+            "moderator_actions": [],
+            "hidden": false
+          }
+        },
+        {
+          "id": 541717883,
+          "position": 1,
+          "uuid": "4c458ada-8fdb-4fa8-a9d6-de5bbd2a2aa4",
+          "photo_id": 583430289,
+          "photo": {
+            "id": 583430289,
+            "license_code": "cc-by-nc",
+            "original_dimensions": {
+              "width": 2048,
+              "height": 1365
+            },
+            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/583430289/square.jpg",
+            "attribution": "(c) croconnolly, some rights reserved (CC BY-NC)",
+            "flags": [],
+            "moderator_actions": [],
+            "hidden": false
+          }
+        }
+      ],
+      "geojson": {
+        "type": "Point",
+        "coordinates": [
+          -124.0957932161,
+          40.8598711442
+        ]
+      },
+      "place_guess": "Arcata, CA, USA"
     },
     {
       "id": 322544846,
@@ -1403,40 +1456,6 @@
         "coordinates": [
           -119.848429878,
           34.4091127182
-        ]
-      },
-      "place_guess": "University of California-Santa Barbara, CA, USA"
-    },
-    {
-      "id": 322126360,
-      "time_observed_at": "2025-10-19T17:40:00-07:00",
-      "observed_time_zone": "America/Los_Angeles",
-      "observation_photos": [
-        {
-          "id": 541025182,
-          "position": 0,
-          "uuid": "40fcfed9-5df7-45c2-91a9-00bd6355662a",
-          "photo_id": 582661153,
-          "photo": {
-            "id": 582661153,
-            "license_code": "cc-by-nc",
-            "original_dimensions": {
-              "width": 1994,
-              "height": 2048
-            },
-            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/582661153/square.jpg",
-            "attribution": "(c) Scott Mauffet-Smith, some rights reserved (CC BY-NC)",
-            "flags": [],
-            "moderator_actions": [],
-            "hidden": false
-          }
-        }
-      ],
-      "geojson": {
-        "type": "Point",
-        "coordinates": [
-          -119.8484114482,
-          34.4091107799
         ]
       },
       "place_guess": "University of California-Santa Barbara, CA, USA"
