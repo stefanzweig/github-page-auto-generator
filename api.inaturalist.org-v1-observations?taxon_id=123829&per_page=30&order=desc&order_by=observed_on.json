@@ -1,8 +1,42 @@
 {
-  "total_results": 8834,
+  "total_results": 8835,
   "page": 1,
   "per_page": 30,
   "results": [
+    {
+      "id": 328718478,
+      "time_observed_at": "2025-11-28T14:35:00-08:00",
+      "observed_time_zone": "America/Los_Angeles",
+      "observation_photos": [
+        {
+          "id": 552929673,
+          "position": 0,
+          "uuid": "df28eacf-ce3f-4642-acbd-65cc05cb082f",
+          "photo_id": 595722708,
+          "photo": {
+            "id": 595722708,
+            "license_code": "cc-by-nc",
+            "original_dimensions": {
+              "width": 1600,
+              "height": 1200
+            },
+            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/595722708/square.jpg",
+            "attribution": "(c) James Maughn, some rights reserved (CC BY-NC)",
+            "flags": [],
+            "moderator_actions": [],
+            "hidden": false
+          }
+        }
+      ],
+      "geojson": {
+        "type": "Point",
+        "coordinates": [
+          -121.9616063975,
+          36.9384839599
+        ]
+      },
+      "place_guess": "Santa Cruz County, CA, USA"
+    },
     {
       "id": 328685756,
       "time_observed_at": "2025-11-28T09:37:00-08:00",
@@ -1232,78 +1266,6 @@
         "coordinates": [
           -117.9441752303,
           33.6211408591
-        ]
-      },
-      "place_guess": "Gulf of Santa Catalina, Newport Beach, CA, US"
-    },
-    {
-      "id": 327589731,
-      "time_observed_at": "2025-11-21T17:32:42-08:00",
-      "observed_time_zone": "America/Los_Angeles",
-      "observation_photos": [
-        {
-          "id": 550909307,
-          "position": 0,
-          "uuid": "d84275b0-c153-42d8-aed1-37974ae56a01",
-          "photo_id": 593510820,
-          "photo": {
-            "id": 593510820,
-            "license_code": null,
-            "original_dimensions": {
-              "width": 2048,
-              "height": 1536
-            },
-            "url": "https://static.inaturalist.org/photos/593510820/square.jpg",
-            "attribution": "(c) Brianna Kosowatsky, all rights reserved",
-            "flags": [],
-            "moderator_actions": [],
-            "hidden": false
-          }
-        },
-        {
-          "id": 550909322,
-          "position": 1,
-          "uuid": "85d56e3f-139f-4138-b661-e1fe16c2a4a3",
-          "photo_id": 593510839,
-          "photo": {
-            "id": 593510839,
-            "license_code": null,
-            "original_dimensions": {
-              "width": 2048,
-              "height": 1536
-            },
-            "url": "https://static.inaturalist.org/photos/593510839/square.jpg",
-            "attribution": "(c) Brianna Kosowatsky, all rights reserved",
-            "flags": [],
-            "moderator_actions": [],
-            "hidden": false
-          }
-        },
-        {
-          "id": 550909327,
-          "position": 2,
-          "uuid": "522edc5f-fb73-493d-bd36-10002400f1ab",
-          "photo_id": 593510852,
-          "photo": {
-            "id": 593510852,
-            "license_code": null,
-            "original_dimensions": {
-              "width": 2048,
-              "height": 1536
-            },
-            "url": "https://static.inaturalist.org/photos/593510852/square.jpg",
-            "attribution": "(c) Brianna Kosowatsky, all rights reserved",
-            "flags": [],
-            "moderator_actions": [],
-            "hidden": false
-          }
-        }
-      ],
-      "geojson": {
-        "type": "Point",
-        "coordinates": [
-          -117.9362109564,
-          33.6152692439
         ]
       },
       "place_guess": "Gulf of Santa Catalina, Newport Beach, CA, US"
