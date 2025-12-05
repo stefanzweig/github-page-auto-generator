@@ -38,6 +38,40 @@
       "place_guess": "ADA ramp to Treasure Island Beach, Laguna Beach, CA, US"
     },
     {
+      "id": 329502401,
+      "time_observed_at": "2025-12-04T15:14:35-08:00",
+      "observed_time_zone": "America/Los_Angeles",
+      "observation_photos": [
+        {
+          "id": 554352120,
+          "position": 0,
+          "uuid": "15777f32-f546-4e8f-96ec-438f21a6c160",
+          "photo_id": 597302560,
+          "photo": {
+            "id": 597302560,
+            "license_code": null,
+            "original_dimensions": {
+              "width": 1536,
+              "height": 2048
+            },
+            "url": "https://static.inaturalist.org/photos/597302560/square.jpg",
+            "attribution": "(c) janet0014, all rights reserved",
+            "flags": [],
+            "moderator_actions": [],
+            "hidden": false
+          }
+        }
+      ],
+      "geojson": {
+        "type": "Point",
+        "coordinates": [
+          -117.2731529383,
+          32.8503822447
+        ]
+      },
+      "place_guess": "La Jolla Coastal Trail, San Diego, CA, US"
+    },
+    {
       "id": 329410628,
       "time_observed_at": "2025-12-03T13:26:00-08:00",
       "observed_time_zone": "America/Los_Angeles",
@@ -1311,78 +1345,6 @@
         ]
       },
       "place_guess": "California, US"
-    },
-    {
-      "id": 328267463,
-      "time_observed_at": "2025-11-25T14:44:00-08:00",
-      "observed_time_zone": "America/Los_Angeles",
-      "observation_photos": [
-        {
-          "id": 552099263,
-          "position": 0,
-          "uuid": "d5cf24cd-77fc-4d20-b4e0-b3ec5d7c46a1",
-          "photo_id": 594806477,
-          "photo": {
-            "id": 594806477,
-            "license_code": "cc-by-nc",
-            "original_dimensions": {
-              "width": 1961,
-              "height": 1307
-            },
-            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/594806477/square.jpg",
-            "attribution": "(c) Zoë Ferraris, some rights reserved (CC BY-NC)",
-            "flags": [],
-            "moderator_actions": [],
-            "hidden": false
-          }
-        },
-        {
-          "id": 552099264,
-          "position": 1,
-          "uuid": "b158db84-64d6-4bcc-bae7-a87cba34d83d",
-          "photo_id": 594806521,
-          "photo": {
-            "id": 594806521,
-            "license_code": "cc-by-nc",
-            "original_dimensions": {
-              "width": 2048,
-              "height": 1365
-            },
-            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/594806521/square.jpg",
-            "attribution": "(c) Zoë Ferraris, some rights reserved (CC BY-NC)",
-            "flags": [],
-            "moderator_actions": [],
-            "hidden": false
-          }
-        },
-        {
-          "id": 552099265,
-          "position": 2,
-          "uuid": "10fb6a97-222a-4f2f-928c-fac4e6413bd9",
-          "photo_id": 594806498,
-          "photo": {
-            "id": 594806498,
-            "license_code": "cc-by-nc",
-            "original_dimensions": {
-              "width": 2048,
-              "height": 1365
-            },
-            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/594806498/square.jpg",
-            "attribution": "(c) Zoë Ferraris, some rights reserved (CC BY-NC)",
-            "flags": [],
-            "moderator_actions": [],
-            "hidden": false
-          }
-        }
-      ],
-      "geojson": {
-        "type": "Point",
-        "coordinates": [
-          -122.4581139157,
-          37.8043361764
-        ]
-      },
-      "place_guess": "Presidio of San Francisco, San Francisco, CA, USA"
     }
   ]
 }
