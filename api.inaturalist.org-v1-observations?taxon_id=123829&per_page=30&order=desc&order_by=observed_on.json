@@ -1,8 +1,42 @@
 {
-  "total_results": 8885,
+  "total_results": 8886,
   "page": 1,
   "per_page": 30,
   "results": [
+    {
+      "id": 329954099,
+      "time_observed_at": "2025-12-07T23:43:43-08:00",
+      "observed_time_zone": "America/Los_Angeles",
+      "observation_photos": [
+        {
+          "id": 555173118,
+          "position": 0,
+          "uuid": "3e9097a5-cf46-4b35-9fb1-235c4fdaa525",
+          "photo_id": 598209634,
+          "photo": {
+            "id": 598209634,
+            "license_code": "cc-by-nc",
+            "original_dimensions": {
+              "width": 1536,
+              "height": 2048
+            },
+            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/598209634/square.jpg",
+            "attribution": "(c) Sean, some rights reserved (CC BY-NC)",
+            "flags": [],
+            "moderator_actions": [],
+            "hidden": false
+          }
+        }
+      ],
+      "geojson": {
+        "type": "Point",
+        "coordinates": [
+          -122.3189663887,
+          37.8720755598
+        ]
+      },
+      "place_guess": "Berkeley Marina, Berkeley, CA, USA"
+    },
     {
       "id": 329776588,
       "time_observed_at": "2025-12-06T10:47:00-08:00",
@@ -1311,40 +1345,6 @@
         ]
       },
       "place_guess": "Berkeley, CA, USA"
-    },
-    {
-      "id": 328454769,
-      "time_observed_at": "2025-11-26T13:38:37-08:00",
-      "observed_time_zone": "America/Los_Angeles",
-      "observation_photos": [
-        {
-          "id": 552440570,
-          "position": 0,
-          "uuid": "5dcc1457-b512-40c8-9f86-4c586d6c1612",
-          "photo_id": 595184864,
-          "photo": {
-            "id": 595184864,
-            "license_code": "cc-by-nc",
-            "original_dimensions": {
-              "width": 1152,
-              "height": 2048
-            },
-            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/595184864/square.jpg",
-            "attribution": "(c) kmf521, some rights reserved (CC BY-NC)",
-            "flags": [],
-            "moderator_actions": [],
-            "hidden": false
-          }
-        }
-      ],
-      "geojson": {
-        "type": "Point",
-        "coordinates": [
-          -121.097871161,
-          35.5481561692
-        ]
-      },
-      "place_guess": "Fiscalini Ranch Bluff and Marine Terrace Trail, Cambria, CA, US"
     }
   ]
 }
