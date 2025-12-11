@@ -1,5 +1,5 @@
 {
-  "total_results": 8895,
+  "total_results": 8897,
   "page": 1,
   "per_page": 30,
   "results": [
@@ -585,6 +585,59 @@
         ]
       },
       "place_guess": "La Jolla Coastal Trail, San Diego, CA, US"
+    },
+    {
+      "id": 329740120,
+      "time_observed_at": "2025-12-04T15:14:32-08:00",
+      "observed_time_zone": "America/Los_Angeles",
+      "observation_photos": [
+        {
+          "id": 554777186,
+          "position": 0,
+          "uuid": "ba76f2a4-7377-497d-9d89-8cd8fdcfbabc",
+          "photo_id": 597773735,
+          "photo": {
+            "id": 597773735,
+            "license_code": null,
+            "original_dimensions": {
+              "width": 1536,
+              "height": 2048
+            },
+            "url": "https://static.inaturalist.org/photos/597773735/square.jpg",
+            "attribution": "(c) Dale Noonkester, all rights reserved",
+            "flags": [],
+            "moderator_actions": [],
+            "hidden": false
+          }
+        },
+        {
+          "id": 554777211,
+          "position": 1,
+          "uuid": "09745c54-30aa-4e10-910e-9dba4d18c6e5",
+          "photo_id": 597773752,
+          "photo": {
+            "id": 597773752,
+            "license_code": null,
+            "original_dimensions": {
+              "width": 1536,
+              "height": 2048
+            },
+            "url": "https://static.inaturalist.org/photos/597773752/square.jpg",
+            "attribution": "(c) Dale Noonkester, all rights reserved",
+            "flags": [],
+            "moderator_actions": [],
+            "hidden": false
+          }
+        }
+      ],
+      "geojson": {
+        "type": "Point",
+        "coordinates": [
+          -117.2731333333,
+          32.8508116667
+        ]
+      },
+      "place_guess": "Ellen Browning Scripps Park, San Diego, CA, US"
     },
     {
       "id": 329410628,
@@ -1501,40 +1554,6 @@
         ]
       },
       "place_guess": "Highway 1 / North Harbor, Moss Landing, CA 95039, USA"
-    },
-    {
-      "id": 328806400,
-      "time_observed_at": "2025-11-29T11:19:49-08:00",
-      "observed_time_zone": "America/Los_Angeles",
-      "observation_photos": [
-        {
-          "id": 553085721,
-          "position": 0,
-          "uuid": "a87b150c-30c1-4ab0-954e-27313c679bc9",
-          "photo_id": 595896428,
-          "photo": {
-            "id": 595896428,
-            "license_code": "cc-by-nc",
-            "original_dimensions": {
-              "width": 1152,
-              "height": 2048
-            },
-            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/595896428/square.jpg",
-            "attribution": "(c) noahgaines, some rights reserved (CC BY-NC)",
-            "flags": [],
-            "moderator_actions": [],
-            "hidden": false
-          }
-        }
-      ],
-      "geojson": {
-        "type": "Point",
-        "coordinates": [
-          -119.8454133333,
-          34.40543
-        ]
-      },
-      "place_guess": "University of California, Santa Barbara, Goleta, CA, US"
     }
   ]
 }
