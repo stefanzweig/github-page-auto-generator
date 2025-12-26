@@ -210,10 +210,10 @@
         "type": "Point",
         "coordinates": [
           -117.2543084112,
-          32.87161058
+          32.8716105869
         ]
       },
-      "place_guess": "San Diego County, CA, USA"
+      "place_guess": "North Pacific Ocean, CA, US"
     },
     {
       "id": 332062210,
@@ -282,10 +282,10 @@
         "type": "Point",
         "coordinates": [
           -117.2560654567,
-          32.8663252456
+          32.8663252466
         ]
       },
-      "place_guess": "San Diego County, CA, USA"
+      "place_guess": "North Pacific Ocean, CA, US"
     },
     {
       "id": 331704802,
