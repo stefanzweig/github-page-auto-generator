@@ -1,5 +1,5 @@
 {
-  "total_results": 9165,
+  "total_results": 9166,
   "page": 1,
   "per_page": 30,
   "results": [
@@ -70,6 +70,40 @@
         ]
       },
       "place_guess": "Monterey, CA, USA"
+    },
+    {
+      "id": 333245730,
+      "time_observed_at": "2026-01-02T14:43:00-08:00",
+      "observed_time_zone": "America/Los_Angeles",
+      "observation_photos": [
+        {
+          "id": 561247718,
+          "position": 0,
+          "uuid": "cad1c095-bfa7-46e0-9f52-203b0f6dcf2a",
+          "photo_id": 604963705,
+          "photo": {
+            "id": 604963705,
+            "license_code": "cc-by-nc",
+            "original_dimensions": {
+              "width": 2048,
+              "height": 1536
+            },
+            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/604963705/square.jpg",
+            "attribution": "(c) Yimo Yang, some rights reserved (CC BY-NC)",
+            "flags": [],
+            "moderator_actions": [],
+            "hidden": false
+          }
+        }
+      ],
+      "geojson": {
+        "type": "Point",
+        "coordinates": [
+          -122.2823305021,
+          37.7655554024
+        ]
+      },
+      "place_guess": "Alameda, CA"
     },
     {
       "id": 333175662,
@@ -1254,78 +1288,6 @@
         ]
       },
       "place_guess": "North Pacific Ocean, San Diego, CA, US"
-    },
-    {
-      "id": 332698307,
-      "time_observed_at": "2025-12-28T11:56:00-08:00",
-      "observed_time_zone": "America/Los_Angeles",
-      "observation_photos": [
-        {
-          "id": 560244745,
-          "position": 0,
-          "uuid": "745868c7-af0e-4df8-8e12-80fb5b6b1093",
-          "photo_id": 603845857,
-          "photo": {
-            "id": 603845857,
-            "license_code": "cc-by-nc",
-            "original_dimensions": {
-              "width": 1487,
-              "height": 1358
-            },
-            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/603845857/square.jpg",
-            "attribution": "(c) xizitro33, some rights reserved (CC BY-NC)",
-            "flags": [],
-            "moderator_actions": [],
-            "hidden": false
-          }
-        },
-        {
-          "id": 560244765,
-          "position": 1,
-          "uuid": "5d4e57f9-4651-44e4-b375-267d94546efe",
-          "photo_id": 603845869,
-          "photo": {
-            "id": 603845869,
-            "license_code": "cc-by-nc",
-            "original_dimensions": {
-              "width": 2048,
-              "height": 1659
-            },
-            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/603845869/square.jpg",
-            "attribution": "(c) xizitro33, some rights reserved (CC BY-NC)",
-            "flags": [],
-            "moderator_actions": [],
-            "hidden": false
-          }
-        },
-        {
-          "id": 560244774,
-          "position": 2,
-          "uuid": "98cb68ac-8a1e-489c-b807-e29be29916a8",
-          "photo_id": 603845878,
-          "photo": {
-            "id": 603845878,
-            "license_code": "cc-by-nc",
-            "original_dimensions": {
-              "width": 2048,
-              "height": 1563
-            },
-            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/603845878/square.jpg",
-            "attribution": "(c) xizitro33, some rights reserved (CC BY-NC)",
-            "flags": [],
-            "moderator_actions": [],
-            "hidden": false
-          }
-        }
-      ],
-      "geojson": {
-        "type": "Point",
-        "coordinates": [
-          -122.4448417115,
-          37.4417258975
-        ]
-      },
-      "place_guess": "North Pacific Ocean, CA, US"
     }
   ]
 }
