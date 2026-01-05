@@ -1,5 +1,5 @@
 {
-  "total_results": 9167,
+  "total_results": 9168,
   "page": 1,
   "per_page": 30,
   "results": [
@@ -1203,6 +1203,78 @@
       "place_guess": "Shoreline & Village W, Long Beach, CA 90802, USA"
     },
     {
+      "id": 332974343,
+      "time_observed_at": "2025-12-29T10:30:00-08:00",
+      "observed_time_zone": "America/Los_Angeles",
+      "observation_photos": [
+        {
+          "id": 560753985,
+          "position": 0,
+          "uuid": "9e5942f3-6947-4e13-9a92-56be2a75aa4b",
+          "photo_id": 604413372,
+          "photo": {
+            "id": 604413372,
+            "license_code": "cc-by-nc",
+            "original_dimensions": {
+              "width": 2048,
+              "height": 1528
+            },
+            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/604413372/square.jpg",
+            "attribution": "(c) Jason Au, some rights reserved (CC BY-NC)",
+            "flags": [],
+            "moderator_actions": [],
+            "hidden": false
+          }
+        },
+        {
+          "id": 560753986,
+          "position": 1,
+          "uuid": "600487f2-cd5d-457e-ae42-66a4763f9a40",
+          "photo_id": 604413388,
+          "photo": {
+            "id": 604413388,
+            "license_code": "cc-by-nc",
+            "original_dimensions": {
+              "width": 2048,
+              "height": 1528
+            },
+            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/604413388/square.jpg",
+            "attribution": "(c) Jason Au, some rights reserved (CC BY-NC)",
+            "flags": [],
+            "moderator_actions": [],
+            "hidden": false
+          }
+        },
+        {
+          "id": 560753987,
+          "position": 2,
+          "uuid": "e546da04-bc6b-4222-beec-d89754676e7c",
+          "photo_id": 604413404,
+          "photo": {
+            "id": 604413404,
+            "license_code": "cc-by-nc",
+            "original_dimensions": {
+              "width": 2048,
+              "height": 1528
+            },
+            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/604413404/square.jpg",
+            "attribution": "(c) Jason Au, some rights reserved (CC BY-NC)",
+            "flags": [],
+            "moderator_actions": [],
+            "hidden": false
+          }
+        }
+      ],
+      "geojson": {
+        "type": "Point",
+        "coordinates": [
+          -122.2123980867,
+          37.7382244004
+        ]
+      },
+      "place_guess": "Oakland, CA, USA"
+    },
+    {
       "id": 332927507,
       "time_observed_at": "2025-12-29T09:25:08-08:00",
       "observed_time_zone": "America/Los_Angeles",
@@ -1235,59 +1307,6 @@
         ]
       },
       "place_guess": "Doolittle Dr, Oakland, CA, US"
-    },
-    {
-      "id": 332609032,
-      "time_observed_at": "2025-12-29T08:57:08-08:00",
-      "observed_time_zone": "America/Los_Angeles",
-      "observation_photos": [
-        {
-          "id": 560088023,
-          "position": 0,
-          "uuid": "b01bee8a-071f-49e9-8545-c52d7ce0aae6",
-          "photo_id": 603674614,
-          "photo": {
-            "id": 603674614,
-            "license_code": "cc-by-nc",
-            "original_dimensions": {
-              "width": 2048,
-              "height": 1536
-            },
-            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/603674614/square.jpg",
-            "attribution": "(c) Keith P, some rights reserved (CC BY-NC)",
-            "flags": [],
-            "moderator_actions": [],
-            "hidden": false
-          }
-        },
-        {
-          "id": 560088033,
-          "position": 1,
-          "uuid": "b92fc086-360d-47e6-a63a-3c71b9d6e1fd",
-          "photo_id": 603674632,
-          "photo": {
-            "id": 603674632,
-            "license_code": "cc-by-nc",
-            "original_dimensions": {
-              "width": 2048,
-              "height": 1536
-            },
-            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/603674632/square.jpg",
-            "attribution": "(c) Keith P, some rights reserved (CC BY-NC)",
-            "flags": [],
-            "moderator_actions": [],
-            "hidden": false
-          }
-        }
-      ],
-      "geojson": {
-        "type": "Point",
-        "coordinates": [
-          -118.39307033,
-          33.7381547
-        ]
-      },
-      "place_guess": "San Pedro Channel, Rancho Palos Verdes, CA, US"
     }
   ]
 }
