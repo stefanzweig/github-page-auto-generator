@@ -1,5 +1,5 @@
 {
-  "total_results": 8431,
+  "total_results": 7897,
   "page": 1,
   "per_page": 30,
   "results": [
@@ -311,40 +311,6 @@
       "place_guess": "Monterey, CA, USA"
     },
     {
-      "id": 333245730,
-      "time_observed_at": "2026-01-02T14:43:00-08:00",
-      "observed_time_zone": "America/Los_Angeles",
-      "observation_photos": [
-        {
-          "id": 561247718,
-          "position": 0,
-          "uuid": "cad1c095-bfa7-46e0-9f52-203b0f6dcf2a",
-          "photo_id": 604963705,
-          "photo": {
-            "id": 604963705,
-            "license_code": "cc-by-nc",
-            "original_dimensions": {
-              "width": 2048,
-              "height": 1536
-            },
-            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/604963705/square.jpg",
-            "attribution": "(c) Yimo Yang, some rights reserved (CC BY-NC)",
-            "flags": [],
-            "moderator_actions": [],
-            "hidden": false
-          }
-        }
-      ],
-      "geojson": {
-        "type": "Point",
-        "coordinates": [
-          -122.2823305021,
-          37.7655554024
-        ]
-      },
-      "place_guess": "Alameda, CA"
-    },
-    {
       "id": 333175662,
       "time_observed_at": "2026-01-02T09:43:46-08:00",
       "observed_time_zone": "America/Los_Angeles",
@@ -430,112 +396,6 @@
         ]
       },
       "place_guess": "Malibu, CA, USA"
-    },
-    {
-      "id": 333108354,
-      "time_observed_at": "2026-01-01T16:50:02-08:00",
-      "observed_time_zone": "America/Los_Angeles",
-      "observation_photos": [
-        {
-          "id": 560999363,
-          "position": 0,
-          "uuid": "bad76661-8372-4aa3-b6f2-64e08bb188dd",
-          "photo_id": 604688573,
-          "photo": {
-            "id": 604688573,
-            "license_code": "cc-by-nc",
-            "original_dimensions": {
-              "width": 2048,
-              "height": 1536
-            },
-            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/604688573/square.jpg",
-            "attribution": "(c) Jude Magann, some rights reserved (CC BY-NC)",
-            "flags": [],
-            "moderator_actions": [],
-            "hidden": false
-          }
-        },
-        {
-          "id": 560999390,
-          "position": 1,
-          "uuid": "52a5fc06-ba9b-422b-93d9-fa34b76b66d1",
-          "photo_id": 604688592,
-          "photo": {
-            "id": 604688592,
-            "license_code": "cc-by-nc",
-            "original_dimensions": {
-              "width": 2048,
-              "height": 1536
-            },
-            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/604688592/square.jpg",
-            "attribution": "(c) Jude Magann, some rights reserved (CC BY-NC)",
-            "flags": [],
-            "moderator_actions": [],
-            "hidden": false
-          }
-        }
-      ],
-      "geojson": {
-        "type": "Point",
-        "coordinates": [
-          -122.539511689,
-          37.8311765352
-        ]
-      },
-      "place_guess": "Rodeo Cove, CA, US"
-    },
-    {
-      "id": 333108231,
-      "time_observed_at": "2026-01-01T16:45:49-08:00",
-      "observed_time_zone": "America/Los_Angeles",
-      "observation_photos": [
-        {
-          "id": 560999151,
-          "position": 0,
-          "uuid": "83c4a851-872d-4ae1-8216-2c3b2cb39aff",
-          "photo_id": 604688418,
-          "photo": {
-            "id": 604688418,
-            "license_code": "cc-by-nc",
-            "original_dimensions": {
-              "width": 2048,
-              "height": 1536
-            },
-            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/604688418/square.jpg",
-            "attribution": "(c) Jude Magann, some rights reserved (CC BY-NC)",
-            "flags": [],
-            "moderator_actions": [],
-            "hidden": false
-          }
-        },
-        {
-          "id": 560999209,
-          "position": 1,
-          "uuid": "99fc20c5-bb42-4125-b752-53e1a222f400",
-          "photo_id": 604688431,
-          "photo": {
-            "id": 604688431,
-            "license_code": "cc-by-nc",
-            "original_dimensions": {
-              "width": 2048,
-              "height": 1536
-            },
-            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/604688431/square.jpg",
-            "attribution": "(c) Jude Magann, some rights reserved (CC BY-NC)",
-            "flags": [],
-            "moderator_actions": [],
-            "hidden": false
-          }
-        }
-      ],
-      "geojson": {
-        "type": "Point",
-        "coordinates": [
-          -122.5387541888,
-          37.8302928001
-        ]
-      },
-      "place_guess": "Rodeo Cove, CA, US"
     },
     {
       "id": 333108214,
@@ -657,59 +517,6 @@
         ]
       },
       "place_guess": "Upper Newport Bay, Newport Beach, CA, US"
-    },
-    {
-      "id": 333174890,
-      "time_observed_at": "2026-01-01T15:57:28-08:00",
-      "observed_time_zone": "America/Los_Angeles",
-      "observation_photos": [
-        {
-          "id": 561117333,
-          "position": 0,
-          "uuid": "0fae9d88-bc09-4cf6-9540-4bb431df2fa9",
-          "photo_id": 604820696,
-          "photo": {
-            "id": 604820696,
-            "license_code": "cc-by-nc",
-            "original_dimensions": {
-              "width": 2048,
-              "height": 1542
-            },
-            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/604820696/square.jpg",
-            "attribution": "(c) Steven Clinton, some rights reserved (CC BY-NC)",
-            "flags": [],
-            "moderator_actions": [],
-            "hidden": false
-          }
-        },
-        {
-          "id": 561117359,
-          "position": 1,
-          "uuid": "d76fad17-5641-4ef6-9935-decf9750d9ca",
-          "photo_id": 604820726,
-          "photo": {
-            "id": 604820726,
-            "license_code": "cc-by-nc",
-            "original_dimensions": {
-              "width": 2048,
-              "height": 1542
-            },
-            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/604820726/square.jpg",
-            "attribution": "(c) Steven Clinton, some rights reserved (CC BY-NC)",
-            "flags": [],
-            "moderator_actions": [],
-            "hidden": false
-          }
-        }
-      ],
-      "geojson": {
-        "type": "Point",
-        "coordinates": [
-          -122.5165305556,
-          37.5206194444
-        ]
-      },
-      "place_guess": "GF9M+JR, Moss Beach, CA, USA"
     },
     {
       "id": 333191832,
@@ -973,74 +780,6 @@
       "place_guess": "Shoreline & Village W, Long Beach, CA 90802, USA"
     },
     {
-      "id": 332949454,
-      "time_observed_at": "2025-12-31T16:45:18-08:00",
-      "observed_time_zone": "America/Los_Angeles",
-      "observation_photos": [
-        {
-          "id": 560708405,
-          "position": 0,
-          "uuid": "83166e1f-8683-4102-ae59-adbcd40aec46",
-          "photo_id": 604365010,
-          "photo": {
-            "id": 604365010,
-            "license_code": "cc-by-nc",
-            "original_dimensions": {
-              "width": 1542,
-              "height": 2048
-            },
-            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/604365010/square.jpg",
-            "attribution": "(c) Ryan Chang, some rights reserved (CC BY-NC)",
-            "flags": [],
-            "moderator_actions": [],
-            "hidden": false
-          }
-        }
-      ],
-      "geojson": {
-        "type": "Point",
-        "coordinates": [
-          -118.35465,
-          33.7305194444
-        ]
-      },
-      "place_guess": "Palos Verdes Estates, CA 90275, USA"
-    },
-    {
-      "id": 332949567,
-      "time_observed_at": "2025-12-31T16:31:02-08:00",
-      "observed_time_zone": "America/Los_Angeles",
-      "observation_photos": [
-        {
-          "id": 560708661,
-          "position": 0,
-          "uuid": "7c48ffe2-9f25-4bdc-bfc8-35482bafd427",
-          "photo_id": 604365225,
-          "photo": {
-            "id": 604365225,
-            "license_code": "cc-by-nc",
-            "original_dimensions": {
-              "width": 1542,
-              "height": 2048
-            },
-            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/604365225/square.jpg",
-            "attribution": "(c) Ryan Chang, some rights reserved (CC BY-NC)",
-            "flags": [],
-            "moderator_actions": [],
-            "hidden": false
-          }
-        }
-      ],
-      "geojson": {
-        "type": "Point",
-        "coordinates": [
-          -118.3522861111,
-          33.72815
-        ]
-      },
-      "place_guess": "Palos Verdes Estates, CA 90275, USA"
-    },
-    {
       "id": 332977575,
       "time_observed_at": "2025-12-31T16:14:30-08:00",
       "observed_time_zone": "America/Los_Angeles",
@@ -1249,40 +988,6 @@
       "place_guess": "Bodega Bay, CA, US"
     },
     {
-      "id": 332842698,
-      "time_observed_at": "2025-12-29T15:48:19-08:00",
-      "observed_time_zone": "America/Los_Angeles",
-      "observation_photos": [
-        {
-          "id": 560509044,
-          "position": 0,
-          "uuid": "ad579a56-9700-4354-a7df-1105b5e18696",
-          "photo_id": 604139380,
-          "photo": {
-            "id": 604139380,
-            "license_code": null,
-            "original_dimensions": {
-              "width": 2048,
-              "height": 1365
-            },
-            "url": "https://static.inaturalist.org/photos/604139380/square.jpg",
-            "attribution": "(c) Matthias Bieber, all rights reserved",
-            "flags": [],
-            "moderator_actions": [],
-            "hidden": false
-          }
-        }
-      ],
-      "geojson": {
-        "type": "Point",
-        "coordinates": [
-          -122.0208318159,
-          36.9609507342
-        ]
-      },
-      "place_guess": "Santa Cruz, CA, USA"
-    },
-    {
       "id": 332749430,
       "time_observed_at": "2025-12-29T12:02:59-08:00",
       "observed_time_zone": "America/Los_Angeles",
@@ -1408,62 +1113,43 @@
       "place_guess": "Shoreline & Village W, Long Beach, CA 90802, USA"
     },
     {
-      "id": 332974343,
-      "time_observed_at": "2025-12-29T10:30:00-08:00",
+      "id": 332609032,
+      "time_observed_at": "2025-12-29T08:57:08-08:00",
       "observed_time_zone": "America/Los_Angeles",
       "observation_photos": [
         {
-          "id": 560753985,
+          "id": 560088023,
           "position": 0,
-          "uuid": "9e5942f3-6947-4e13-9a92-56be2a75aa4b",
-          "photo_id": 604413372,
+          "uuid": "b01bee8a-071f-49e9-8545-c52d7ce0aae6",
+          "photo_id": 603674614,
           "photo": {
-            "id": 604413372,
+            "id": 603674614,
             "license_code": "cc-by-nc",
             "original_dimensions": {
               "width": 2048,
-              "height": 1528
+              "height": 1536
             },
-            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/604413372/square.jpg",
-            "attribution": "(c) Jason Au, some rights reserved (CC BY-NC)",
+            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/603674614/square.jpg",
+            "attribution": "(c) Keith P, some rights reserved (CC BY-NC)",
             "flags": [],
             "moderator_actions": [],
             "hidden": false
           }
         },
         {
-          "id": 560753986,
+          "id": 560088033,
           "position": 1,
-          "uuid": "600487f2-cd5d-457e-ae42-66a4763f9a40",
-          "photo_id": 604413388,
+          "uuid": "b92fc086-360d-47e6-a63a-3c71b9d6e1fd",
+          "photo_id": 603674632,
           "photo": {
-            "id": 604413388,
+            "id": 603674632,
             "license_code": "cc-by-nc",
             "original_dimensions": {
               "width": 2048,
-              "height": 1528
+              "height": 1536
             },
-            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/604413388/square.jpg",
-            "attribution": "(c) Jason Au, some rights reserved (CC BY-NC)",
-            "flags": [],
-            "moderator_actions": [],
-            "hidden": false
-          }
-        },
-        {
-          "id": 560753987,
-          "position": 2,
-          "uuid": "e546da04-bc6b-4222-beec-d89754676e7c",
-          "photo_id": 604413404,
-          "photo": {
-            "id": 604413404,
-            "license_code": "cc-by-nc",
-            "original_dimensions": {
-              "width": 2048,
-              "height": 1528
-            },
-            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/604413404/square.jpg",
-            "attribution": "(c) Jason Au, some rights reserved (CC BY-NC)",
+            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/603674632/square.jpg",
+            "attribution": "(c) Keith P, some rights reserved (CC BY-NC)",
             "flags": [],
             "moderator_actions": [],
             "hidden": false
@@ -1473,11 +1159,306 @@
       "geojson": {
         "type": "Point",
         "coordinates": [
-          -122.2123980867,
-          37.7382244004
+          -118.39307033,
+          33.7381547
         ]
       },
-      "place_guess": "Oakland, CA, USA"
+      "place_guess": "San Pedro Channel, Rancho Palos Verdes, CA, US"
+    },
+    {
+      "id": 332513569,
+      "time_observed_at": "2025-12-28T15:06:21-08:00",
+      "observed_time_zone": "America/Los_Angeles",
+      "observation_photos": [
+        {
+          "id": 559898811,
+          "position": 0,
+          "uuid": "a42d2eed-11c2-4a37-9ade-12227001732e",
+          "photo_id": 603464589,
+          "photo": {
+            "id": 603464589,
+            "license_code": "cc-by-nc",
+            "original_dimensions": {
+              "width": 1536,
+              "height": 2048
+            },
+            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/603464589/square.jpg",
+            "attribution": "(c) Olive L., some rights reserved (CC BY-NC)",
+            "flags": [],
+            "moderator_actions": [],
+            "hidden": false
+          }
+        },
+        {
+          "id": 559898825,
+          "position": 1,
+          "uuid": "58f38577-9931-4a41-b183-657fe6b4288e",
+          "photo_id": 603464621,
+          "photo": {
+            "id": 603464621,
+            "license_code": "cc-by-nc",
+            "original_dimensions": {
+              "width": 1536,
+              "height": 2048
+            },
+            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/603464621/square.jpg",
+            "attribution": "(c) Olive L., some rights reserved (CC BY-NC)",
+            "flags": [],
+            "moderator_actions": [],
+            "hidden": false
+          }
+        }
+      ],
+      "geojson": {
+        "type": "Point",
+        "coordinates": [
+          -117.2731907043,
+          32.8512406167
+        ]
+      },
+      "place_guess": "North Pacific Ocean, San Diego, CA, US"
+    },
+    {
+      "id": 332633339,
+      "time_observed_at": "2025-12-27T16:32:00-08:00",
+      "observed_time_zone": "America/Los_Angeles",
+      "observation_photos": [
+        {
+          "id": 560122089,
+          "position": 0,
+          "uuid": "97224aa3-cbb8-4b88-9b0a-2080eb5c5f08",
+          "photo_id": 603707294,
+          "photo": {
+            "id": 603707294,
+            "license_code": null,
+            "original_dimensions": {
+              "width": 2048,
+              "height": 1365
+            },
+            "url": "https://static.inaturalist.org/photos/603707294/square.jpg",
+            "attribution": "(c) Kellen Vance, all rights reserved",
+            "flags": [],
+            "moderator_actions": [],
+            "hidden": false
+          }
+        }
+      ],
+      "geojson": {
+        "type": "Point",
+        "coordinates": [
+          -117.228200611,
+          32.7497433303
+        ]
+      },
+      "place_guess": "Point Loma Heights, San Diego, CA, USA"
+    },
+    {
+      "id": 332629842,
+      "time_observed_at": "2025-12-27T15:46:00-08:00",
+      "observed_time_zone": "America/Los_Angeles",
+      "observation_photos": [
+        {
+          "id": 560115633,
+          "position": 0,
+          "uuid": "d7a9da2f-d243-4a1c-8c1f-c62156a760ed",
+          "photo_id": 603698932,
+          "photo": {
+            "id": 603698932,
+            "license_code": null,
+            "original_dimensions": {
+              "width": 2048,
+              "height": 1365
+            },
+            "url": "https://static.inaturalist.org/photos/603698932/square.jpg",
+            "attribution": "(c) Kellen Vance, all rights reserved",
+            "flags": [],
+            "moderator_actions": [],
+            "hidden": false
+          }
+        },
+        {
+          "id": 560115634,
+          "position": 1,
+          "uuid": "e689b252-5f84-492f-8867-48193cab84a9",
+          "photo_id": 603698939,
+          "photo": {
+            "id": 603698939,
+            "license_code": null,
+            "original_dimensions": {
+              "width": 2048,
+              "height": 1365
+            },
+            "url": "https://static.inaturalist.org/photos/603698939/square.jpg",
+            "attribution": "(c) Kellen Vance, all rights reserved",
+            "flags": [],
+            "moderator_actions": [],
+            "hidden": false
+          }
+        }
+      ],
+      "geojson": {
+        "type": "Point",
+        "coordinates": [
+          -117.2400774358,
+          32.7573566541
+        ]
+      },
+      "place_guess": "Ocean Beach, San Diego, CA, USA"
+    },
+    {
+      "id": 332403828,
+      "time_observed_at": "2025-12-27T13:44:00-08:00",
+      "observed_time_zone": "America/Los_Angeles",
+      "observation_photos": [
+        {
+          "id": 559698078,
+          "position": 0,
+          "uuid": "e9b63112-9962-4bda-b88e-2b21b02eb1f2",
+          "photo_id": 603243194,
+          "photo": {
+            "id": 603243194,
+            "license_code": null,
+            "original_dimensions": {
+              "width": 2048,
+              "height": 1495
+            },
+            "url": "https://static.inaturalist.org/photos/603243194/square.jpg",
+            "attribution": "(c) Henry Fabian, all rights reserved",
+            "flags": [],
+            "moderator_actions": [],
+            "hidden": false
+          }
+        }
+      ],
+      "geojson": {
+        "type": "Point",
+        "coordinates": [
+          -122.3083377462,
+          37.7740477504
+        ]
+      },
+      "place_guess": "Alameda, CA, USA"
+    },
+    {
+      "id": 332356670,
+      "time_observed_at": "2025-12-27T12:44:27-08:00",
+      "observed_time_zone": "America/Los_Angeles",
+      "observation_photos": [
+        {
+          "id": 559606834,
+          "position": 0,
+          "uuid": "46fc14ae-1fef-40d4-a09f-ffc2c1b6dcdb",
+          "photo_id": 603144243,
+          "photo": {
+            "id": 603144243,
+            "license_code": "cc-by-nc",
+            "original_dimensions": {
+              "width": 2048,
+              "height": 1536
+            },
+            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/603144243/square.jpg",
+            "attribution": "(c) Lydia Cox, some rights reserved (CC BY-NC)",
+            "flags": [],
+            "moderator_actions": [],
+            "hidden": false
+          }
+        }
+      ],
+      "geojson": {
+        "type": "Point",
+        "coordinates": [
+          -122.3119186367,
+          37.1191576133
+        ]
+      },
+      "place_guess": "Año Nuevo State Park, Pescadero, CA, US"
+    },
+    {
+      "id": 332390697,
+      "time_observed_at": "2025-12-27T12:29:00-08:00",
+      "observed_time_zone": "America/Los_Angeles",
+      "observation_photos": [
+        {
+          "id": 559672759,
+          "position": 0,
+          "uuid": "fc1928a8-e02b-481c-8a2c-35fb7cfa3bb5",
+          "photo_id": 603211853,
+          "photo": {
+            "id": 603211853,
+            "license_code": "cc-by-nc",
+            "original_dimensions": {
+              "width": 2048,
+              "height": 1536
+            },
+            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/603211853/square.jpg",
+            "attribution": "(c) James Maughn, some rights reserved (CC BY-NC)",
+            "flags": [],
+            "moderator_actions": [],
+            "hidden": false
+          }
+        }
+      ],
+      "geojson": {
+        "type": "Point",
+        "coordinates": [
+          -121.9876657271,
+          36.9056284914
+        ]
+      },
+      "place_guess": "Santa Cruz County, CA, USA"
+    },
+    {
+      "id": 332401380,
+      "time_observed_at": "2025-12-27T12:07:00-08:00",
+      "observed_time_zone": "America/Los_Angeles",
+      "observation_photos": [
+        {
+          "id": 559693549,
+          "position": 0,
+          "uuid": "aa3980e2-adc5-45c0-9541-3406055caf91",
+          "photo_id": 603238521,
+          "photo": {
+            "id": 603238521,
+            "license_code": null,
+            "original_dimensions": {
+              "width": 2048,
+              "height": 1360
+            },
+            "url": "https://static.inaturalist.org/photos/603238521/square.jpg",
+            "attribution": "(c) Henry Fabian, all rights reserved",
+            "flags": [],
+            "moderator_actions": [],
+            "hidden": false
+          }
+        },
+        {
+          "id": 559693651,
+          "position": 1,
+          "uuid": "c17dfe96-85cd-4031-ab22-3cbc2f24906f",
+          "photo_id": 603238642,
+          "photo": {
+            "id": 603238642,
+            "license_code": null,
+            "original_dimensions": {
+              "width": 2048,
+              "height": 1565
+            },
+            "url": "https://static.inaturalist.org/photos/603238642/square.jpg",
+            "attribution": "(c) Henry Fabian, all rights reserved",
+            "flags": [],
+            "moderator_actions": [],
+            "hidden": false
+          }
+        }
+      ],
+      "geojson": {
+        "type": "Point",
+        "coordinates": [
+          -122.28172662,
+          37.7654225538
+        ]
+      },
+      "place_guess": "West Alameda, Alameda, CA 94501, USA"
     }
   ]
 }
