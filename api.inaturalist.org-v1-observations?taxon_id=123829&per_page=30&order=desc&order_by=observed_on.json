@@ -1,5 +1,5 @@
 {
-  "total_results": 9101,
+  "total_results": 8431,
   "page": 1,
   "per_page": 30,
   "results": [
@@ -1283,40 +1283,6 @@
       "place_guess": "Santa Cruz, CA, USA"
     },
     {
-      "id": 332814641,
-      "time_observed_at": "2025-12-29T13:36:51-08:00",
-      "observed_time_zone": "America/Los_Angeles",
-      "observation_photos": [
-        {
-          "id": 560456046,
-          "position": 0,
-          "uuid": "8dc8568e-dfc2-4944-90db-479be88c5697",
-          "photo_id": 604509731,
-          "photo": {
-            "id": 604509731,
-            "license_code": "cc-by-nc",
-            "original_dimensions": {
-              "width": 1536,
-              "height": 2048
-            },
-            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/604509731/square.jpg",
-            "attribution": "(c) Nikki Aguilar, some rights reserved (CC BY-NC)",
-            "flags": [],
-            "moderator_actions": [],
-            "hidden": false
-          }
-        }
-      ],
-      "geojson": {
-        "type": "Point",
-        "coordinates": [
-          -120.8536,
-          35.3654533333
-        ]
-      },
-      "place_guess": "Embarcadero, Morro Bay, CA, US"
-    },
-    {
       "id": 332749430,
       "time_observed_at": "2025-12-29T12:02:59-08:00",
       "observed_time_zone": "America/Los_Angeles",
@@ -1440,6 +1406,78 @@
         ]
       },
       "place_guess": "Shoreline & Village W, Long Beach, CA 90802, USA"
+    },
+    {
+      "id": 332974343,
+      "time_observed_at": "2025-12-29T10:30:00-08:00",
+      "observed_time_zone": "America/Los_Angeles",
+      "observation_photos": [
+        {
+          "id": 560753985,
+          "position": 0,
+          "uuid": "9e5942f3-6947-4e13-9a92-56be2a75aa4b",
+          "photo_id": 604413372,
+          "photo": {
+            "id": 604413372,
+            "license_code": "cc-by-nc",
+            "original_dimensions": {
+              "width": 2048,
+              "height": 1528
+            },
+            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/604413372/square.jpg",
+            "attribution": "(c) Jason Au, some rights reserved (CC BY-NC)",
+            "flags": [],
+            "moderator_actions": [],
+            "hidden": false
+          }
+        },
+        {
+          "id": 560753986,
+          "position": 1,
+          "uuid": "600487f2-cd5d-457e-ae42-66a4763f9a40",
+          "photo_id": 604413388,
+          "photo": {
+            "id": 604413388,
+            "license_code": "cc-by-nc",
+            "original_dimensions": {
+              "width": 2048,
+              "height": 1528
+            },
+            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/604413388/square.jpg",
+            "attribution": "(c) Jason Au, some rights reserved (CC BY-NC)",
+            "flags": [],
+            "moderator_actions": [],
+            "hidden": false
+          }
+        },
+        {
+          "id": 560753987,
+          "position": 2,
+          "uuid": "e546da04-bc6b-4222-beec-d89754676e7c",
+          "photo_id": 604413404,
+          "photo": {
+            "id": 604413404,
+            "license_code": "cc-by-nc",
+            "original_dimensions": {
+              "width": 2048,
+              "height": 1528
+            },
+            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/604413404/square.jpg",
+            "attribution": "(c) Jason Au, some rights reserved (CC BY-NC)",
+            "flags": [],
+            "moderator_actions": [],
+            "hidden": false
+          }
+        }
+      ],
+      "geojson": {
+        "type": "Point",
+        "coordinates": [
+          -122.2123980867,
+          37.7382244004
+        ]
+      },
+      "place_guess": "Oakland, CA, USA"
     }
   ]
 }
