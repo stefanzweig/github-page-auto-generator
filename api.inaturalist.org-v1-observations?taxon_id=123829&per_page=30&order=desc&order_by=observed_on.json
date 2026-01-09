@@ -1,8 +1,42 @@
 {
-  "total_results": 7904,
+  "total_results": 7905,
   "page": 1,
   "per_page": 30,
   "results": [
+    {
+      "id": 334005440,
+      "time_observed_at": "2026-01-08T12:16:46-08:00",
+      "observed_time_zone": "America/Los_Angeles",
+      "observation_photos": [
+        {
+          "id": 562596083,
+          "position": 0,
+          "uuid": "c8bce5fc-9e94-49f7-9ce0-34e949928675",
+          "photo_id": 606456930,
+          "photo": {
+            "id": 606456930,
+            "license_code": null,
+            "original_dimensions": {
+              "width": 1542,
+              "height": 2048
+            },
+            "url": "https://static.inaturalist.org/photos/606456930/square.jpg",
+            "attribution": "(c) melissa showman, all rights reserved",
+            "flags": [],
+            "moderator_actions": [],
+            "hidden": false
+          }
+        }
+      ],
+      "geojson": {
+        "type": "Point",
+        "coordinates": [
+          -117.2778837942,
+          32.8474815935
+        ]
+      },
+      "place_guess": "Village of La Jolla, San Diego, CA 92037, USA"
+    },
     {
       "id": 333959258,
       "time_observed_at": "2026-01-07T16:32:14-08:00",
@@ -1406,40 +1440,6 @@
         ]
       },
       "place_guess": "Ocean Beach, San Diego, CA, USA"
-    },
-    {
-      "id": 332403828,
-      "time_observed_at": "2025-12-27T13:44:00-08:00",
-      "observed_time_zone": "America/Los_Angeles",
-      "observation_photos": [
-        {
-          "id": 559698078,
-          "position": 0,
-          "uuid": "e9b63112-9962-4bda-b88e-2b21b02eb1f2",
-          "photo_id": 603243194,
-          "photo": {
-            "id": 603243194,
-            "license_code": null,
-            "original_dimensions": {
-              "width": 2048,
-              "height": 1495
-            },
-            "url": "https://static.inaturalist.org/photos/603243194/square.jpg",
-            "attribution": "(c) Henry Fabian, all rights reserved",
-            "flags": [],
-            "moderator_actions": [],
-            "hidden": false
-          }
-        }
-      ],
-      "geojson": {
-        "type": "Point",
-        "coordinates": [
-          -122.3083377462,
-          37.7740477504
-        ]
-      },
-      "place_guess": "Alameda, CA, USA"
     }
   ]
 }
