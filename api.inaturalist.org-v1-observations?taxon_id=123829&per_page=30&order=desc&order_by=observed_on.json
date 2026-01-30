@@ -1,8 +1,42 @@
 {
-  "total_results": 7997,
+  "total_results": 7998,
   "page": 1,
   "per_page": 30,
   "results": [
+    {
+      "id": 336657424,
+      "time_observed_at": "2026-01-29T14:32:00-08:00",
+      "observed_time_zone": "America/Los_Angeles",
+      "observation_photos": [
+        {
+          "id": 567453677,
+          "position": 0,
+          "uuid": "df3fab0a-3544-4819-9e7b-7af2f89fc04e",
+          "photo_id": 611828214,
+          "photo": {
+            "id": 611828214,
+            "license_code": "cc-by-nc",
+            "original_dimensions": {
+              "width": 2048,
+              "height": 1536
+            },
+            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/611828214/square.jpg",
+            "attribution": "(c) James Maughn, some rights reserved (CC BY-NC)",
+            "flags": [],
+            "moderator_actions": [],
+            "hidden": false
+          }
+        }
+      ],
+      "geojson": {
+        "type": "Point",
+        "coordinates": [
+          -122.0955222106,
+          36.9548096169
+        ]
+      },
+      "place_guess": "Santa Cruz County, CA, USA"
+    },
     {
       "id": 336595362,
       "time_observed_at": "2026-01-29T09:18:07-08:00",
@@ -1653,40 +1687,6 @@
         ]
       },
       "place_guess": "Stearns Wharf, Santa Barbara, CA, US"
-    },
-    {
-      "id": 335509890,
-      "time_observed_at": "2026-01-19T10:08:33-08:00",
-      "observed_time_zone": "America/Los_Angeles",
-      "observation_photos": [
-        {
-          "id": 565364132,
-          "position": 0,
-          "uuid": "95a74fa1-4b85-4009-afcd-e2f2db35e2ba",
-          "photo_id": 609515169,
-          "photo": {
-            "id": 609515169,
-            "license_code": "cc-by-nc",
-            "original_dimensions": {
-              "width": 2048,
-              "height": 1536
-            },
-            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/609515169/square.jpg",
-            "attribution": "(c) Keith P, some rights reserved (CC BY-NC)",
-            "flags": [],
-            "moderator_actions": [],
-            "hidden": false
-          }
-        }
-      ],
-      "geojson": {
-        "type": "Point",
-        "coordinates": [
-          -118.0514692355,
-          33.7019174333
-        ]
-      },
-      "place_guess": "Anaheim Bay, Huntington Beach, CA, US"
     }
   ]
 }
